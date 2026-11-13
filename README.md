@@ -39,6 +39,8 @@ npm run build
 
 The build fetches Google fonts. Data-refresh scripts access public upstream files; refresh deliberately and validate results before presenting them as current.
 
+This historical snapshot retains its original dependency versions. A dependency audit on 13 November 2026 reported advisories, including a critical Next.js advisory. Review and update dependencies before deploying your own copy; this repository is not a production-ready starter. The hosted portfolio demo is a separate static implementation and does not run this Next.js application.
+
 ## Evidence and attribution
 
 UK data comes from official pesticide-residue monitoring, USDA data from the Pesticide Data Program, and European data from EFSA official-control results. Each dataset retains source links and applicable licensing metadata. UK data contains public sector information licensed under the Open Government Licence v3.0. Upstream data rights and attribution requirements remain applicable.
