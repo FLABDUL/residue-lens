@@ -1,0 +1,7157 @@
+[
+  {
+    "id": "a-a-berries",
+    "name": "Açaí berries",
+    "subject": "labelled-fruit-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "cut-14gvpuj",
+    "monogram": "AAB"
+  },
+  {
+    "id": "alkekengi",
+    "name": "Alkekengi",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "window-wwu1qi",
+    "monogram": "AL"
+  },
+  {
+    "id": "allspice-fruit",
+    "name": "Allspice fruit",
+    "subject": "spice-jar",
+    "form": "jar",
+    "accent": "gold",
+    "detail": "band-1jwui21",
+    "monogram": "AF"
+  },
+  {
+    "id": "almond-oil",
+    "name": "Almond oil",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-1514ss3",
+    "monogram": "AO"
+  },
+  {
+    "id": "almonds",
+    "name": "Almonds",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "stripe-1cyvlxf",
+    "monogram": "AL"
+  },
+  {
+    "id": "american-persimmons-and-similar",
+    "name": "American persimmons and similar",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "stripe-geejer",
+    "monogram": "APA"
+  },
+  {
+    "id": "american-plums",
+    "name": "American plums",
+    "subject": "stone-fruit",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "seeds-1mwehfd",
+    "monogram": "AP"
+  },
+  {
+    "id": "animal-fats",
+    "name": "Animal fats",
+    "subject": "fat-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "band-1ej7bu4",
+    "monogram": "AF"
+  },
+  {
+    "id": "animal-kidney",
+    "name": "Animal kidney",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "band-cjmiig",
+    "monogram": "AK"
+  },
+  {
+    "id": "animal-liver",
+    "name": "Animal liver",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "seeds-899ig0",
+    "monogram": "AL"
+  },
+  {
+    "id": "anise-seed",
+    "name": "Anise seed",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "dots-bsthnp",
+    "monogram": "AS"
+  },
+  {
+    "id": "apple-juice",
+    "name": "Apple juice",
+    "subject": "apple",
+    "form": "drink",
+    "accent": "leaf",
+    "detail": "dots-ifqfau",
+    "monogram": "AJ"
+  },
+  {
+    "id": "apple-sauce",
+    "name": "Apple Sauce",
+    "subject": "apple",
+    "form": "jar",
+    "accent": "gold",
+    "detail": "seeds-1pzpsj1",
+    "monogram": "AS"
+  },
+  {
+    "id": "apples",
+    "name": "Apples",
+    "subject": "apple",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "dots-a1r5t0",
+    "monogram": "AP"
+  },
+  {
+    "id": "apples-and-similar",
+    "name": "Apples and similar",
+    "subject": "apple",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "band-whlyhs",
+    "monogram": "AAS"
+  },
+  {
+    "id": "apples-single-servings",
+    "name": "Apples-Single Servings",
+    "subject": "apple",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "seeds-xot54f",
+    "monogram": "ASS"
+  },
+  {
+    "id": "applesauce",
+    "name": "Applesauce",
+    "subject": "apple",
+    "form": "jar",
+    "accent": "coral",
+    "detail": "window-1ok28ue",
+    "monogram": "AP"
+  },
+  {
+    "id": "apricots",
+    "name": "Apricots",
+    "subject": "stone-fruit",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "stripe-e7us62",
+    "monogram": "AP"
+  },
+  {
+    "id": "apricots-and-similar",
+    "name": "Apricots and similar",
+    "subject": "stone-fruit",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-ka3256",
+    "monogram": "AAS"
+  },
+  {
+    "id": "arabian-coffee-beans",
+    "name": "Arabian coffee beans",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "stripe-v9cl1w",
+    "monogram": "ACB"
+  },
+  {
+    "id": "aromatic-herbs",
+    "name": "Aromatic herbs",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "band-12em84y",
+    "monogram": "AH"
+  },
+  {
+    "id": "asparagus",
+    "name": "Asparagus",
+    "subject": "asparagus",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "band-7k69bc",
+    "monogram": "AS"
+  },
+  {
+    "id": "asparagus-and-similar",
+    "name": "Asparagus and similar",
+    "subject": "asparagus",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "dots-17bizvo",
+    "monogram": "AAS"
+  },
+  {
+    "id": "asparagus-canned",
+    "name": "Asparagus, Canned",
+    "subject": "asparagus",
+    "form": "tin",
+    "accent": "sky",
+    "detail": "band-1vs07za",
+    "monogram": "AC"
+  },
+  {
+    "id": "aubergines",
+    "name": "Aubergines",
+    "subject": "aubergine",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-mpetb2",
+    "monogram": "AU"
+  },
+  {
+    "id": "aubergines-and-similar",
+    "name": "Aubergines and similar",
+    "subject": "aubergine",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "seeds-lwhmri",
+    "monogram": "AAS"
+  },
+  {
+    "id": "avocado",
+    "name": "Avocado",
+    "subject": "avocado-half",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "stripe-1f6xjku",
+    "monogram": "AV"
+  },
+  {
+    "id": "avocados",
+    "name": "Avocados",
+    "subject": "avocado-half",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "cut-184bkd3",
+    "monogram": "AV"
+  },
+  {
+    "id": "avocados-and-similar",
+    "name": "Avocados and similar",
+    "subject": "avocado-half",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "band-1ne18a3",
+    "monogram": "AAS"
+  },
+  {
+    "id": "baby-carrots",
+    "name": "Baby carrots",
+    "subject": "carrot",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "dots-hm6ejs",
+    "monogram": "BC"
+  },
+  {
+    "id": "baby-food-applesauce",
+    "name": "Baby Food - Applesauce",
+    "subject": "apple",
+    "form": "jar",
+    "accent": "coral",
+    "detail": "dots-17ecapk",
+    "monogram": "BFA"
+  },
+  {
+    "id": "baby-food-carrots",
+    "name": "Baby Food - Carrots",
+    "subject": "carrot",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "window-25l7o5",
+    "monogram": "BFC"
+  },
+  {
+    "id": "baby-food-green-beans",
+    "name": "Baby Food - Green Beans",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-pixwc8",
+    "monogram": "BFG"
+  },
+  {
+    "id": "baby-food-peaches",
+    "name": "Baby Food - Peaches",
+    "subject": "stone-fruit",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "band-4hvw4s",
+    "monogram": "BFP"
+  },
+  {
+    "id": "baby-food-pears",
+    "name": "Baby Food - Pears",
+    "subject": "pear",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "seeds-aoeheo",
+    "monogram": "BFP"
+  },
+  {
+    "id": "baby-food-peas",
+    "name": "Baby Food - Peas",
+    "subject": "pea-pod",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-1mzqqkg",
+    "monogram": "BFP"
+  },
+  {
+    "id": "baby-food-sweet-potato",
+    "name": "Baby Food - Sweet Potato",
+    "subject": "sweet-potato",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-1gratcj",
+    "monogram": "BFS"
+  },
+  {
+    "id": "baby-food-sweet-potatoe",
+    "name": "Baby Food - Sweet Potatoe",
+    "subject": "sweet-potato",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-1k432ki",
+    "monogram": "BFS"
+  },
+  {
+    "id": "baby-food-sweet-potatoes",
+    "name": "Baby Food - Sweet Potatoes",
+    "subject": "sweet-potato",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "seeds-3zg8tf",
+    "monogram": "BFS"
+  },
+  {
+    "id": "baby-leaf-spinaches",
+    "name": "Baby leaf spinaches",
+    "subject": "spinach",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-f1bl65",
+    "monogram": "BLS"
+  },
+  {
+    "id": "bananas",
+    "name": "Bananas",
+    "subject": "banana",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "window-15d1ic9",
+    "monogram": "BA"
+  },
+  {
+    "id": "bananas-and-similar",
+    "name": "Bananas and similar",
+    "subject": "banana",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "seeds-1qtp2w1",
+    "monogram": "BAS"
+  },
+  {
+    "id": "barley",
+    "name": "Barley",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-5w3mac",
+    "monogram": "BA"
+  },
+  {
+    "id": "barley-grains",
+    "name": "Barley grains",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "dots-cb4l8b",
+    "monogram": "BG"
+  },
+  {
+    "id": "basil",
+    "name": "Basil",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-1wbag0w",
+    "monogram": "BA"
+  },
+  {
+    "id": "basils-and-mints",
+    "name": "Basils and mints",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "seeds-1m93mlt",
+    "monogram": "BAM"
+  },
+  {
+    "id": "beans-dry-and-similar",
+    "name": "Beans (dry) and similar",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-1icdsww",
+    "monogram": "BDA"
+  },
+  {
+    "id": "beans-with-pods-and-similar",
+    "name": "Beans (with pods) and similar",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-1ma5xhm",
+    "monogram": "BWP"
+  },
+  {
+    "id": "beef",
+    "name": "Beef",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "stripe-1cdlvff",
+    "monogram": "BE"
+  },
+  {
+    "id": "beef-adipose",
+    "name": "Beef Adipose",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-1ba4srj",
+    "monogram": "BA"
+  },
+  {
+    "id": "beef-kidney",
+    "name": "Beef kidney",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "band-zyjbju",
+    "monogram": "BK"
+  },
+  {
+    "id": "beef-liver",
+    "name": "Beef Liver",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-1c7ko8e",
+    "monogram": "BL"
+  },
+  {
+    "id": "beef-muscle",
+    "name": "Beef Muscle",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "seeds-wtxctt",
+    "monogram": "BM"
+  },
+  {
+    "id": "beef-tallow-including-processed-suet",
+    "name": "Beef tallow (including processed suet)",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-1fzb9ca",
+    "monogram": "BTI"
+  },
+  {
+    "id": "beer",
+    "name": "Beer",
+    "subject": "drink-glass",
+    "form": "drink",
+    "accent": "berry",
+    "detail": "band-191qn3r",
+    "monogram": "BE"
+  },
+  {
+    "id": "beetroot",
+    "name": "Beetroot",
+    "subject": "beetroot",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "cut-1cfo4yh",
+    "monogram": "BE"
+  },
+  {
+    "id": "beetroot-leaves",
+    "name": "Beetroot leaves",
+    "subject": "beetroot",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "window-1qc6tg0",
+    "monogram": "BL"
+  },
+  {
+    "id": "beetroots",
+    "name": "Beetroots",
+    "subject": "beetroot",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-fc22fy",
+    "monogram": "BE"
+  },
+  {
+    "id": "beets-canned",
+    "name": "Beets, Canned",
+    "subject": "beetroot",
+    "form": "tin",
+    "accent": "sky",
+    "detail": "seeds-zs9m5g",
+    "monogram": "BC"
+  },
+  {
+    "id": "berries-and-small-fruits",
+    "name": "Berries and small fruits",
+    "subject": "labelled-fruit-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "dots-1633meb",
+    "monogram": "BAS"
+  },
+  {
+    "id": "bilberries-european-blueberries",
+    "name": "Bilberries (European blueberries)",
+    "subject": "blueberry",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-1e31w4z",
+    "monogram": "BEB"
+  },
+  {
+    "id": "biscuits-rusks-and-cookies-for-children",
+    "name": "Biscuits, rusks and cookies for children",
+    "subject": "snack-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "cut-u82mfg",
+    "monogram": "BRA"
+  },
+  {
+    "id": "bitter-almonds",
+    "name": "Bitter almonds",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "seeds-nwwsty",
+    "monogram": "BA"
+  },
+  {
+    "id": "black-beans-canned",
+    "name": "Black Beans, Canned",
+    "subject": "bean-pod",
+    "form": "tin",
+    "accent": "coral",
+    "detail": "dots-11rp4s8",
+    "monogram": "BBC"
+  },
+  {
+    "id": "black-eyed-peas-dry",
+    "name": "Black eyed peas (dry)",
+    "subject": "pea-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-m6ke08",
+    "monogram": "BEP"
+  },
+  {
+    "id": "blackberries",
+    "name": "Blackberries",
+    "subject": "berries",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "cut-19kh3bk",
+    "monogram": "BL"
+  },
+  {
+    "id": "blackberries-and-similar",
+    "name": "Blackberries and similar",
+    "subject": "berries",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "cut-xvxf6k",
+    "monogram": "BAS"
+  },
+  {
+    "id": "blackberries-fresh",
+    "name": "Blackberries, Fresh",
+    "subject": "berries",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "window-rv5v81",
+    "monogram": "BF"
+  },
+  {
+    "id": "blackberries-frozen",
+    "name": "Blackberries, Frozen",
+    "subject": "berries",
+    "form": "frozen-pack",
+    "accent": "mint",
+    "detail": "dots-7i19yh",
+    "monogram": "BF"
+  },
+  {
+    "id": "blackcurrants",
+    "name": "Blackcurrants",
+    "subject": "berries",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-1cq3z7e",
+    "monogram": "BL"
+  },
+  {
+    "id": "blueberries",
+    "name": "Blueberries",
+    "subject": "blueberry",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "cut-pa5a4v",
+    "monogram": "BL"
+  },
+  {
+    "id": "blueberries-and-similar",
+    "name": "Blueberries and similar",
+    "subject": "blueberry",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-1odkzqr",
+    "monogram": "BAS"
+  },
+  {
+    "id": "blueberries-cultivated",
+    "name": "Blueberries, Cultivated",
+    "subject": "blueberry",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "window-gnf6n1",
+    "monogram": "BC"
+  },
+  {
+    "id": "blueberries-cultivated-frozen",
+    "name": "Blueberries (Cultivated), Frozen",
+    "subject": "blueberry",
+    "form": "frozen-pack",
+    "accent": "leaf",
+    "detail": "band-32gi2i",
+    "monogram": "BCF"
+  },
+  {
+    "id": "blueberries-fresh",
+    "name": "Blueberries, Fresh",
+    "subject": "blueberry",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-6s37gy",
+    "monogram": "BF"
+  },
+  {
+    "id": "blueberries-frozen",
+    "name": "Blueberries, Frozen",
+    "subject": "blueberry",
+    "form": "frozen-pack",
+    "accent": "coral",
+    "detail": "cut-1fek7r8",
+    "monogram": "BF"
+  },
+  {
+    "id": "borage-stems",
+    "name": "Borage stems",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "window-1xcqkjs",
+    "monogram": "BS"
+  },
+  {
+    "id": "borlotti-or-other-common-beans-dry",
+    "name": "Borlotti or other common beans (dry)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "stripe-obgdhr",
+    "monogram": "BOO"
+  },
+  {
+    "id": "borlotti-or-other-common-beans-without-pods",
+    "name": "Borlotti or other common beans (without pods)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-coyfa1",
+    "monogram": "BOO"
+  },
+  {
+    "id": "bottle-gourds",
+    "name": "Bottle gourds",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "stripe-kyg8m0",
+    "monogram": "BG"
+  },
+  {
+    "id": "bovine-fat-tissue",
+    "name": "Bovine fat tissue",
+    "subject": "fat-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "window-l0fehg",
+    "monogram": "BFT"
+  },
+  {
+    "id": "bovine-fresh-meat",
+    "name": "Bovine fresh meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-1o5ucg5",
+    "monogram": "BFM"
+  },
+  {
+    "id": "bovine-liver",
+    "name": "Bovine liver",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "seeds-isjxf7",
+    "monogram": "BL"
+  },
+  {
+    "id": "bovine-minced-meat",
+    "name": "Bovine, minced meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "dots-1t1b4s7",
+    "monogram": "BMM"
+  },
+  {
+    "id": "brazil-nuts",
+    "name": "Brazil nuts",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-4hfaza",
+    "monogram": "BN"
+  },
+  {
+    "id": "bread",
+    "name": "Bread",
+    "subject": "bread-loaf",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "seeds-1jlnylh",
+    "monogram": "BR"
+  },
+  {
+    "id": "breakfast-cereal",
+    "name": "Breakfast cereal",
+    "subject": "cereal-bowl",
+    "form": "bowl",
+    "accent": "gold",
+    "detail": "stripe-1s1flhd",
+    "monogram": "BC"
+  },
+  {
+    "id": "brined-cheese-feta-type-and-similar",
+    "name": "Brined cheese (feta-type and similar)",
+    "subject": "cheese-wedge",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "window-guzy1r",
+    "monogram": "BCF"
+  },
+  {
+    "id": "broad-beans-without-pods",
+    "name": "Broad beans (without pods)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "window-w9f7df",
+    "monogram": "BBW"
+  },
+  {
+    "id": "broccoli",
+    "name": "Broccoli",
+    "subject": "broccoli",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-1xeq7r6",
+    "monogram": "BR"
+  },
+  {
+    "id": "broccoli-and-similar",
+    "name": "Broccoli and similar",
+    "subject": "broccoli",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "seeds-t1bhv6",
+    "monogram": "BAS"
+  },
+  {
+    "id": "broccoli-sprouts",
+    "name": "Broccoli sprouts",
+    "subject": "broccoli",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-torxn5",
+    "monogram": "BS"
+  },
+  {
+    "id": "brown-mustard-seeds",
+    "name": "Brown mustard seeds",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "seeds-md5uwb",
+    "monogram": "BMS"
+  },
+  {
+    "id": "brussels-sprouts",
+    "name": "Brussels sprouts",
+    "subject": "brussels-sprouts",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-1h99mtn",
+    "monogram": "BS"
+  },
+  {
+    "id": "brussels-sprouts-and-similar",
+    "name": "Brussels sprouts and similar",
+    "subject": "brussels-sprouts",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-1pm1t27",
+    "monogram": "BSA"
+  },
+  {
+    "id": "buckwheat",
+    "name": "Buckwheat",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "seeds-1py8609",
+    "monogram": "BU"
+  },
+  {
+    "id": "buckwheat-flour",
+    "name": "Buckwheat flour",
+    "subject": "grain-ear",
+    "form": "dry-pack",
+    "accent": "coral",
+    "detail": "stripe-101ft6w",
+    "monogram": "BF"
+  },
+  {
+    "id": "buckwheat-groats",
+    "name": "Buckwheat groats",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-p2hjws",
+    "monogram": "BG"
+  },
+  {
+    "id": "bulgur",
+    "name": "Bulgur",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "seeds-1jdmkj6",
+    "monogram": "BU"
+  },
+  {
+    "id": "butter",
+    "name": "Butter",
+    "subject": "fat-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "window-m4lm1r",
+    "monogram": "BU"
+  },
+  {
+    "id": "cabbage",
+    "name": "Cabbage",
+    "subject": "round-cabbage",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-1hxoevs",
+    "monogram": "CA"
+  },
+  {
+    "id": "calf-fresh-meat",
+    "name": "Calf fresh meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-17yk3ly",
+    "monogram": "CFM"
+  },
+  {
+    "id": "candied-fruit-mixed-fruit",
+    "name": "Candied fruit, mixed fruit",
+    "subject": "mixed-fruit-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "stripe-1n1odc9",
+    "monogram": "CFM"
+  },
+  {
+    "id": "canned-or-jarred-chickpea",
+    "name": "Canned or jarred chickpea",
+    "subject": "bean-pod",
+    "form": "tin",
+    "accent": "sky",
+    "detail": "band-umhe2m",
+    "monogram": "COJ"
+  },
+  {
+    "id": "canned-or-jarred-fruit",
+    "name": "Canned or jarred fruit",
+    "subject": "labelled-food-pack",
+    "form": "tin",
+    "accent": "sky",
+    "detail": "dots-16bayea",
+    "monogram": "COJ"
+  },
+  {
+    "id": "canned-or-jarred-pear",
+    "name": "Canned or jarred pear",
+    "subject": "pear",
+    "form": "tin",
+    "accent": "coral",
+    "detail": "dots-1ghgb08",
+    "monogram": "COJ"
+  },
+  {
+    "id": "canned-or-jarred-pineapple",
+    "name": "Canned or jarred pineapple",
+    "subject": "apple",
+    "form": "tin",
+    "accent": "coral",
+    "detail": "band-caeqsq",
+    "monogram": "COJ"
+  },
+  {
+    "id": "cantaloupe",
+    "name": "Cantaloupe",
+    "subject": "melon-slice",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "cut-twj361",
+    "monogram": "CA"
+  },
+  {
+    "id": "carambolas",
+    "name": "Carambolas",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "seeds-1l5vktg",
+    "monogram": "CA"
+  },
+  {
+    "id": "caraway-fruit",
+    "name": "Caraway fruit",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "band-qxqnzw",
+    "monogram": "CF"
+  },
+  {
+    "id": "cardamom-fruit",
+    "name": "Cardamom fruit",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "stripe-1v4eiz2",
+    "monogram": "CF"
+  },
+  {
+    "id": "carobs-and-similar",
+    "name": "Carobs and similar",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "window-b7ktvt",
+    "monogram": "CAS"
+  },
+  {
+    "id": "carrots",
+    "name": "Carrots",
+    "subject": "carrot",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "cut-kef4ib",
+    "monogram": "CA"
+  },
+  {
+    "id": "carrots-and-similar",
+    "name": "Carrots and similar",
+    "subject": "carrot",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-6rwnkn",
+    "monogram": "CAS"
+  },
+  {
+    "id": "cashew-nuts",
+    "name": "Cashew nuts",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "dots-1ghlap1",
+    "monogram": "CN"
+  },
+  {
+    "id": "cassava-roots",
+    "name": "Cassava roots",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "cut-1u1egsr",
+    "monogram": "CR"
+  },
+  {
+    "id": "cattle-fresh-fat-tissue",
+    "name": "Cattle fresh fat tissue",
+    "subject": "fat-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "cut-1d3f6vn",
+    "monogram": "CFF"
+  },
+  {
+    "id": "cattle-milk",
+    "name": "Cattle milk",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "leaf",
+    "detail": "dots-15n386u",
+    "monogram": "CM"
+  },
+  {
+    "id": "cauliflower",
+    "name": "Cauliflower",
+    "subject": "cauliflower",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "band-aqfrdw",
+    "monogram": "CA"
+  },
+  {
+    "id": "cauliflowers",
+    "name": "Cauliflowers",
+    "subject": "cauliflower",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "dots-1yhe9th",
+    "monogram": "CA"
+  },
+  {
+    "id": "cauliflowers-and-similar",
+    "name": "Cauliflowers and similar",
+    "subject": "cauliflower",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "band-122f6t9",
+    "monogram": "CAS"
+  },
+  {
+    "id": "celeriacs",
+    "name": "Celeriacs",
+    "subject": "celery",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "cut-oicm9w",
+    "monogram": "CE"
+  },
+  {
+    "id": "celeries",
+    "name": "Celeries",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "window-1gkz3df",
+    "monogram": "CE"
+  },
+  {
+    "id": "celeries-and-similar",
+    "name": "Celeries and similar",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "window-52g787",
+    "monogram": "CAS"
+  },
+  {
+    "id": "celery",
+    "name": "Celery",
+    "subject": "celery",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "seeds-1m9uv77",
+    "monogram": "CE"
+  },
+  {
+    "id": "celery-leaves",
+    "name": "Celery leaves",
+    "subject": "celery",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "stripe-10yxayu",
+    "monogram": "CL"
+  },
+  {
+    "id": "cereal-and-cereal-like-flours",
+    "name": "Cereal and cereal-like flours",
+    "subject": "cereal-bowl",
+    "form": "dry-pack",
+    "accent": "leaf",
+    "detail": "cut-pj22ku",
+    "monogram": "CAC"
+  },
+  {
+    "id": "cereal-grains-and-cereal-like-grains",
+    "name": "Cereal grains (and cereal-like grains)",
+    "subject": "cereal-bowl",
+    "form": "bowl",
+    "accent": "sky",
+    "detail": "window-158lw94",
+    "monogram": "CGA"
+  },
+  {
+    "id": "cereal-primary-derivatives",
+    "name": "Cereal primary derivatives",
+    "subject": "cereal-bowl",
+    "form": "bowl",
+    "accent": "mint",
+    "detail": "dots-1e9cshh",
+    "monogram": "CPD"
+  },
+  {
+    "id": "cereal-rolled-grains",
+    "name": "Cereal rolled grains",
+    "subject": "bread-loaf",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "band-lmk3zx",
+    "monogram": "CRG"
+  },
+  {
+    "id": "cereal-snacks",
+    "name": "Cereal-based snacks",
+    "subject": "cereal-bowl",
+    "form": "bowl",
+    "accent": "mint",
+    "detail": "dots-1iswu3n",
+    "monogram": "CBS"
+  },
+  {
+    "id": "cereals-with-an-added-high-protein-food-which-have-to-be-reconstituted-with-water-or-other-protein-free-liquid",
+    "name": "Cereals with an added high protein food which have to be reconstituted with water or other protein-free liquid",
+    "subject": "cereal-bowl",
+    "form": "drink",
+    "accent": "mint",
+    "detail": "window-1vbm2bt",
+    "monogram": "CWA"
+  },
+  {
+    "id": "chamomile",
+    "name": "Chamomile",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "seeds-1iocbs0",
+    "monogram": "CH"
+  },
+  {
+    "id": "champagne-like-wine",
+    "name": "Champagne-like wine",
+    "subject": "drink-glass",
+    "form": "drink",
+    "accent": "gold",
+    "detail": "stripe-1v486jj",
+    "monogram": "CLW"
+  },
+  {
+    "id": "chanterelles",
+    "name": "Chanterelles",
+    "subject": "mushroom",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "band-nkgwvf",
+    "monogram": "CH"
+  },
+  {
+    "id": "chards",
+    "name": "Chards",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "cut-1k9gn14",
+    "monogram": "CH"
+  },
+  {
+    "id": "chards-and-similar",
+    "name": "Chards and similar",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "stripe-1lqf0wk",
+    "monogram": "CAS"
+  },
+  {
+    "id": "cheese",
+    "name": "Cheese",
+    "subject": "cheese-wedge",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "dots-18ynt7s",
+    "monogram": "CH"
+  },
+  {
+    "id": "cheese-gouda",
+    "name": "Cheese, gouda",
+    "subject": "cheese-wedge",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-1wk21xj",
+    "monogram": "CG"
+  },
+  {
+    "id": "cherimoyas",
+    "name": "Cherimoyas",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "dots-oaeg73",
+    "monogram": "CH"
+  },
+  {
+    "id": "cherries",
+    "name": "Cherries",
+    "subject": "cherries",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-1lyrjws",
+    "monogram": "CH"
+  },
+  {
+    "id": "cherries-and-similar",
+    "name": "Cherries and similar",
+    "subject": "cherries",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "seeds-hs7cjc",
+    "monogram": "CAS"
+  },
+  {
+    "id": "cherries-frozen",
+    "name": "Cherries, Frozen",
+    "subject": "cherries",
+    "form": "frozen-pack",
+    "accent": "mint",
+    "detail": "dots-5zu5o5",
+    "monogram": "CF"
+  },
+  {
+    "id": "cherries-sweet",
+    "name": "Cherries (sweet)",
+    "subject": "cherries",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "window-l9l1vl",
+    "monogram": "CS"
+  },
+  {
+    "id": "cherry-tomatoes",
+    "name": "Cherry Tomatoes",
+    "subject": "cherries",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "band-1rb0ze1",
+    "monogram": "CT"
+  },
+  {
+    "id": "chestnuts",
+    "name": "Chestnuts",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "dots-itxcha",
+    "monogram": "CH"
+  },
+  {
+    "id": "chia-seeds",
+    "name": "Chia seeds",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "seeds-123u5fb",
+    "monogram": "CS"
+  },
+  {
+    "id": "chicken-carcase",
+    "name": "Chicken carcase",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "cut-1f4ao7j",
+    "monogram": "CC"
+  },
+  {
+    "id": "chicken-fresh-fat-tissue",
+    "name": "Chicken, fresh fat tissue",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-1pxq1ct",
+    "monogram": "CFF"
+  },
+  {
+    "id": "chicken-fresh-meat",
+    "name": "Chicken fresh meat",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "dots-58vrvv",
+    "monogram": "CFM"
+  },
+  {
+    "id": "chicken-liver",
+    "name": "Chicken liver",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "band-mu7r8p",
+    "monogram": "CL"
+  },
+  {
+    "id": "chickpeas-dry",
+    "name": "Chickpeas (dry)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "seeds-bpjb6s",
+    "monogram": "CD"
+  },
+  {
+    "id": "chickpeas-without-pods",
+    "name": "Chickpeas (without pods)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-xzygxk",
+    "monogram": "CWP"
+  },
+  {
+    "id": "chili-peppers",
+    "name": "Chili peppers",
+    "subject": "chilli",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-cgbc2",
+    "monogram": "CP"
+  },
+  {
+    "id": "chilli-peppers",
+    "name": "Chilli peppers",
+    "subject": "chilli",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-y7j5zs",
+    "monogram": "CP"
+  },
+  {
+    "id": "chinese-broccoli",
+    "name": "Chinese broccoli",
+    "subject": "broccoli",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-1fhu58s",
+    "monogram": "CB"
+  },
+  {
+    "id": "chinese-cabbage",
+    "name": "Chinese cabbage",
+    "subject": "chinese-cabbage",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "cut-x1nnx2",
+    "monogram": "CC"
+  },
+  {
+    "id": "chinese-cabbages",
+    "name": "Chinese cabbages",
+    "subject": "chinese-cabbage",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-9iv0lb",
+    "monogram": "CC"
+  },
+  {
+    "id": "chinese-persimmons",
+    "name": "Chinese persimmons",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "window-1fyhxau",
+    "monogram": "CP"
+  },
+  {
+    "id": "chinottos",
+    "name": "Chinottos",
+    "subject": "citrus-half",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "band-15ji0qc",
+    "monogram": "CH"
+  },
+  {
+    "id": "chironjas",
+    "name": "Chironjas",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "dots-1cbmnqy",
+    "monogram": "CH"
+  },
+  {
+    "id": "chives",
+    "name": "Chives",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "band-1o5wlrp",
+    "monogram": "CH"
+  },
+  {
+    "id": "chocolate",
+    "name": "Chocolate",
+    "subject": "chocolate-bar",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "stripe-ihbw61",
+    "monogram": "CH"
+  },
+  {
+    "id": "cider",
+    "name": "Cider",
+    "subject": "apple",
+    "form": "drink",
+    "accent": "coral",
+    "detail": "seeds-a59d9w",
+    "monogram": "CI"
+  },
+  {
+    "id": "cilantro",
+    "name": "Cilantro",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "band-1ksfvu3",
+    "monogram": "CI"
+  },
+  {
+    "id": "cinnamon-bark",
+    "name": "Cinnamon bark",
+    "subject": "cinnamon-sticks",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "window-1udt08z",
+    "monogram": "CB"
+  },
+  {
+    "id": "citrus-fruits",
+    "name": "Citrus fruits",
+    "subject": "citrus-half",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "seeds-t5dugt",
+    "monogram": "CF"
+  },
+  {
+    "id": "clementines",
+    "name": "Clementines",
+    "subject": "orange-half",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-kecdvq",
+    "monogram": "CL"
+  },
+  {
+    "id": "clotted-cream",
+    "name": "Clotted cream",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "mint",
+    "detail": "stripe-1x4t80h",
+    "monogram": "CC"
+  },
+  {
+    "id": "cloves-buds",
+    "name": "Cloves buds",
+    "subject": "cloves",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "dots-blxbw6",
+    "monogram": "CB"
+  },
+  {
+    "id": "cocoa-beans-and-similar",
+    "name": "Cocoa beans and similar",
+    "subject": "chocolate-bar",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "window-q9tvdi",
+    "monogram": "CBA"
+  },
+  {
+    "id": "cocoa-beans-fermented-or-dried",
+    "name": "Cocoa beans (fermented or dried)",
+    "subject": "chocolate-bar",
+    "form": "dry-pack",
+    "accent": "coral",
+    "detail": "window-2ucfo2",
+    "monogram": "CBF"
+  },
+  {
+    "id": "cocoa-powder",
+    "name": "Cocoa powder",
+    "subject": "chocolate-bar",
+    "form": "dry-pack",
+    "accent": "sky",
+    "detail": "cut-1r45mkm",
+    "monogram": "CP"
+  },
+  {
+    "id": "coconut-oil-fat",
+    "name": "Coconut oil/fat",
+    "subject": "coconut-half",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "cut-dx6z0j",
+    "monogram": "COF"
+  },
+  {
+    "id": "coconuts",
+    "name": "Coconuts",
+    "subject": "coconut-half",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "dots-1rf7u4d",
+    "monogram": "CO"
+  },
+  {
+    "id": "coffee-beans-green",
+    "name": "Coffee beans, green",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-w4ev4x",
+    "monogram": "CBG"
+  },
+  {
+    "id": "coffee-beans-roasted",
+    "name": "Coffee beans, roasted",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-23gvwu",
+    "monogram": "CBR"
+  },
+  {
+    "id": "coffee-beans-roasted-and-decaffeinated",
+    "name": "Coffee beans, roasted and decaffeinated",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-p2hx9e",
+    "monogram": "CBR"
+  },
+  {
+    "id": "collard-greens",
+    "name": "Collard Greens",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "cut-es99eb",
+    "monogram": "CG"
+  },
+  {
+    "id": "comb-honey",
+    "name": "Comb honey",
+    "subject": "honey-jar",
+    "form": "jar",
+    "accent": "coral",
+    "detail": "stripe-14xl5se",
+    "monogram": "CH"
+  },
+  {
+    "id": "common-banana",
+    "name": "Common banana",
+    "subject": "banana",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-e8u3qq",
+    "monogram": "CB"
+  },
+  {
+    "id": "common-banana-acuminata-cultivars",
+    "name": "Common banana - acuminata cultivars",
+    "subject": "banana",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "stripe-a06d6o",
+    "monogram": "CBA"
+  },
+  {
+    "id": "common-millet-and-similar",
+    "name": "Common millet and similar",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "dots-1c0b41g",
+    "monogram": "CMA"
+  },
+  {
+    "id": "common-millet-grain",
+    "name": "Common millet grain",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "seeds-jhir6u",
+    "monogram": "CMG"
+  },
+  {
+    "id": "common-mushrooms",
+    "name": "Common mushrooms",
+    "subject": "mushroom",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "stripe-qd5742",
+    "monogram": "CM"
+  },
+  {
+    "id": "common-peaches",
+    "name": "Common peaches",
+    "subject": "stone-fruit",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-qkvh8o",
+    "monogram": "CP"
+  },
+  {
+    "id": "common-wheat-grain",
+    "name": "Common wheat grain",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "window-jwpmc0",
+    "monogram": "CWG"
+  },
+  {
+    "id": "cooked-meat",
+    "name": "Cooked meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-178cyh8",
+    "monogram": "CM"
+  },
+  {
+    "id": "coriander-leaves",
+    "name": "Coriander leaves",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "cut-y28ykz",
+    "monogram": "CL"
+  },
+  {
+    "id": "coriander-seed",
+    "name": "Coriander seed",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "stripe-9sqzq2",
+    "monogram": "CS"
+  },
+  {
+    "id": "corn-grain",
+    "name": "Corn Grain",
+    "subject": "corn-cob",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "cut-18m4rmd",
+    "monogram": "CG"
+  },
+  {
+    "id": "corn-syrup",
+    "name": "Corn Syrup",
+    "subject": "corn-cob",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-1vpmfpt",
+    "monogram": "CS"
+  },
+  {
+    "id": "cottage-cheese",
+    "name": "Cottage cheese",
+    "subject": "cheese-wedge",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "dots-1yrkejo",
+    "monogram": "CC"
+  },
+  {
+    "id": "cotton-seeds",
+    "name": "Cotton seeds",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "dots-71zy45",
+    "monogram": "CS"
+  },
+  {
+    "id": "courgettes",
+    "name": "Courgettes",
+    "subject": "courgette",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "stripe-1w3o5c0",
+    "monogram": "CO"
+  },
+  {
+    "id": "courgettes-and-similar",
+    "name": "Courgettes and similar",
+    "subject": "courgette",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-1mbrsuk",
+    "monogram": "CAS"
+  },
+  {
+    "id": "cow-milk",
+    "name": "Cow milk",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "coral",
+    "detail": "band-194wlbk",
+    "monogram": "CM"
+  },
+  {
+    "id": "cow-milk-natural-high-fat",
+    "name": "Cow milk, natural high fat",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "gold",
+    "detail": "band-3olhbp",
+    "monogram": "CMN"
+  },
+  {
+    "id": "cow-milk-semi-skimmed-half-fat",
+    "name": "Cow milk, semi skimmed (half fat)",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "leaf",
+    "detail": "dots-rydkh6",
+    "monogram": "CMS"
+  },
+  {
+    "id": "cow-milk-whole",
+    "name": "Cow milk, whole",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "coral",
+    "detail": "cut-11s7v62",
+    "monogram": "CMW"
+  },
+  {
+    "id": "cow-ox-or-bull-fresh-meat",
+    "name": "Cow, ox or bull fresh meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-1jfmak3",
+    "monogram": "COO"
+  },
+  {
+    "id": "crab-apples",
+    "name": "Crab apples",
+    "subject": "apple",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "dots-43w5tj",
+    "monogram": "CA"
+  },
+  {
+    "id": "cranberries",
+    "name": "Cranberries",
+    "subject": "berries",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "seeds-c46jhp",
+    "monogram": "CR"
+  },
+  {
+    "id": "cranberries-and-similar",
+    "name": "Cranberries and similar",
+    "subject": "berries",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "seeds-3tir1h",
+    "monogram": "CAS"
+  },
+  {
+    "id": "cranberries-canned",
+    "name": "Cranberries, Canned",
+    "subject": "berries",
+    "form": "tin",
+    "accent": "mint",
+    "detail": "stripe-sahfph",
+    "monogram": "CC"
+  },
+  {
+    "id": "cranberries-frozen",
+    "name": "Cranberries, Frozen",
+    "subject": "berries",
+    "form": "frozen-pack",
+    "accent": "leaf",
+    "detail": "dots-fcabvu",
+    "monogram": "CF"
+  },
+  {
+    "id": "cream",
+    "name": "Cream",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "gold",
+    "detail": "cut-1w7nql1",
+    "monogram": "CR"
+  },
+  {
+    "id": "cream-and-cream-products",
+    "name": "Cream and cream products",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "mint",
+    "detail": "band-kh74fh",
+    "monogram": "CAC"
+  },
+  {
+    "id": "cream-cheese",
+    "name": "Cream cheese",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "berry",
+    "detail": "dots-aol7x",
+    "monogram": "CC"
+  },
+  {
+    "id": "cream-plain",
+    "name": "Cream, plain",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "sky",
+    "detail": "seeds-egguws",
+    "monogram": "CP"
+  },
+  {
+    "id": "crisp-lettuces",
+    "name": "Crisp lettuces",
+    "subject": "lettuce",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-htip58",
+    "monogram": "CL"
+  },
+  {
+    "id": "cucumbers",
+    "name": "Cucumbers",
+    "subject": "cucumber",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-j1dg2m",
+    "monogram": "CU"
+  },
+  {
+    "id": "cucumbers-and-similar",
+    "name": "Cucumbers and similar",
+    "subject": "cucumber",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "seeds-p5tlq6",
+    "monogram": "CAS"
+  },
+  {
+    "id": "cultivated-fungi-and-similar",
+    "name": "Cultivated fungi and similar",
+    "subject": "mushroom",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "band-16pmrdy",
+    "monogram": "CFA"
+  },
+  {
+    "id": "cumin-seed",
+    "name": "Cumin seed",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-ke48pz",
+    "monogram": "CS"
+  },
+  {
+    "id": "curly-kales",
+    "name": "Curly kales",
+    "subject": "leafy-greens",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-v2rggj",
+    "monogram": "CK"
+  },
+  {
+    "id": "currants-and-similar",
+    "name": "Currants and similar",
+    "subject": "labelled-fruit-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "dots-grgb4z",
+    "monogram": "CAS"
+  },
+  {
+    "id": "currants-black-red-and-white",
+    "name": "Currants (black, red and white)",
+    "subject": "labelled-fruit-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "window-18le50f",
+    "monogram": "CBR"
+  },
+  {
+    "id": "curry-leaves",
+    "name": "Curry leaves",
+    "subject": "labelled-spice-pouch",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "window-62uguv",
+    "monogram": "CL"
+  },
+  {
+    "id": "cutting-lettuces",
+    "name": "Cutting lettuces",
+    "subject": "lettuce",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-zwpsgd",
+    "monogram": "CL"
+  },
+  {
+    "id": "dates",
+    "name": "Dates",
+    "subject": "dates",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-16yegpq",
+    "monogram": "DA"
+  },
+  {
+    "id": "deer-fresh-meat",
+    "name": "Deer fresh meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "dots-xw5ltc",
+    "monogram": "DFM"
+  },
+  {
+    "id": "deer-kidney",
+    "name": "Deer kidney",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "stripe-u09psg",
+    "monogram": "DK"
+  },
+  {
+    "id": "deer-liver",
+    "name": "Deer liver",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "seeds-14ygyaw",
+    "monogram": "DL"
+  },
+  {
+    "id": "deer-red-fresh-meat",
+    "name": "Deer, red fresh meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "seeds-guoh4a",
+    "monogram": "DRF"
+  },
+  {
+    "id": "dill-leaves",
+    "name": "Dill leaves",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "dots-jnx1dp",
+    "monogram": "DL"
+  },
+  {
+    "id": "dog-rose",
+    "name": "Dog rose",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "stripe-1tlcrk3",
+    "monogram": "DR"
+  },
+  {
+    "id": "dried-apricots",
+    "name": "Dried apricots",
+    "subject": "stone-fruit",
+    "form": "dry-pack",
+    "accent": "berry",
+    "detail": "window-n8au69",
+    "monogram": "DA"
+  },
+  {
+    "id": "dried-beans",
+    "name": "Dried beans",
+    "subject": "bean-pod",
+    "form": "dry-pack",
+    "accent": "mint",
+    "detail": "band-lzw6t5",
+    "monogram": "DB"
+  },
+  {
+    "id": "dried-dates",
+    "name": "Dried dates",
+    "subject": "dates",
+    "form": "dry-pack",
+    "accent": "mint",
+    "detail": "band-13n42cz",
+    "monogram": "DD"
+  },
+  {
+    "id": "dried-figs",
+    "name": "Dried figs",
+    "subject": "fig-half",
+    "form": "dry-pack",
+    "accent": "gold",
+    "detail": "band-1xe5ut1",
+    "monogram": "DF"
+  },
+  {
+    "id": "dried-fruit",
+    "name": "Dried fruit",
+    "subject": "labelled-food-pack",
+    "form": "dry-pack",
+    "accent": "leaf",
+    "detail": "seeds-1blh7xo",
+    "monogram": "DF"
+  },
+  {
+    "id": "dried-herbs",
+    "name": "Dried herbs",
+    "subject": "herb-sprig",
+    "form": "dry-pack",
+    "accent": "sky",
+    "detail": "window-1xxzgka",
+    "monogram": "DH"
+  },
+  {
+    "id": "dried-mangoes",
+    "name": "Dried mangoes",
+    "subject": "mango",
+    "form": "dry-pack",
+    "accent": "sky",
+    "detail": "stripe-1xky4rg",
+    "monogram": "DM"
+  },
+  {
+    "id": "dried-mushrooms",
+    "name": "Dried mushrooms",
+    "subject": "mushroom",
+    "form": "dry-pack",
+    "accent": "gold",
+    "detail": "window-oo05qp",
+    "monogram": "DM"
+  },
+  {
+    "id": "dried-nuts-seeds-and-related-flours-and-powders",
+    "name": "Dried nuts/seeds and related flours and powders",
+    "subject": "flour-bag",
+    "form": "dry-pack",
+    "accent": "leaf",
+    "detail": "stripe-u3prko",
+    "monogram": "DNS"
+  },
+  {
+    "id": "dried-prunes",
+    "name": "Dried prunes",
+    "subject": "labelled-food-pack",
+    "form": "dry-pack",
+    "accent": "gold",
+    "detail": "seeds-1wlb1pv",
+    "monogram": "DP"
+  },
+  {
+    "id": "dried-vegetables",
+    "name": "Dried vegetables",
+    "subject": "labelled-food-pack",
+    "form": "dry-pack",
+    "accent": "sky",
+    "detail": "band-1wz6i7y",
+    "monogram": "DV"
+  },
+  {
+    "id": "dried-vine-fruits-raisins-etc",
+    "name": "Dried vine fruits (raisins etc.)",
+    "subject": "labelled-food-pack",
+    "form": "dry-pack",
+    "accent": "mint",
+    "detail": "dots-i5j4rz",
+    "monogram": "DVF"
+  },
+  {
+    "id": "duck-fresh-fat-tissue",
+    "name": "Duck, fresh fat tissue",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-n3dadd",
+    "monogram": "DFF"
+  },
+  {
+    "id": "duck-fresh-meat",
+    "name": "Duck fresh meat",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "cut-i1b7rb",
+    "monogram": "DFM"
+  },
+  {
+    "id": "duck-liver",
+    "name": "Duck liver",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "band-mym3z9",
+    "monogram": "DL"
+  },
+  {
+    "id": "durum-wheat-grain",
+    "name": "Durum wheat grain",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-o0zvma",
+    "monogram": "DWG"
+  },
+  {
+    "id": "edible-insect-adults",
+    "name": "Edible insect adults",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "band-1sy3prj",
+    "monogram": "EIA"
+  },
+  {
+    "id": "edible-seeds",
+    "name": "Edible seeds",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-1ekvn47",
+    "monogram": "ES"
+  },
+  {
+    "id": "eggplant",
+    "name": "Eggplant",
+    "subject": "aubergine",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "cut-7lfk2j",
+    "monogram": "EG"
+  },
+  {
+    "id": "eggs",
+    "name": "Eggs",
+    "subject": "egg",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "dots-15b6l7z",
+    "monogram": "EG"
+  },
+  {
+    "id": "emmer-wheat-grain",
+    "name": "Emmer wheat grain",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "cut-1wdh0t5",
+    "monogram": "EWG"
+  },
+  {
+    "id": "enokitake",
+    "name": "Enokitake",
+    "subject": "mushroom",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "seeds-gac4os",
+    "monogram": "EN"
+  },
+  {
+    "id": "escaroles",
+    "name": "Escaroles",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "seeds-120a8om",
+    "monogram": "ES"
+  },
+  {
+    "id": "escaroles-and-similar",
+    "name": "Escaroles and similar",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "dots-14soxnq",
+    "monogram": "EAS"
+  },
+  {
+    "id": "fenugreek-seed",
+    "name": "Fenugreek seed",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "seeds-j8dwof",
+    "monogram": "FS"
+  },
+  {
+    "id": "fermented-fruit-products",
+    "name": "Fermented fruit products",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "band-6o2l6n",
+    "monogram": "FFP"
+  },
+  {
+    "id": "figs",
+    "name": "Figs",
+    "subject": "fig-half",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "stripe-18mwcr6",
+    "monogram": "FI"
+  },
+  {
+    "id": "fingerrot-roots",
+    "name": "Fingerrot roots",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "dots-1k2cnw5",
+    "monogram": "FR"
+  },
+  {
+    "id": "firm-semi-hard-cheese-gouda-and-edam-type",
+    "name": "Firm/semi-hard cheese (gouda and edam type)",
+    "subject": "cheese-wedge",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "window-1ujsdfm",
+    "monogram": "FSH"
+  },
+  {
+    "id": "fish-catfish",
+    "name": "Fish, Catfish",
+    "subject": "fish",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "stripe-thkz4o",
+    "monogram": "FC"
+  },
+  {
+    "id": "fish-salmon",
+    "name": "Fish, Salmon",
+    "subject": "fish",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-jr8yzg",
+    "monogram": "FS"
+  },
+  {
+    "id": "flat-peaches",
+    "name": "Flat peaches",
+    "subject": "stone-fruit",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "dots-44yp7y",
+    "monogram": "FP"
+  },
+  {
+    "id": "florence-fennels",
+    "name": "Florence fennels",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "dots-1jh5mk5",
+    "monogram": "FF"
+  },
+  {
+    "id": "florence-fennels-and-similar",
+    "name": "Florence fennels and similar",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "dots-18d2hz1",
+    "monogram": "FFA"
+  },
+  {
+    "id": "flour-mix-like-wheat-rye-barley-oats-and-other",
+    "name": "Flour mix (like wheat/rye/barley/oats and other)",
+    "subject": "grain-ear",
+    "form": "dry-pack",
+    "accent": "sky",
+    "detail": "stripe-thmhi4",
+    "monogram": "FML"
+  },
+  {
+    "id": "flowers-used-for-herbal-infusions",
+    "name": "Flowers used for herbal infusions",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-zstk0b",
+    "monogram": "FUF"
+  },
+  {
+    "id": "follow-on-formula-milk-and-soya-based-powder",
+    "name": "Follow-on formula, milk and soya-based, powder",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "coral",
+    "detail": "cut-16fzdu2",
+    "monogram": "FOF"
+  },
+  {
+    "id": "follow-on-formula-milk-based-liquid",
+    "name": "Follow-on formula, milk-based, liquid",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "sky",
+    "detail": "dots-1nci35g",
+    "monogram": "FOF"
+  },
+  {
+    "id": "follow-on-formula-milk-based-powder",
+    "name": "Follow-on formula, milk-based, powder",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "gold",
+    "detail": "window-5k3n2d",
+    "monogram": "FOF"
+  },
+  {
+    "id": "follow-on-formulae",
+    "name": "Follow-on formulae",
+    "subject": "infant-jar",
+    "form": "jar",
+    "accent": "coral",
+    "detail": "cut-1tjlhow",
+    "monogram": "FOF"
+  },
+  {
+    "id": "follow-on-formulae-liquid",
+    "name": "Follow-on formulae, liquid",
+    "subject": "infant-jar",
+    "form": "jar",
+    "accent": "gold",
+    "detail": "stripe-r6bclj",
+    "monogram": "FOF"
+  },
+  {
+    "id": "follow-on-formulae-powder",
+    "name": "Follow-on formulae, powder",
+    "subject": "infant-jar",
+    "form": "dry-pack",
+    "accent": "leaf",
+    "detail": "seeds-161r3ni",
+    "monogram": "FOF"
+  },
+  {
+    "id": "food-for-infants-and-young-children",
+    "name": "Food for infants and young children",
+    "subject": "infant-jar",
+    "form": "jar",
+    "accent": "sky",
+    "detail": "band-1dmmunm",
+    "monogram": "FFI"
+  },
+  {
+    "id": "french-beans-with-pods",
+    "name": "French beans (with pods)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-f8xx1d",
+    "monogram": "FBW"
+  },
+  {
+    "id": "fresh-herbs",
+    "name": "Fresh herbs",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "band-1us6ed6",
+    "monogram": "FH"
+  },
+  {
+    "id": "frozen-fruit",
+    "name": "Frozen fruit",
+    "subject": "mixed-fruit-pack",
+    "form": "frozen-pack",
+    "accent": "leaf",
+    "detail": "seeds-1e97tpc",
+    "monogram": "FF"
+  },
+  {
+    "id": "frozen-vegetables",
+    "name": "Frozen vegetables",
+    "subject": "mixed-vegetable-pack",
+    "form": "frozen-pack",
+    "accent": "leaf",
+    "detail": "cut-1juzhp6",
+    "monogram": "FV"
+  },
+  {
+    "id": "fruit-and-vegetable-juices-and-nectars-specific-for-infants-and-young-children",
+    "name": "Fruit and vegetable juices and nectars specific for infants and young children",
+    "subject": "drink-glass",
+    "form": "drink",
+    "accent": "coral",
+    "detail": "band-pwm6xw",
+    "monogram": "FAV"
+  },
+  {
+    "id": "fruit-or-fruit-vegetable-puree",
+    "name": "Fruit or fruit-vegetable puree",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "cut-1qo9r68",
+    "monogram": "FOF"
+  },
+  {
+    "id": "fungi",
+    "name": "Fungi",
+    "subject": "mushroom",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-o2l1na",
+    "monogram": "FU"
+  },
+  {
+    "id": "fuzzy-kiwifruit",
+    "name": "Fuzzy kiwifruit",
+    "subject": "kiwi-half",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "window-1syqmmc",
+    "monogram": "FK"
+  },
+  {
+    "id": "game",
+    "name": "Game",
+    "subject": "labelled-chilled-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "stripe-ie4x6v",
+    "monogram": "GA"
+  },
+  {
+    "id": "garbanzo-beans-canned",
+    "name": "Garbanzo Beans, Canned",
+    "subject": "bean-pod",
+    "form": "tin",
+    "accent": "mint",
+    "detail": "seeds-1suxr7b",
+    "monogram": "GBC"
+  },
+  {
+    "id": "garbanzo-beans-dried",
+    "name": "Garbanzo Beans, Dried",
+    "subject": "bean-pod",
+    "form": "dry-pack",
+    "accent": "sky",
+    "detail": "window-1g56t5a",
+    "monogram": "GBD"
+  },
+  {
+    "id": "garden-peas",
+    "name": "Garden peas",
+    "subject": "pea-pod",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "seeds-1qee2bg",
+    "monogram": "GP"
+  },
+  {
+    "id": "garden-peas-dry",
+    "name": "Garden peas (dry)",
+    "subject": "pea-pod",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "seeds-1bygw84",
+    "monogram": "GPD"
+  },
+  {
+    "id": "garden-peas-with-pods",
+    "name": "Garden peas (with pods)",
+    "subject": "pea-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "cut-135lakq",
+    "monogram": "GPW"
+  },
+  {
+    "id": "garden-peas-without-pods",
+    "name": "Garden peas (without pods)",
+    "subject": "pea-pod",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "seeds-nu6e0o",
+    "monogram": "GPW"
+  },
+  {
+    "id": "garlic",
+    "name": "Garlic",
+    "subject": "garlic-bulb",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "cut-1ovvefj",
+    "monogram": "GA"
+  },
+  {
+    "id": "garlic-and-similar",
+    "name": "Garlic and similar",
+    "subject": "garlic-bulb",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-2ozlmb",
+    "monogram": "GAS"
+  },
+  {
+    "id": "gherkins",
+    "name": "Gherkins",
+    "subject": "cucumber",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-1f05j22",
+    "monogram": "GH"
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger",
+    "subject": "ginger-root",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-10yk68t",
+    "monogram": "GI"
+  },
+  {
+    "id": "ginger-roots",
+    "name": "Ginger roots",
+    "subject": "ginger-root",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-kb02ch",
+    "monogram": "GR"
+  },
+  {
+    "id": "ginger-roots-spice",
+    "name": "Ginger roots spice",
+    "subject": "ginger-root",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-lcxgiq",
+    "monogram": "GRS"
+  },
+  {
+    "id": "globe-artichokes",
+    "name": "Globe artichokes",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "dots-1ol66pk",
+    "monogram": "GA"
+  },
+  {
+    "id": "globe-tomato",
+    "name": "Globe tomato",
+    "subject": "tomato",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "cut-5d9u3",
+    "monogram": "GT"
+  },
+  {
+    "id": "gluten-free-bread",
+    "name": "Gluten-free bread",
+    "subject": "bread-loaf",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "band-zqefue",
+    "monogram": "GFB"
+  },
+  {
+    "id": "gluten-free-food",
+    "name": "Gluten-free food",
+    "subject": "labelled-staple-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "window-5omov0",
+    "monogram": "GFF"
+  },
+  {
+    "id": "goat-fat-tissue",
+    "name": "Goat fat tissue",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "cut-lt0pek",
+    "monogram": "GFT"
+  },
+  {
+    "id": "goat-fresh-meat",
+    "name": "Goat fresh meat",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-1079l25",
+    "monogram": "GFM"
+  },
+  {
+    "id": "goat-kidney",
+    "name": "Goat kidney",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "cut-1mm9hz9",
+    "monogram": "GK"
+  },
+  {
+    "id": "goat-liver",
+    "name": "Goat liver",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-184g4az",
+    "monogram": "GL"
+  },
+  {
+    "id": "goat-milk",
+    "name": "Goat milk",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-1lswqrq",
+    "monogram": "GM"
+  },
+  {
+    "id": "gojiberry",
+    "name": "Gojiberry",
+    "subject": "berries",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-4pptb2",
+    "monogram": "GO"
+  },
+  {
+    "id": "goose-liver",
+    "name": "Goose liver",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "band-iqwaxx",
+    "monogram": "GL"
+  },
+  {
+    "id": "gooseberries-green-red-and-yellow",
+    "name": "Gooseberries (green, red and yellow)",
+    "subject": "berries",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "cut-11u98cn",
+    "monogram": "GGR"
+  },
+  {
+    "id": "granadillas",
+    "name": "Granadillas",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-otv6od",
+    "monogram": "GR"
+  },
+  {
+    "id": "granate-apples",
+    "name": "Granate apples",
+    "subject": "apple",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "cut-1w0yvrh",
+    "monogram": "GA"
+  },
+  {
+    "id": "granate-apples-and-similar",
+    "name": "Granate apples and similar",
+    "subject": "apple",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "cut-eke0sl",
+    "monogram": "GAA"
+  },
+  {
+    "id": "grape-juice",
+    "name": "Grape Juice",
+    "subject": "grape-bunch",
+    "form": "drink",
+    "accent": "mint",
+    "detail": "cut-vm4hjh",
+    "monogram": "GJ"
+  },
+  {
+    "id": "grape-leaves",
+    "name": "Grape leaves",
+    "subject": "grape-bunch",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-1ehjhwz",
+    "monogram": "GL"
+  },
+  {
+    "id": "grapefruit",
+    "name": "Grapefruit",
+    "subject": "grapefruit-half",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "dots-5zuqzm",
+    "monogram": "GR"
+  },
+  {
+    "id": "grapefruits",
+    "name": "Grapefruits",
+    "subject": "grapefruit-half",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "window-nshs3n",
+    "monogram": "GR"
+  },
+  {
+    "id": "grapefruits-and-similar",
+    "name": "Grapefruits and similar",
+    "subject": "grapefruit-half",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-kc491j",
+    "monogram": "GAS"
+  },
+  {
+    "id": "grapes",
+    "name": "Grapes",
+    "subject": "grape-bunch",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-9xrwrd",
+    "monogram": "GR"
+  },
+  {
+    "id": "green-beans",
+    "name": "Green beans",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-p8yxiq",
+    "monogram": "GB"
+  },
+  {
+    "id": "green-beans-canned",
+    "name": "Green Beans, Canned",
+    "subject": "bean-pod",
+    "form": "tin",
+    "accent": "coral",
+    "detail": "cut-1ikjkcw",
+    "monogram": "GBC"
+  },
+  {
+    "id": "green-beans-frozen",
+    "name": "Green Beans, Frozen",
+    "subject": "bean-pod",
+    "form": "frozen-pack",
+    "accent": "mint",
+    "detail": "dots-mtay9n",
+    "monogram": "GBF"
+  },
+  {
+    "id": "green-onions",
+    "name": "Green Onions",
+    "subject": "onion",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "seeds-7vl59l",
+    "monogram": "GO"
+  },
+  {
+    "id": "greens-collard",
+    "name": "Greens, Collard",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "cut-1joy5u7",
+    "monogram": "GC"
+  },
+  {
+    "id": "greens-kale",
+    "name": "Greens, Kale",
+    "subject": "leafy-greens",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-15jpnzn",
+    "monogram": "GK"
+  },
+  {
+    "id": "groats",
+    "name": "Groats",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "dots-860kmt",
+    "monogram": "GR"
+  },
+  {
+    "id": "ground-cherries-physalis-etc",
+    "name": "Ground cherries (physalis etc.)",
+    "subject": "cherries",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "seeds-c9f71",
+    "monogram": "GCP"
+  },
+  {
+    "id": "guavas",
+    "name": "Guavas",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "band-1dwt5ra",
+    "monogram": "GU"
+  },
+  {
+    "id": "guavas-and-similar",
+    "name": "Guavas and similar",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "cut-pftevq",
+    "monogram": "GAS"
+  },
+  {
+    "id": "hard-cheese",
+    "name": "Hard cheese",
+    "subject": "cheese-wedge",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "stripe-1e9fdi6",
+    "monogram": "HC"
+  },
+  {
+    "id": "hardened-egg-products",
+    "name": "Hardened egg products",
+    "subject": "egg",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-1j3tqi5",
+    "monogram": "HEP"
+  },
+  {
+    "id": "hazelnuts",
+    "name": "Hazelnuts",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "cut-gaa591",
+    "monogram": "HA"
+  },
+  {
+    "id": "head-brassica",
+    "name": "Head brassica",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "cut-5l2s7u",
+    "monogram": "HB"
+  },
+  {
+    "id": "head-cabbages",
+    "name": "Head cabbages",
+    "subject": "round-cabbage",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-47fxkq",
+    "monogram": "HC"
+  },
+  {
+    "id": "head-cabbages-and-similar",
+    "name": "Head cabbages and similar",
+    "subject": "round-cabbage",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-ro4i0q",
+    "monogram": "HCA"
+  },
+  {
+    "id": "head-lettuces",
+    "name": "Head lettuces",
+    "subject": "lettuce",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "band-1y1x7p1",
+    "monogram": "HL"
+  },
+  {
+    "id": "heavy-cream",
+    "name": "Heavy Cream",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "gold",
+    "detail": "cut-1rmdyl7",
+    "monogram": "HC"
+  },
+  {
+    "id": "hemp-seeds",
+    "name": "Hemp seeds",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-1oluo88",
+    "monogram": "HS"
+  },
+  {
+    "id": "hen-egg-mixed-whole",
+    "name": "Hen egg mixed whole",
+    "subject": "egg",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "band-1xc2g4k",
+    "monogram": "HEM"
+  },
+  {
+    "id": "hen-egg-yolk",
+    "name": "Hen egg yolk",
+    "subject": "egg",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "band-nnhxru",
+    "monogram": "HEY"
+  },
+  {
+    "id": "hen-eggs",
+    "name": "Hen eggs",
+    "subject": "egg",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "seeds-yx608l",
+    "monogram": "HE"
+  },
+  {
+    "id": "herbal-infusion-materials-from-any-other-parts-of-the-plant",
+    "name": "Herbal infusion materials from any other parts of the plant",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "band-agaixu",
+    "monogram": "HIM"
+  },
+  {
+    "id": "herbal-infusion-materials-from-leaves-and-herbs",
+    "name": "Herbal infusion materials from leaves and herbs",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-gn81gh",
+    "monogram": "HIM"
+  },
+  {
+    "id": "honey",
+    "name": "Honey",
+    "subject": "honey-jar",
+    "form": "jar",
+    "accent": "leaf",
+    "detail": "dots-dplpic",
+    "monogram": "HO"
+  },
+  {
+    "id": "honey-blended",
+    "name": "Honey, blended",
+    "subject": "honey-jar",
+    "form": "jar",
+    "accent": "berry",
+    "detail": "seeds-1yta0u3",
+    "monogram": "HB"
+  },
+  {
+    "id": "honey-monofloral",
+    "name": "Honey, monofloral",
+    "subject": "honey-jar",
+    "form": "jar",
+    "accent": "sky",
+    "detail": "seeds-leuera",
+    "monogram": "HM"
+  },
+  {
+    "id": "honey-polyfloral",
+    "name": "Honey, polyfloral",
+    "subject": "honey-jar",
+    "form": "jar",
+    "accent": "berry",
+    "detail": "dots-en8auf",
+    "monogram": "HP"
+  },
+  {
+    "id": "hops",
+    "name": "Hops",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "band-1gfk0f5",
+    "monogram": "HO"
+  },
+  {
+    "id": "horse-fresh-fat-tissue",
+    "name": "Horse, fresh fat tissue",
+    "subject": "fat-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "window-1y2rf7v",
+    "monogram": "HFF"
+  },
+  {
+    "id": "horse-fresh-meat",
+    "name": "Horse fresh meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "stripe-fzup79",
+    "monogram": "HFM"
+  },
+  {
+    "id": "horse-liver",
+    "name": "Horse liver",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "cut-1cihtoj",
+    "monogram": "HL"
+  },
+  {
+    "id": "horse-mushrooms",
+    "name": "Horse mushrooms",
+    "subject": "mushroom",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "window-r3b7s",
+    "monogram": "HM"
+  },
+  {
+    "id": "hot-peppers",
+    "name": "Hot Peppers",
+    "subject": "chilli",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "stripe-1wm085k",
+    "monogram": "HP"
+  },
+  {
+    "id": "huckleberries",
+    "name": "Huckleberries",
+    "subject": "labelled-fruit-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "cut-b3rbbp",
+    "monogram": "HU"
+  },
+  {
+    "id": "infant-food",
+    "name": "Infant food",
+    "subject": "infant-jar",
+    "form": "jar",
+    "accent": "leaf",
+    "detail": "band-905qso",
+    "monogram": "IF"
+  },
+  {
+    "id": "infant-formula",
+    "name": "Infant formula",
+    "subject": "infant-jar",
+    "form": "jar",
+    "accent": "leaf",
+    "detail": "seeds-1ngrou6",
+    "monogram": "IF"
+  },
+  {
+    "id": "infant-formula-dairy",
+    "name": "Infant Formula, Dairy",
+    "subject": "infant-jar",
+    "form": "jar",
+    "accent": "coral",
+    "detail": "dots-bool28",
+    "monogram": "IFD"
+  },
+  {
+    "id": "infant-formula-milk-based-liquid",
+    "name": "Infant formula, milk-based, liquid",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "gold",
+    "detail": "cut-b7b2q7",
+    "monogram": "IFM"
+  },
+  {
+    "id": "infant-formula-milk-based-powder",
+    "name": "Infant formula, milk-based, powder",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "coral",
+    "detail": "dots-5oaap2",
+    "monogram": "IFM"
+  },
+  {
+    "id": "infant-formula-soy-based",
+    "name": "Infant Formula, Soy-based",
+    "subject": "infant-jar",
+    "form": "jar",
+    "accent": "leaf",
+    "detail": "window-hvhdao",
+    "monogram": "IFS"
+  },
+  {
+    "id": "infant-formulae",
+    "name": "Infant formulae",
+    "subject": "infant-jar",
+    "form": "jar",
+    "accent": "mint",
+    "detail": "cut-ysoqkh",
+    "monogram": "IF"
+  },
+  {
+    "id": "infant-formulae-powder",
+    "name": "Infant formulae, powder",
+    "subject": "infant-jar",
+    "form": "dry-pack",
+    "accent": "mint",
+    "detail": "cut-5upgy5",
+    "monogram": "IFP"
+  },
+  {
+    "id": "jam",
+    "name": "Jam",
+    "subject": "labelled-jar",
+    "form": "jar",
+    "accent": "mint",
+    "detail": "dots-1qer2pn",
+    "monogram": "JA"
+  },
+  {
+    "id": "jerusalem-artichokes",
+    "name": "Jerusalem artichokes",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "dots-16m0699",
+    "monogram": "JA"
+  },
+  {
+    "id": "jew-s-ears",
+    "name": "Jew's ears",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "dots-pnwiut",
+    "monogram": "JSE"
+  },
+  {
+    "id": "jew-s-mallow-leaves",
+    "name": "Jew's mallow leaves",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "dots-1t55epj",
+    "monogram": "JSM"
+  },
+  {
+    "id": "juice-apple",
+    "name": "Juice, apple",
+    "subject": "apple",
+    "form": "drink",
+    "accent": "sky",
+    "detail": "band-qy2xma",
+    "monogram": "JA"
+  },
+  {
+    "id": "juice-carrot",
+    "name": "Juice, carrot",
+    "subject": "carrot",
+    "form": "drink",
+    "accent": "mint",
+    "detail": "seeds-m7nhet",
+    "monogram": "JC"
+  },
+  {
+    "id": "juice-concentrate-apple",
+    "name": "Juice concentrate, apple",
+    "subject": "apple",
+    "form": "drink",
+    "accent": "gold",
+    "detail": "stripe-29f0wv",
+    "monogram": "JCA"
+  },
+  {
+    "id": "juice-concentrate-orange",
+    "name": "Juice concentrate, orange",
+    "subject": "orange-half",
+    "form": "drink",
+    "accent": "gold",
+    "detail": "window-2i0wej",
+    "monogram": "JCO"
+  },
+  {
+    "id": "juice-grape",
+    "name": "Juice, grape",
+    "subject": "grape-bunch",
+    "form": "drink",
+    "accent": "mint",
+    "detail": "seeds-1vvyh9h",
+    "monogram": "JG"
+  },
+  {
+    "id": "juice-mixed-fruit",
+    "name": "Juice, mixed fruit",
+    "subject": "mixed-fruit-pack",
+    "form": "drink",
+    "accent": "leaf",
+    "detail": "window-hyndi",
+    "monogram": "JMF"
+  },
+  {
+    "id": "juice-orange",
+    "name": "Juice, orange",
+    "subject": "orange-half",
+    "form": "drink",
+    "accent": "coral",
+    "detail": "band-156uy8",
+    "monogram": "JO"
+  },
+  {
+    "id": "juice-peach",
+    "name": "Juice, peach",
+    "subject": "stone-fruit",
+    "form": "drink",
+    "accent": "berry",
+    "detail": "window-z62bz3",
+    "monogram": "JP"
+  },
+  {
+    "id": "juice-pear",
+    "name": "Juice, pear",
+    "subject": "pear",
+    "form": "drink",
+    "accent": "sky",
+    "detail": "seeds-15evxey",
+    "monogram": "JP"
+  },
+  {
+    "id": "juice-tomato",
+    "name": "Juice, tomato",
+    "subject": "tomato",
+    "form": "drink",
+    "accent": "sky",
+    "detail": "band-bjjzeg",
+    "monogram": "JT"
+  },
+  {
+    "id": "juice-white-cabbage",
+    "name": "Juice, white cabbage",
+    "subject": "round-cabbage",
+    "form": "drink",
+    "accent": "berry",
+    "detail": "band-1juoe2l",
+    "monogram": "JWC"
+  },
+  {
+    "id": "kaki",
+    "name": "Kaki",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "seeds-cz86at",
+    "monogram": "KA"
+  },
+  {
+    "id": "kaki-and-similar",
+    "name": "Kaki and similar",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "seeds-sk560d",
+    "monogram": "KAS"
+  },
+  {
+    "id": "kale-greens",
+    "name": "Kale Greens",
+    "subject": "leafy-greens",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-14mf23d",
+    "monogram": "KG"
+  },
+  {
+    "id": "kales-and-similar",
+    "name": "Kales and similar",
+    "subject": "leafy-greens",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "window-1rleqc3",
+    "monogram": "KAS"
+  },
+  {
+    "id": "kidney-bean-dry-seeds",
+    "name": "Kidney bean (dry seeds)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "dots-1we8gc5",
+    "monogram": "KBD"
+  },
+  {
+    "id": "kidney-bean-fresh-seeds",
+    "name": "Kidney bean (fresh seeds)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "seeds-150qnn4",
+    "monogram": "KBF"
+  },
+  {
+    "id": "kidney-beans-canned",
+    "name": "Kidney Beans, Canned",
+    "subject": "bean-pod",
+    "form": "tin",
+    "accent": "berry",
+    "detail": "seeds-1ne625r",
+    "monogram": "KBC"
+  },
+  {
+    "id": "kiwi-fruit",
+    "name": "Kiwi fruit",
+    "subject": "kiwi-half",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "stripe-19ra8b2",
+    "monogram": "KF"
+  },
+  {
+    "id": "kiwi-fruits-and-similar",
+    "name": "Kiwi fruits and similar",
+    "subject": "kiwi-half",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "window-z8cqcb",
+    "monogram": "KFA"
+  },
+  {
+    "id": "kiwi-fruits-green-red-yellow",
+    "name": "Kiwi fruits (green, red, yellow)",
+    "subject": "kiwi-half",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "stripe-16ijyiq",
+    "monogram": "KFG"
+  },
+  {
+    "id": "kohlrabies",
+    "name": "Kohlrabies",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "band-hzkii7",
+    "monogram": "KO"
+  },
+  {
+    "id": "lamb",
+    "name": "Lamb",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "seeds-q2cjsh",
+    "monogram": "LA"
+  },
+  {
+    "id": "lamb-fresh-meat",
+    "name": "Lamb fresh meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-10eq098",
+    "monogram": "LFM"
+  },
+  {
+    "id": "lamb-s-lettuces",
+    "name": "Lamb's lettuces",
+    "subject": "lettuce",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "dots-vy6k17",
+    "monogram": "LSL"
+  },
+  {
+    "id": "land-cresses",
+    "name": "Land cresses",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "cut-mu9mq7",
+    "monogram": "LC"
+  },
+  {
+    "id": "leafy-vegetables",
+    "name": "Leafy vegetables",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "stripe-1lbcvfj",
+    "monogram": "LV"
+  },
+  {
+    "id": "leeks",
+    "name": "Leeks",
+    "subject": "leek",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "seeds-5s942r",
+    "monogram": "LE"
+  },
+  {
+    "id": "leeks-and-similar",
+    "name": "Leeks and similar",
+    "subject": "leek",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-1tva93",
+    "monogram": "LAS"
+  },
+  {
+    "id": "legumes-with-pod",
+    "name": "Legumes with pod",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "seeds-1dml8za",
+    "monogram": "LWP"
+  },
+  {
+    "id": "lemon-balm",
+    "name": "Lemon balm",
+    "subject": "lemon-half",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-2yc125",
+    "monogram": "LB"
+  },
+  {
+    "id": "lemongrass",
+    "name": "Lemongrass",
+    "subject": "lemon-half",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "dots-yowssa",
+    "monogram": "LE"
+  },
+  {
+    "id": "lemons",
+    "name": "Lemons",
+    "subject": "lemon-half",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "window-1bichw9",
+    "monogram": "LE"
+  },
+  {
+    "id": "lemons-and-similar",
+    "name": "Lemons and similar",
+    "subject": "lemon-half",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-10urj35",
+    "monogram": "LAS"
+  },
+  {
+    "id": "lemons-limes",
+    "name": "Lemons and limes",
+    "subject": "lemon-half",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "window-bdh7ya",
+    "monogram": "LAL"
+  },
+  {
+    "id": "lentil-young-pods",
+    "name": "Lentil (young pods)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "cut-1ubyxen",
+    "monogram": "LYP"
+  },
+  {
+    "id": "lentils",
+    "name": "Lentils",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "dots-133y2ey",
+    "monogram": "LE"
+  },
+  {
+    "id": "lentils-dry",
+    "name": "Lentils (dry)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-1xpie0e",
+    "monogram": "LD"
+  },
+  {
+    "id": "lentils-dry-and-similar",
+    "name": "Lentils (dry) and similar",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "window-18eas9a",
+    "monogram": "LDA"
+  },
+  {
+    "id": "lentils-without-pods",
+    "name": "Lentils (without pods)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "band-1q7xfz6",
+    "monogram": "LWP"
+  },
+  {
+    "id": "lettuce",
+    "name": "Lettuce",
+    "subject": "lettuce",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "seeds-1dn220t",
+    "monogram": "LE"
+  },
+  {
+    "id": "lettuce-head",
+    "name": "Lettuce, Head",
+    "subject": "lettuce",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-18rvxzm",
+    "monogram": "LH"
+  },
+  {
+    "id": "lettuce-leaf",
+    "name": "Lettuce, Leaf",
+    "subject": "lettuce",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "stripe-1byv1c0",
+    "monogram": "LL"
+  },
+  {
+    "id": "lettuce-organic",
+    "name": "Lettuce, Organic",
+    "subject": "lettuce",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "window-1slw3nt",
+    "monogram": "LO"
+  },
+  {
+    "id": "lettuces-and-similar",
+    "name": "Lettuces and similar",
+    "subject": "lettuce",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "cut-10klte2",
+    "monogram": "LAS"
+  },
+  {
+    "id": "lettuces-generic",
+    "name": "Lettuces (generic)",
+    "subject": "lettuce",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-5rq02i",
+    "monogram": "LG"
+  },
+  {
+    "id": "limes",
+    "name": "Limes",
+    "subject": "lime-half",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-g1hi3h",
+    "monogram": "LI"
+  },
+  {
+    "id": "limes-and-similar",
+    "name": "Limes and similar",
+    "subject": "lime-half",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "stripe-hdze8l",
+    "monogram": "LAS"
+  },
+  {
+    "id": "lingonberries-and-similar",
+    "name": "Lingonberries and similar",
+    "subject": "labelled-fruit-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "stripe-rahue0",
+    "monogram": "LAS"
+  },
+  {
+    "id": "linseeds",
+    "name": "Linseeds",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-18vkhui",
+    "monogram": "LI"
+  },
+  {
+    "id": "liquid-egg-products",
+    "name": "Liquid egg products",
+    "subject": "egg",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "band-1kznsvo",
+    "monogram": "LEP"
+  },
+  {
+    "id": "litchis",
+    "name": "Litchis",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "dots-ant2ut",
+    "monogram": "LI"
+  },
+  {
+    "id": "lollo-rosso",
+    "name": "Lollo rosso",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "stripe-1lp1tsm",
+    "monogram": "LR"
+  },
+  {
+    "id": "longans",
+    "name": "Longans",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "band-1pimcv5",
+    "monogram": "LO"
+  },
+  {
+    "id": "macadamias",
+    "name": "Macadamias",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-m3t2k2",
+    "monogram": "MA"
+  },
+  {
+    "id": "main-crop-potatoes",
+    "name": "Main-crop potatoes",
+    "subject": "potato",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-19j5wwb",
+    "monogram": "MCP"
+  },
+  {
+    "id": "maize-and-similar",
+    "name": "Maize and similar",
+    "subject": "corn-cob",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "cut-1831ct3",
+    "monogram": "MAS"
+  },
+  {
+    "id": "maize-flour",
+    "name": "Maize flour",
+    "subject": "corn-cob",
+    "form": "dry-pack",
+    "accent": "coral",
+    "detail": "dots-1srke3q",
+    "monogram": "MF"
+  },
+  {
+    "id": "maize-grain",
+    "name": "Maize grain",
+    "subject": "corn-cob",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "stripe-le7tn9",
+    "monogram": "MG"
+  },
+  {
+    "id": "maize-oil-edible",
+    "name": "Maize oil, edible",
+    "subject": "corn-cob",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "stripe-u2u5xo",
+    "monogram": "MOE"
+  },
+  {
+    "id": "maize-semolina",
+    "name": "Maize semolina",
+    "subject": "corn-cob",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-qmvr6w",
+    "monogram": "MS"
+  },
+  {
+    "id": "mallow-leaves",
+    "name": "Mallow leaves",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "window-1vt4pqw",
+    "monogram": "ML"
+  },
+  {
+    "id": "mammals-meat",
+    "name": "Mammals meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-1996qtb",
+    "monogram": "MM"
+  },
+  {
+    "id": "mammey-apple",
+    "name": "Mammey apple",
+    "subject": "apple",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-1fpuo72",
+    "monogram": "MA"
+  },
+  {
+    "id": "mandarins",
+    "name": "Mandarins",
+    "subject": "orange-half",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-1rumnhq",
+    "monogram": "MA"
+  },
+  {
+    "id": "mandarins-and-similar",
+    "name": "Mandarins and similar",
+    "subject": "orange-half",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "window-5b9uha",
+    "monogram": "MAS"
+  },
+  {
+    "id": "mangetout-sugar-snap-peas",
+    "name": "Mangetout and sugar snap peas",
+    "subject": "pea-pod",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "dots-1d1x4n1",
+    "monogram": "MAS"
+  },
+  {
+    "id": "mango-juice",
+    "name": "Mango juice",
+    "subject": "mango",
+    "form": "drink",
+    "accent": "sky",
+    "detail": "dots-1gcrpys",
+    "monogram": "MJ"
+  },
+  {
+    "id": "mangoes",
+    "name": "Mangoes",
+    "subject": "mango",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "cut-9hrt95",
+    "monogram": "MA"
+  },
+  {
+    "id": "marjoram",
+    "name": "Marjoram",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "seeds-1ogmppo",
+    "monogram": "MA"
+  },
+  {
+    "id": "marjoram-dry",
+    "name": "Marjoram, dry",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "cut-1x86b6c",
+    "monogram": "MD"
+  },
+  {
+    "id": "mate-infusion-material",
+    "name": "Mate infusion material",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "cut-1yulr6m",
+    "monogram": "MIM"
+  },
+  {
+    "id": "melons",
+    "name": "Melons",
+    "subject": "melon-slice",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "dots-2lcxdp",
+    "monogram": "ME"
+  },
+  {
+    "id": "melons-and-similar",
+    "name": "Melons and similar",
+    "subject": "melon-slice",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "seeds-jfl2lx",
+    "monogram": "MAS"
+  },
+  {
+    "id": "milk",
+    "name": "Milk",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "sky",
+    "detail": "dots-11w0wwy",
+    "monogram": "MI"
+  },
+  {
+    "id": "milk-powder",
+    "name": "Milk powder",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "coral",
+    "detail": "stripe-18rvlhk",
+    "monogram": "MP"
+  },
+  {
+    "id": "millet-groats",
+    "name": "Millet groats",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "window-jun7x",
+    "monogram": "MG"
+  },
+  {
+    "id": "millet-rolled-grains",
+    "name": "Millet rolled grains",
+    "subject": "bread-loaf",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "stripe-1a1zf46",
+    "monogram": "MRG"
+  },
+  {
+    "id": "mints",
+    "name": "Mints",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-1z0z6qm",
+    "monogram": "MI"
+  },
+  {
+    "id": "mints-dry",
+    "name": "Mints, dry",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "band-le7caa",
+    "monogram": "MD"
+  },
+  {
+    "id": "mirabelles",
+    "name": "Mirabelles",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "band-18m7hbv",
+    "monogram": "MI"
+  },
+  {
+    "id": "mixed-berries",
+    "name": "Mixed berries",
+    "subject": "labelled-fruit-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "cut-1querh1",
+    "monogram": "MB"
+  },
+  {
+    "id": "mixed-vegetable-juice",
+    "name": "Mixed vegetable juice",
+    "subject": "mixed-vegetable-pack",
+    "form": "drink",
+    "accent": "gold",
+    "detail": "band-yj31gv",
+    "monogram": "MVJ"
+  },
+  {
+    "id": "moringa",
+    "name": "Moringa",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "band-17sbucu",
+    "monogram": "MO"
+  },
+  {
+    "id": "moringa-with-pods",
+    "name": "Moringa (with pods)",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "window-fkv2g",
+    "monogram": "MWP"
+  },
+  {
+    "id": "mozzarella",
+    "name": "Mozzarella",
+    "subject": "cheese-wedge",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "seeds-nhw9us",
+    "monogram": "MO"
+  },
+  {
+    "id": "mung-bean-sprouts",
+    "name": "Mung bean sprouts",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-eh9q62",
+    "monogram": "MBS"
+  },
+  {
+    "id": "mung-beans-dry",
+    "name": "Mung beans (dry)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-144tgxq",
+    "monogram": "MBD"
+  },
+  {
+    "id": "mushrooms",
+    "name": "Mushrooms",
+    "subject": "mushroom",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-1ofs1l8",
+    "monogram": "MU"
+  },
+  {
+    "id": "musky-strawberries",
+    "name": "Musky strawberries",
+    "subject": "strawberry",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "window-3u33ii",
+    "monogram": "MS"
+  },
+  {
+    "id": "mustard-greens",
+    "name": "Mustard Greens",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "window-wfbojk",
+    "monogram": "MG"
+  },
+  {
+    "id": "mustard-seeds",
+    "name": "Mustard seeds",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "band-vxkgky",
+    "monogram": "MS"
+  },
+  {
+    "id": "nashi-pears",
+    "name": "Nashi pears",
+    "subject": "pear",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-1vzwi6",
+    "monogram": "NP"
+  },
+  {
+    "id": "nectarines",
+    "name": "Nectarines",
+    "subject": "stone-fruit",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "window-1lcn09n",
+    "monogram": "NE"
+  },
+  {
+    "id": "new-potatoes",
+    "name": "New potatoes",
+    "subject": "potato",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-73izq7",
+    "monogram": "NP"
+  },
+  {
+    "id": "nigella-seed",
+    "name": "Nigella seed",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "cut-1tfgkyj",
+    "monogram": "NS"
+  },
+  {
+    "id": "non-dairy-milk",
+    "name": "Non-dairy milk",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "leaf",
+    "detail": "cut-1if4gci",
+    "monogram": "NDM"
+  },
+  {
+    "id": "non-fermented-tea-leaves-green-or-white-tea",
+    "name": "Non-fermented tea leaves (green or white tea)",
+    "subject": "tea-cup",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "seeds-7ld4zc",
+    "monogram": "NFT"
+  },
+  {
+    "id": "nut-seeds-paste-emulsion-mass",
+    "name": "Nut/seeds paste/emulsion/mass",
+    "subject": "seeds",
+    "form": "jar",
+    "accent": "gold",
+    "detail": "cut-sh4xjd",
+    "monogram": "NSP"
+  },
+  {
+    "id": "nutmeg-seed",
+    "name": "Nutmeg seed",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "seeds-kayf77",
+    "monogram": "NS"
+  },
+  {
+    "id": "nuts",
+    "name": "Nuts",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "window-13gz37l",
+    "monogram": "NU"
+  },
+  {
+    "id": "oat-flour",
+    "name": "Oat flour",
+    "subject": "grain-ear",
+    "form": "dry-pack",
+    "accent": "coral",
+    "detail": "window-1onbece",
+    "monogram": "OF"
+  },
+  {
+    "id": "oat-grain",
+    "name": "Oat grain",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-7p2r3h",
+    "monogram": "OG"
+  },
+  {
+    "id": "oat-grain-red",
+    "name": "Oat grain, red",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "seeds-1aa23xz",
+    "monogram": "OGR"
+  },
+  {
+    "id": "oat-rolled-grains",
+    "name": "Oat rolled grains",
+    "subject": "bread-loaf",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "stripe-1ebp0gr",
+    "monogram": "ORG"
+  },
+  {
+    "id": "oat-rolled-grains-wholemeal",
+    "name": "Oat rolled grains, wholemeal",
+    "subject": "bread-loaf",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "seeds-f1rmly",
+    "monogram": "ORG"
+  },
+  {
+    "id": "oats",
+    "name": "Oats",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "band-56hh4",
+    "monogram": "OA"
+  },
+  {
+    "id": "oats-grain",
+    "name": "Oats Grain",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-pi57l2",
+    "monogram": "OG"
+  },
+  {
+    "id": "oats-rolled-bran",
+    "name": "Oats, Rolled/Bran",
+    "subject": "bread-loaf",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "band-1zktrr",
+    "monogram": "ORB"
+  },
+  {
+    "id": "oil-palms-fruits",
+    "name": "Oil palms fruits",
+    "subject": "oil-bottle",
+    "form": "bottle",
+    "accent": "mint",
+    "detail": "dots-sdqkx5",
+    "monogram": "OPF"
+  },
+  {
+    "id": "oil-palms-kernels",
+    "name": "Oil palms kernels",
+    "subject": "oil-bottle",
+    "form": "bottle",
+    "accent": "coral",
+    "detail": "dots-1lzbsbk",
+    "monogram": "OPK"
+  },
+  {
+    "id": "oilseeds",
+    "name": "Oilseeds",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "band-1uf1j8v",
+    "monogram": "OI"
+  },
+  {
+    "id": "oily-fish",
+    "name": "Oily fish",
+    "subject": "fish",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "cut-yjj7rr",
+    "monogram": "OF"
+  },
+  {
+    "id": "okra",
+    "name": "Okra",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "band-1bdprzm",
+    "monogram": "OK"
+  },
+  {
+    "id": "olive-oil",
+    "name": "Olive oil",
+    "subject": "olive-oil-bottle",
+    "form": "bottle",
+    "accent": "gold",
+    "detail": "dots-om2701",
+    "monogram": "OO"
+  },
+  {
+    "id": "olive-oil-refined",
+    "name": "Olive oil, refined",
+    "subject": "olive-oil-bottle",
+    "form": "bottle",
+    "accent": "gold",
+    "detail": "cut-yhwpjv",
+    "monogram": "OOR"
+  },
+  {
+    "id": "olive-oil-virgin-or-extra-virgin",
+    "name": "Olive oil, virgin or extra-virgin",
+    "subject": "olive-oil-bottle",
+    "form": "bottle",
+    "accent": "coral",
+    "detail": "band-6pi7ow",
+    "monogram": "OOV"
+  },
+  {
+    "id": "olive-oils",
+    "name": "Olive oils",
+    "subject": "olive-oil-bottle",
+    "form": "bottle",
+    "accent": "leaf",
+    "detail": "seeds-apay06",
+    "monogram": "OO"
+  },
+  {
+    "id": "olive-pomace-oil",
+    "name": "Olive pomace oil",
+    "subject": "olive-oil-bottle",
+    "form": "bottle",
+    "accent": "mint",
+    "detail": "stripe-1am1xnh",
+    "monogram": "OPO"
+  },
+  {
+    "id": "olives-canned",
+    "name": "Olives, Canned",
+    "subject": "labelled-food-pack",
+    "form": "tin",
+    "accent": "gold",
+    "detail": "window-1ue6kp1",
+    "monogram": "OC"
+  },
+  {
+    "id": "olives-for-oil-production",
+    "name": "Olives for oil production",
+    "subject": "olive-oil-bottle",
+    "form": "bottle",
+    "accent": "sky",
+    "detail": "cut-38rrry",
+    "monogram": "OFO"
+  },
+  {
+    "id": "onion",
+    "name": "Onion",
+    "subject": "onion",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "window-vntn2u",
+    "monogram": "ON"
+  },
+  {
+    "id": "onions",
+    "name": "Onions",
+    "subject": "onion",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-25f5dr",
+    "monogram": "ON"
+  },
+  {
+    "id": "onions-and-similar",
+    "name": "Onions and similar",
+    "subject": "onion",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "seeds-1ykvs83",
+    "monogram": "OAS"
+  },
+  {
+    "id": "orange-juice",
+    "name": "Orange juice",
+    "subject": "orange-half",
+    "form": "drink",
+    "accent": "sky",
+    "detail": "stripe-1x8o6dm",
+    "monogram": "OJ"
+  },
+  {
+    "id": "oranges",
+    "name": "Oranges",
+    "subject": "orange-half",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-n1rjgo",
+    "monogram": "OR"
+  },
+  {
+    "id": "oranges-and-similar",
+    "name": "Oranges and similar",
+    "subject": "orange-half",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-gxvbus",
+    "monogram": "OAS"
+  },
+  {
+    "id": "oranges-sweet",
+    "name": "Oranges, sweet",
+    "subject": "orange-half",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "band-1e5m3dx",
+    "monogram": "OS"
+  },
+  {
+    "id": "oregano",
+    "name": "Oregano",
+    "subject": "labelled-spice-pouch",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-1r60v7w",
+    "monogram": "OR"
+  },
+  {
+    "id": "oregano-dry",
+    "name": "Oregano, dry",
+    "subject": "labelled-spice-pouch",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-y7vxw",
+    "monogram": "OD"
+  },
+  {
+    "id": "other-aril-spices",
+    "name": "Other Aril spices",
+    "subject": "spice-jar",
+    "form": "jar",
+    "accent": "sky",
+    "detail": "cut-1tas9ja",
+    "monogram": "OAS"
+  },
+  {
+    "id": "other-citrus-fruits",
+    "name": "Other Citrus fruits",
+    "subject": "citrus-half",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-2tpmb2",
+    "monogram": "OCF"
+  },
+  {
+    "id": "other-food-for-infants-and-children",
+    "name": "Other food for infants and children",
+    "subject": "infant-jar",
+    "form": "jar",
+    "accent": "sky",
+    "detail": "window-1my0q6m",
+    "monogram": "OFF"
+  },
+  {
+    "id": "other-fruit-spices",
+    "name": "Other fruit spices",
+    "subject": "spice-jar",
+    "form": "jar",
+    "accent": "coral",
+    "detail": "seeds-1t1jg8q",
+    "monogram": "OFS"
+  },
+  {
+    "id": "other-herbal-infusion-materials-from-leaves-and-herbs",
+    "name": "Other Herbal infusion materials from leaves and herbs",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "band-1m50xwq",
+    "monogram": "OHI"
+  },
+  {
+    "id": "other-miscellaneous-fruits-with-inedible-peel-large",
+    "name": "Other Miscellaneous fruits with inedible peel, large",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "window-1t3h3yv",
+    "monogram": "OMF"
+  },
+  {
+    "id": "other-not-listed-other-small-fruits-and-berries",
+    "name": "Other not listed other small fruits and berries",
+    "subject": "labelled-fruit-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "window-1bawojp",
+    "monogram": "ONL"
+  },
+  {
+    "id": "other-stone-fruits",
+    "name": "Other Stone fruits",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "dots-1v8otib",
+    "monogram": "OSF"
+  },
+  {
+    "id": "other-tropical-root-and-tuber-vegetables",
+    "name": "Other tropical root and tuber vegetables",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "cut-axejgt",
+    "monogram": "OTR"
+  },
+  {
+    "id": "other-wild-fungi",
+    "name": "Other wild fungi",
+    "subject": "mushroom",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-1g6le2s",
+    "monogram": "OWF"
+  },
+  {
+    "id": "ovine-milk",
+    "name": "Ovine milk",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "leaf",
+    "detail": "seeds-1nz2cou",
+    "monogram": "OM"
+  },
+  {
+    "id": "pak-choi",
+    "name": "Pak-choi",
+    "subject": "chinese-cabbage",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-w1ryn5",
+    "monogram": "PC"
+  },
+  {
+    "id": "papaya",
+    "name": "Papaya",
+    "subject": "papaya",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-k4p9cn",
+    "monogram": "PA"
+  },
+  {
+    "id": "papayas",
+    "name": "Papayas",
+    "subject": "papaya",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "seeds-7c9gj0",
+    "monogram": "PA"
+  },
+  {
+    "id": "paprika-powder",
+    "name": "Paprika powder",
+    "subject": "labelled-produce-pack",
+    "form": "dry-pack",
+    "accent": "berry",
+    "detail": "cut-132lekr",
+    "monogram": "PP"
+  },
+  {
+    "id": "parsley",
+    "name": "Parsley",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "window-jzi55p",
+    "monogram": "PA"
+  },
+  {
+    "id": "parsley-roots",
+    "name": "Parsley roots",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-1350u75",
+    "monogram": "PR"
+  },
+  {
+    "id": "parsnip-roots",
+    "name": "Parsnip roots",
+    "subject": "parsnip",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-dlh8bg",
+    "monogram": "PR"
+  },
+  {
+    "id": "parsnips",
+    "name": "Parsnips",
+    "subject": "parsnip",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "band-1kbewl1",
+    "monogram": "PA"
+  },
+  {
+    "id": "parsnips-and-similar",
+    "name": "Parsnips and similar",
+    "subject": "parsnip",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "band-19uoqd9",
+    "monogram": "PAS"
+  },
+  {
+    "id": "passionfruits",
+    "name": "Passionfruits",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "window-ca95w5",
+    "monogram": "PA"
+  },
+  {
+    "id": "pasta",
+    "name": "Pasta",
+    "subject": "pasta-bowl",
+    "form": "bowl",
+    "accent": "sky",
+    "detail": "dots-1qxrl84",
+    "monogram": "PA"
+  },
+  {
+    "id": "pasta-for-children-dry-to-be-cooked",
+    "name": "Pasta for children (dry, to be cooked)",
+    "subject": "pasta-bowl",
+    "form": "bowl",
+    "accent": "leaf",
+    "detail": "seeds-1cb8kyo",
+    "monogram": "PFC"
+  },
+  {
+    "id": "peaches",
+    "name": "Peaches",
+    "subject": "stone-fruit",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-e4jrwe",
+    "monogram": "PE"
+  },
+  {
+    "id": "peaches-and-similar",
+    "name": "Peaches and similar",
+    "subject": "stone-fruit",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-1mmhmvy",
+    "monogram": "PAS"
+  },
+  {
+    "id": "peaches-canned",
+    "name": "Peaches, Canned",
+    "subject": "stone-fruit",
+    "form": "tin",
+    "accent": "sky",
+    "detail": "stripe-17sohi4",
+    "monogram": "PC"
+  },
+  {
+    "id": "peaches-frozen",
+    "name": "Peaches, Frozen",
+    "subject": "stone-fruit",
+    "form": "frozen-pack",
+    "accent": "gold",
+    "detail": "seeds-1pj56lj",
+    "monogram": "PF"
+  },
+  {
+    "id": "peaches-nectarines",
+    "name": "Peaches and nectarines",
+    "subject": "stone-fruit",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "band-106wvp3",
+    "monogram": "PAN"
+  },
+  {
+    "id": "peaches-single-servings",
+    "name": "Peaches-Single Servings",
+    "subject": "stone-fruit",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-il7gfh",
+    "monogram": "PSS"
+  },
+  {
+    "id": "peanut-butter",
+    "name": "Peanut Butter",
+    "subject": "fat-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "window-os5xl5",
+    "monogram": "PB"
+  },
+  {
+    "id": "peanuts",
+    "name": "Peanuts",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "cut-1jxow2h",
+    "monogram": "PE"
+  },
+  {
+    "id": "peanuts-and-similar",
+    "name": "Peanuts and similar",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-hlotnl",
+    "monogram": "PAS"
+  },
+  {
+    "id": "pear-juice-conc-puree",
+    "name": "Pear Juice, Conc./Puree",
+    "subject": "pear",
+    "form": "drink",
+    "accent": "coral",
+    "detail": "cut-1gafwt2",
+    "monogram": "PJC"
+  },
+  {
+    "id": "pearl-oyster-mushrooms",
+    "name": "Pearl oyster mushrooms",
+    "subject": "pear",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "dots-exk4mg",
+    "monogram": "POM"
+  },
+  {
+    "id": "pears",
+    "name": "Pears",
+    "subject": "pear",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "dots-1h9s1tm",
+    "monogram": "PE"
+  },
+  {
+    "id": "pears-and-similar",
+    "name": "Pears and similar",
+    "subject": "pear",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-16k6gu2",
+    "monogram": "PAS"
+  },
+  {
+    "id": "pears-canned",
+    "name": "Pears, Canned",
+    "subject": "pear",
+    "form": "tin",
+    "accent": "coral",
+    "detail": "window-1lebztk",
+    "monogram": "PC"
+  },
+  {
+    "id": "pears-single-servings",
+    "name": "Pears-Single Servings",
+    "subject": "pear",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "window-trbibt",
+    "monogram": "PSS"
+  },
+  {
+    "id": "peas-dry-and-similar",
+    "name": "Peas (dry) and similar",
+    "subject": "pea-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-1xm6bhq",
+    "monogram": "PDA"
+  },
+  {
+    "id": "peas-with-pods-and-similar",
+    "name": "Peas (with pods) and similar",
+    "subject": "pea-pod",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-pl8lxs",
+    "monogram": "PWP"
+  },
+  {
+    "id": "peas-without-pods-and-similar",
+    "name": "Peas (without pods) and similar",
+    "subject": "pea-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-1i42wxe",
+    "monogram": "PWP"
+  },
+  {
+    "id": "pecans",
+    "name": "Pecans",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "band-k1ackl",
+    "monogram": "PE"
+  },
+  {
+    "id": "peppercorn-black-green-and-white",
+    "name": "Peppercorn (black, green and white)",
+    "subject": "corn-cob",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "cut-urdbx7",
+    "monogram": "PBG"
+  },
+  {
+    "id": "peppers-and-similar",
+    "name": "Peppers and similar",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "stripe-1qm5y3i",
+    "monogram": "PAS"
+  },
+  {
+    "id": "peppers-dried",
+    "name": "Peppers, dried",
+    "subject": "labelled-food-pack",
+    "form": "dry-pack",
+    "accent": "gold",
+    "detail": "stripe-1edx0wj",
+    "monogram": "PD"
+  },
+  {
+    "id": "pickled-marinated-vegetables",
+    "name": "Pickled / marinated vegetables",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "band-1as5ucy",
+    "monogram": "PMV"
+  },
+  {
+    "id": "pig-fat-tissue",
+    "name": "Pig fat tissue",
+    "subject": "fat-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "dots-buwsc7",
+    "monogram": "PFT"
+  },
+  {
+    "id": "pig-fresh-meat",
+    "name": "Pig fresh meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "cut-1b4pbbe",
+    "monogram": "PFM"
+  },
+  {
+    "id": "pig-kidney",
+    "name": "Pig kidney",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "seeds-1avzs86",
+    "monogram": "PK"
+  },
+  {
+    "id": "pig-liver",
+    "name": "Pig liver",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "dots-1uf87w2",
+    "monogram": "PL"
+  },
+  {
+    "id": "pine-nut-kernels",
+    "name": "Pine nut kernels",
+    "subject": "labelled-staple-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "cut-15v64cy",
+    "monogram": "PNK"
+  },
+  {
+    "id": "pineapple-canned",
+    "name": "Pineapple, Canned",
+    "subject": "apple",
+    "form": "tin",
+    "accent": "mint",
+    "detail": "window-caef7t",
+    "monogram": "PC"
+  },
+  {
+    "id": "pineapple-fresh",
+    "name": "Pineapple, Fresh",
+    "subject": "apple",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-mf6uf4",
+    "monogram": "PF"
+  },
+  {
+    "id": "pineapple-frozen",
+    "name": "Pineapple, Frozen",
+    "subject": "apple",
+    "form": "frozen-pack",
+    "accent": "sky",
+    "detail": "dots-1aca9a",
+    "monogram": "PF"
+  },
+  {
+    "id": "pineapples",
+    "name": "Pineapples",
+    "subject": "apple",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "seeds-jvtwti",
+    "monogram": "PI"
+  },
+  {
+    "id": "pineapples-and-similar",
+    "name": "Pineapples and similar",
+    "subject": "apple",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-iablhy",
+    "monogram": "PAS"
+  },
+  {
+    "id": "pinto-beans-canned",
+    "name": "Pinto Beans, Canned",
+    "subject": "bean-pod",
+    "form": "tin",
+    "accent": "mint",
+    "detail": "seeds-xqf0tn",
+    "monogram": "PBC"
+  },
+  {
+    "id": "pistachios",
+    "name": "Pistachios",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-1a34q3g",
+    "monogram": "PI"
+  },
+  {
+    "id": "pitayas",
+    "name": "Pitayas",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "stripe-srss0g",
+    "monogram": "PI"
+  },
+  {
+    "id": "plant-based-chocolate",
+    "name": "Plant-based chocolate",
+    "subject": "chocolate-bar",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "dots-1u4s1t7",
+    "monogram": "PBC"
+  },
+  {
+    "id": "plant-based-protein",
+    "name": "Plant-based protein",
+    "subject": "protein-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "dots-1qefks6",
+    "monogram": "PBP"
+  },
+  {
+    "id": "plantains",
+    "name": "Plantains",
+    "subject": "banana",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "dots-6quuz",
+    "monogram": "PL"
+  },
+  {
+    "id": "pleurotus",
+    "name": "Pleurotus",
+    "subject": "mushroom",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-1720il0",
+    "monogram": "PL"
+  },
+  {
+    "id": "plum-tomato",
+    "name": "Plum tomato",
+    "subject": "stone-fruit",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "seeds-xoptvg",
+    "monogram": "PT"
+  },
+  {
+    "id": "plums",
+    "name": "Plums",
+    "subject": "stone-fruit",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "window-1bkakeg",
+    "monogram": "PL"
+  },
+  {
+    "id": "plums-and-similar",
+    "name": "Plums and similar",
+    "subject": "stone-fruit",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-1i657pg",
+    "monogram": "PAS"
+  },
+  {
+    "id": "plums-dried-prunes",
+    "name": "Plums, Dried (Prunes)",
+    "subject": "stone-fruit",
+    "form": "dry-pack",
+    "accent": "mint",
+    "detail": "seeds-1priwo5",
+    "monogram": "PDP"
+  },
+  {
+    "id": "podded-pea-young-pods",
+    "name": "Podded pea (young pods)",
+    "subject": "pea-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "band-5fmet2",
+    "monogram": "PPY"
+  },
+  {
+    "id": "pointed-head-cabbages",
+    "name": "Pointed head cabbages",
+    "subject": "round-cabbage",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "window-15zexg",
+    "monogram": "PHC"
+  },
+  {
+    "id": "pom-pom-blancs",
+    "name": "Pom-pom blancs",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "stripe-1hqrkgq",
+    "monogram": "PPB"
+  },
+  {
+    "id": "pomelos",
+    "name": "Pomelos",
+    "subject": "citrus-half",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-1cphnvk",
+    "monogram": "PO"
+  },
+  {
+    "id": "popcorn",
+    "name": "Popcorn",
+    "subject": "corn-cob",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-5gse8a",
+    "monogram": "PO"
+  },
+  {
+    "id": "popcorn-kernels",
+    "name": "Popcorn kernels",
+    "subject": "corn-cob",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "window-1odppap",
+    "monogram": "PK"
+  },
+  {
+    "id": "poppy-seeds",
+    "name": "Poppy seeds",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "cut-ud6c28",
+    "monogram": "PS"
+  },
+  {
+    "id": "pork",
+    "name": "Pork",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "seeds-15v7oyv",
+    "monogram": "PO"
+  },
+  {
+    "id": "pork-adipose",
+    "name": "Pork Adipose",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "seeds-y3pk2z",
+    "monogram": "PA"
+  },
+  {
+    "id": "pork-muscle",
+    "name": "Pork Muscle",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-jrbr4d",
+    "monogram": "PM"
+  },
+  {
+    "id": "potato-crisps",
+    "name": "Potato crisps",
+    "subject": "potato",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-1bvb4xl",
+    "monogram": "PC"
+  },
+  {
+    "id": "potatoes",
+    "name": "Potatoes",
+    "subject": "potato",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-196shle",
+    "monogram": "PO"
+  },
+  {
+    "id": "potatoes-and-similar",
+    "name": "Potatoes and similar",
+    "subject": "potato",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-neqrgi",
+    "monogram": "PAS"
+  },
+  {
+    "id": "potatoes-frozen",
+    "name": "Potatoes, Frozen",
+    "subject": "potato",
+    "form": "frozen-pack",
+    "accent": "gold",
+    "detail": "cut-ntlqaj",
+    "monogram": "PF"
+  },
+  {
+    "id": "poultry",
+    "name": "Poultry",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "stripe-wqzutu",
+    "monogram": "PO"
+  },
+  {
+    "id": "poultry-adipose",
+    "name": "Poultry Adipose",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "dots-ivpyy",
+    "monogram": "PA"
+  },
+  {
+    "id": "poultry-breast",
+    "name": "Poultry, Breast",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-rnf2vo",
+    "monogram": "PB"
+  },
+  {
+    "id": "poultry-fat-tissue",
+    "name": "Poultry fat tissue",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "seeds-kgw82o",
+    "monogram": "PFT"
+  },
+  {
+    "id": "poultry-liver",
+    "name": "Poultry Liver",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "cut-1a4vmqn",
+    "monogram": "PL"
+  },
+  {
+    "id": "poultry-muscle",
+    "name": "Poultry Muscle",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "band-33v516",
+    "monogram": "PM"
+  },
+  {
+    "id": "poultry-thigh",
+    "name": "Poultry, Thigh",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "window-10ug1av",
+    "monogram": "PT"
+  },
+  {
+    "id": "predatory-fish",
+    "name": "Predatory fish",
+    "subject": "fish",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-18hoa9y",
+    "monogram": "PF"
+  },
+  {
+    "id": "prepared-fruit",
+    "name": "Prepared fruit",
+    "subject": "labelled-fruit-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "seeds-1mhs547",
+    "monogram": "PF"
+  },
+  {
+    "id": "prepared-salad",
+    "name": "Prepared salad",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "band-13ej7jo",
+    "monogram": "PS"
+  },
+  {
+    "id": "prickly-pears",
+    "name": "Prickly pears",
+    "subject": "pear",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-1pd6eib",
+    "monogram": "PP"
+  },
+  {
+    "id": "processed-cereal-based-food-for-infants-and-young-children",
+    "name": "Processed cereal-based food for infants and young children",
+    "subject": "cereal-bowl",
+    "form": "bowl",
+    "accent": "leaf",
+    "detail": "seeds-1l5jsjc",
+    "monogram": "PCB"
+  },
+  {
+    "id": "processed-cheese",
+    "name": "Processed cheese",
+    "subject": "cheese-wedge",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "window-1cbx6br",
+    "monogram": "PC"
+  },
+  {
+    "id": "processed-cheese-sliceable",
+    "name": "Processed cheese, sliceable",
+    "subject": "cheese-wedge",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-1hhe5uc",
+    "monogram": "PCS"
+  },
+  {
+    "id": "processed-peppers",
+    "name": "Processed peppers",
+    "subject": "labelled-food-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "window-19bjkzv",
+    "monogram": "PP"
+  },
+  {
+    "id": "processed-pork",
+    "name": "Processed pork",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "seeds-ilrqls",
+    "monogram": "PP"
+  },
+  {
+    "id": "processed-potatoes",
+    "name": "Processed potato products",
+    "subject": "potato",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "stripe-1k7dx75",
+    "monogram": "PPP"
+  },
+  {
+    "id": "processed-poultry",
+    "name": "Processed poultry",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "window-1o1alqj",
+    "monogram": "PP"
+  },
+  {
+    "id": "processed-tomatoes",
+    "name": "Processed tomatoes",
+    "subject": "tomato",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-4sr15k",
+    "monogram": "PT"
+  },
+  {
+    "id": "pulses",
+    "name": "Pulses",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "cut-1lei8t3",
+    "monogram": "PU"
+  },
+  {
+    "id": "pulses-flour",
+    "name": "Pulses flour",
+    "subject": "bean-pod",
+    "form": "dry-pack",
+    "accent": "coral",
+    "detail": "window-iomu1e",
+    "monogram": "PF"
+  },
+  {
+    "id": "pumpkin-canned",
+    "name": "Pumpkin, Canned",
+    "subject": "squash",
+    "form": "tin",
+    "accent": "gold",
+    "detail": "seeds-1idy207",
+    "monogram": "PC"
+  },
+  {
+    "id": "pumpkin-seeds",
+    "name": "Pumpkin seeds",
+    "subject": "squash",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-18fur10",
+    "monogram": "PS"
+  },
+  {
+    "id": "pumpkin-seeds-and-similar",
+    "name": "Pumpkin seeds and similar",
+    "subject": "squash",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-y1hff4",
+    "monogram": "PSA"
+  },
+  {
+    "id": "pumpkin-squash",
+    "name": "Pumpkin and squash",
+    "subject": "squash",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-fjtg6f",
+    "monogram": "PAS"
+  },
+  {
+    "id": "pumpkins",
+    "name": "Pumpkins",
+    "subject": "squash",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "band-2z8skk",
+    "monogram": "PU"
+  },
+  {
+    "id": "purslanes",
+    "name": "Purslanes",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "band-19on73o",
+    "monogram": "PU"
+  },
+  {
+    "id": "quinces",
+    "name": "Quinces",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "stripe-1d5tn4d",
+    "monogram": "QU"
+  },
+  {
+    "id": "quinoa-grain",
+    "name": "Quinoa grain",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "band-1l62foi",
+    "monogram": "QG"
+  },
+  {
+    "id": "rabbit-fresh-meat",
+    "name": "Rabbit fresh meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-1ijg54w",
+    "monogram": "RFM"
+  },
+  {
+    "id": "rabbit-liver",
+    "name": "Rabbit liver",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "band-1a7vad4",
+    "monogram": "RL"
+  },
+  {
+    "id": "radishes",
+    "name": "Radishes",
+    "subject": "radish",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "cut-129nhuk",
+    "monogram": "RA"
+  },
+  {
+    "id": "radishes-and-similar",
+    "name": "Radishes and similar",
+    "subject": "radish",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "stripe-119vcg8",
+    "monogram": "RAS"
+  },
+  {
+    "id": "raisins",
+    "name": "Raisins and dried grapes",
+    "subject": "labelled-fruit-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "seeds-11w0d9k",
+    "monogram": "RAD"
+  },
+  {
+    "id": "rape-seed-oil-edible",
+    "name": "Rape seed oil, edible",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "window-6hin2s",
+    "monogram": "RSO"
+  },
+  {
+    "id": "rapeseeds",
+    "name": "Rapeseeds",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "dots-8pigs7",
+    "monogram": "RA"
+  },
+  {
+    "id": "rapini",
+    "name": "Rapini",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "cut-1spr5ue",
+    "monogram": "RA"
+  },
+  {
+    "id": "raspberries",
+    "name": "Raspberries",
+    "subject": "raspberry",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "cut-1725zx",
+    "monogram": "RA"
+  },
+  {
+    "id": "raspberries-and-similar",
+    "name": "Raspberries and similar",
+    "subject": "raspberry",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "stripe-91i5sl",
+    "monogram": "RAS"
+  },
+  {
+    "id": "raspberries-frozen",
+    "name": "Raspberries, Frozen",
+    "subject": "raspberry",
+    "form": "frozen-pack",
+    "accent": "leaf",
+    "detail": "band-jc1z3u",
+    "monogram": "RF"
+  },
+  {
+    "id": "raspberries-red-and-yellow",
+    "name": "Raspberries (red and yellow)",
+    "subject": "raspberry",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-1dnkb7q",
+    "monogram": "RRA"
+  },
+  {
+    "id": "ratites-liver",
+    "name": "Ratites liver",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "seeds-phns30",
+    "monogram": "RL"
+  },
+  {
+    "id": "ready-to-eat-cereal-based-meal-for-children",
+    "name": "Ready-to-eat cereal-based meal for children",
+    "subject": "cereal-bowl",
+    "form": "bowl",
+    "accent": "sky",
+    "detail": "cut-15m3jws",
+    "monogram": "RTE"
+  },
+  {
+    "id": "ready-to-eat-dairy-based-meal-for-children",
+    "name": "Ready-to-eat dairy-based meal for children",
+    "subject": "labelled-chilled-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "cut-xgw1jn",
+    "monogram": "RTE"
+  },
+  {
+    "id": "ready-to-eat-fruit-based-meal-for-children",
+    "name": "Ready-to-eat fruit-based meal for children",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "window-12p35li",
+    "monogram": "RTE"
+  },
+  {
+    "id": "ready-to-eat-meal-for-infants-and-young-children",
+    "name": "Ready-to-eat meal for infants and young children",
+    "subject": "infant-jar",
+    "form": "jar",
+    "accent": "coral",
+    "detail": "window-140cj7w",
+    "monogram": "RTE"
+  },
+  {
+    "id": "ready-to-eat-meat-based-meal-for-children",
+    "name": "Ready-to-eat meat-based meal for children",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "window-oqlih7",
+    "monogram": "RTE"
+  },
+  {
+    "id": "ready-to-eat-mixed-meal-for-children",
+    "name": "Ready-to-eat mixed meal for children",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "window-119dwpd",
+    "monogram": "RTE"
+  },
+  {
+    "id": "ready-to-eat-vegetable-based-meal-for-children",
+    "name": "Ready-to-eat vegetable-based meal for children",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "seeds-1penalf",
+    "monogram": "RTE"
+  },
+  {
+    "id": "red-cabbages",
+    "name": "Red cabbages",
+    "subject": "round-cabbage",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-th1b4j",
+    "monogram": "RC"
+  },
+  {
+    "id": "redcurrants",
+    "name": "Redcurrants",
+    "subject": "berries",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-gh1xoi",
+    "monogram": "RE"
+  },
+  {
+    "id": "reindeer-meat",
+    "name": "Reindeer meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "window-1vq4rz1",
+    "monogram": "RM"
+  },
+  {
+    "id": "rhubarbs",
+    "name": "Rhubarbs",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "dots-1jwrvfw",
+    "monogram": "RH"
+  },
+  {
+    "id": "rice",
+    "name": "Rice",
+    "subject": "rice-bowl",
+    "form": "bowl",
+    "accent": "sky",
+    "detail": "seeds-1h67xs",
+    "monogram": "RI"
+  },
+  {
+    "id": "rice-and-similar",
+    "name": "Rice and similar",
+    "subject": "rice-bowl",
+    "form": "bowl",
+    "accent": "coral",
+    "detail": "band-1by1dmk",
+    "monogram": "RAS"
+  },
+  {
+    "id": "rice-flour",
+    "name": "Rice flour",
+    "subject": "rice-bowl",
+    "form": "dry-pack",
+    "accent": "mint",
+    "detail": "cut-198nm9t",
+    "monogram": "RF"
+  },
+  {
+    "id": "rice-grain",
+    "name": "Rice grain",
+    "subject": "rice-bowl",
+    "form": "bowl",
+    "accent": "sky",
+    "detail": "window-1xjta",
+    "monogram": "RG"
+  },
+  {
+    "id": "rice-grain-brown",
+    "name": "Rice grain, brown",
+    "subject": "rice-bowl",
+    "form": "bowl",
+    "accent": "mint",
+    "detail": "dots-6qm6zn",
+    "monogram": "RGB"
+  },
+  {
+    "id": "rice-grain-glutinous",
+    "name": "Rice grain, glutinous",
+    "subject": "rice-bowl",
+    "form": "bowl",
+    "accent": "mint",
+    "detail": "seeds-1cgv4j5",
+    "monogram": "RGG"
+  },
+  {
+    "id": "rice-grain-long-grain",
+    "name": "Rice grain, long-grain",
+    "subject": "rice-bowl",
+    "form": "bowl",
+    "accent": "gold",
+    "detail": "window-543fip",
+    "monogram": "RGL"
+  },
+  {
+    "id": "rice-grain-polished",
+    "name": "Rice grain, polished",
+    "subject": "rice-bowl",
+    "form": "bowl",
+    "accent": "gold",
+    "detail": "stripe-89ew01",
+    "monogram": "RGP"
+  },
+  {
+    "id": "roe-deer-meat",
+    "name": "Roe deer meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "window-pysj88",
+    "monogram": "RDM"
+  },
+  {
+    "id": "romaines",
+    "name": "Romaines",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "seeds-1d9wgz3",
+    "monogram": "RO"
+  },
+  {
+    "id": "roman-rocket",
+    "name": "Roman rocket",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "window-ubrt5p",
+    "monogram": "RR"
+  },
+  {
+    "id": "roman-rocket-and-similar",
+    "name": "Roman rocket and similar",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "cut-104w4t1",
+    "monogram": "RRA"
+  },
+  {
+    "id": "romanesco-cauliflowers",
+    "name": "Romanesco cauliflowers",
+    "subject": "cauliflower",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "cut-1dkv5u3",
+    "monogram": "RC"
+  },
+  {
+    "id": "rooibos",
+    "name": "Rooibos",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "stripe-146f9hi",
+    "monogram": "RO"
+  },
+  {
+    "id": "rosemary",
+    "name": "Rosemary",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-12fwvv1",
+    "monogram": "RO"
+  },
+  {
+    "id": "rum",
+    "name": "Rum",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "band-bljqd3",
+    "monogram": "RU"
+  },
+  {
+    "id": "rye",
+    "name": "Rye",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "seeds-9et60j",
+    "monogram": "RY"
+  },
+  {
+    "id": "rye-flour",
+    "name": "Rye flour",
+    "subject": "grain-ear",
+    "form": "dry-pack",
+    "accent": "leaf",
+    "detail": "stripe-vnijpi",
+    "monogram": "RF"
+  },
+  {
+    "id": "rye-grain",
+    "name": "Rye grain",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "seeds-1b193n9",
+    "monogram": "RG"
+  },
+  {
+    "id": "safflower-seeds",
+    "name": "Safflower seeds",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "dots-1j18apd",
+    "monogram": "SS"
+  },
+  {
+    "id": "saffron-and-similar",
+    "name": "Saffron and similar",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "cut-5dooxs",
+    "monogram": "SAS"
+  },
+  {
+    "id": "salad-leaves",
+    "name": "Salad leaves",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "cut-7j6rrd",
+    "monogram": "SL"
+  },
+  {
+    "id": "salted-vegetables",
+    "name": "Salted vegetables",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "cut-14gxvbf",
+    "monogram": "SV"
+  },
+  {
+    "id": "satsumas",
+    "name": "Satsumas",
+    "subject": "orange-half",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "cut-1ct2dem",
+    "monogram": "SA"
+  },
+  {
+    "id": "savoy-cabbages",
+    "name": "Savoy cabbages",
+    "subject": "round-cabbage",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "seeds-153d19o",
+    "monogram": "SC"
+  },
+  {
+    "id": "scorzonera",
+    "name": "Scorzonera",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "window-18efm69",
+    "monogram": "SC"
+  },
+  {
+    "id": "sea-buckthorns",
+    "name": "Sea buckthorns",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "window-1eckmgy",
+    "monogram": "SB"
+  },
+  {
+    "id": "sea-fish",
+    "name": "Sea fish",
+    "subject": "fish",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "window-1w8arsx",
+    "monogram": "SF"
+  },
+  {
+    "id": "seed-spices",
+    "name": "Seed spices",
+    "subject": "spice-jar",
+    "form": "jar",
+    "accent": "leaf",
+    "detail": "stripe-skde30",
+    "monogram": "SS"
+  },
+  {
+    "id": "sesame-seeds",
+    "name": "Sesame seeds",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "window-foook0",
+    "monogram": "SS"
+  },
+  {
+    "id": "shaddocks",
+    "name": "Shaddocks",
+    "subject": "fish",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-1h289n1",
+    "monogram": "SH"
+  },
+  {
+    "id": "shallots",
+    "name": "Shallots",
+    "subject": "onion",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-167y11b",
+    "monogram": "SH"
+  },
+  {
+    "id": "sheep-adult-fresh-meat",
+    "name": "Sheep (adult) fresh meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "window-1gozehg",
+    "monogram": "SAF"
+  },
+  {
+    "id": "sheep-fat-tissue",
+    "name": "Sheep fat tissue",
+    "subject": "fat-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "band-vxfwqa",
+    "monogram": "SFT"
+  },
+  {
+    "id": "sheep-fresh-meat",
+    "name": "Sheep fresh meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "seeds-1e5zewj",
+    "monogram": "SFM"
+  },
+  {
+    "id": "sheep-kidney",
+    "name": "Sheep kidney",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "dots-1jzeik7",
+    "monogram": "SK"
+  },
+  {
+    "id": "sheep-liver",
+    "name": "Sheep liver",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "cut-b89ya9",
+    "monogram": "SL"
+  },
+  {
+    "id": "sheep-milk",
+    "name": "Sheep milk",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "leaf",
+    "detail": "dots-17a2rfo",
+    "monogram": "SM"
+  },
+  {
+    "id": "shellfish",
+    "name": "Shellfish",
+    "subject": "fish",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-cw3g6f",
+    "monogram": "SH"
+  },
+  {
+    "id": "shimeji",
+    "name": "Shimeji",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "window-rp9e16",
+    "monogram": "SH"
+  },
+  {
+    "id": "simple-cereals-which-have-to-be-reconstituted-with-milk-or-other-appropriate-nutritious-liquids",
+    "name": "Simple cereals which have to be reconstituted with milk or other appropriate nutritious liquids",
+    "subject": "cereal-bowl",
+    "form": "bowl",
+    "accent": "mint",
+    "detail": "cut-1m7hw1t",
+    "monogram": "SCW"
+  },
+  {
+    "id": "small-radishes",
+    "name": "Small radishes",
+    "subject": "radish",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-gljaku",
+    "monogram": "SR"
+  },
+  {
+    "id": "snails",
+    "name": "Snails",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "seeds-wkwjf",
+    "monogram": "SN"
+  },
+  {
+    "id": "snap-peas",
+    "name": "Snap Peas",
+    "subject": "pea-pod",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "window-gp7mrv",
+    "monogram": "SP"
+  },
+  {
+    "id": "soft-cheese",
+    "name": "Soft cheese",
+    "subject": "cheese-wedge",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-1tib2z1",
+    "monogram": "SC"
+  },
+  {
+    "id": "soft-citrus",
+    "name": "Soft citrus",
+    "subject": "citrus-half",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-bu68hu",
+    "monogram": "SC"
+  },
+  {
+    "id": "soft-ripened-cheese",
+    "name": "Soft - ripened cheese",
+    "subject": "cheese-wedge",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-q4hqyp",
+    "monogram": "SRC"
+  },
+  {
+    "id": "sour-cherries",
+    "name": "Sour cherries",
+    "subject": "cherries",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "band-gq5s4q",
+    "monogram": "SC"
+  },
+  {
+    "id": "soya-drinks",
+    "name": "Soya drinks",
+    "subject": "drink-glass",
+    "form": "drink",
+    "accent": "berry",
+    "detail": "seeds-1djnotr",
+    "monogram": "SD"
+  },
+  {
+    "id": "soya-products",
+    "name": "Soya products",
+    "subject": "labelled-food-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "band-1055bu0",
+    "monogram": "SP"
+  },
+  {
+    "id": "soyabeans-and-similar",
+    "name": "Soyabeans and similar",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-okfli4",
+    "monogram": "SAS"
+  },
+  {
+    "id": "soyabeans-oilseed",
+    "name": "Soyabeans (oilseed)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "cut-17herb8",
+    "monogram": "SO"
+  },
+  {
+    "id": "soyabeans-with-pods",
+    "name": "Soyabeans (with pods)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-dg2k32",
+    "monogram": "SWP"
+  },
+  {
+    "id": "soyabeans-without-pods",
+    "name": "Soyabeans (without pods)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-hpk6ek",
+    "monogram": "SWP"
+  },
+  {
+    "id": "soybean-grain",
+    "name": "Soybean Grain",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "seeds-106wi0a",
+    "monogram": "SG"
+  },
+  {
+    "id": "speciality-cheese",
+    "name": "Buffalo, ewe and goat cheese",
+    "subject": "cheese-wedge",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "stripe-1j5gxxq",
+    "monogram": "BEA"
+  },
+  {
+    "id": "speciality-dried-beans",
+    "name": "Speciality dried beans",
+    "subject": "bean-pod",
+    "form": "dry-pack",
+    "accent": "gold",
+    "detail": "cut-6hycij",
+    "monogram": "SDB"
+  },
+  {
+    "id": "speciality-fruit",
+    "name": "Speciality fruit",
+    "subject": "labelled-fruit-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "seeds-1vf394r",
+    "monogram": "SF"
+  },
+  {
+    "id": "speciality-mushrooms",
+    "name": "Speciality mushrooms",
+    "subject": "mushroom",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "stripe-1q10nkq",
+    "monogram": "SM"
+  },
+  {
+    "id": "speciality-snacks",
+    "name": "Speciality snacks",
+    "subject": "snack-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "seeds-rh5mm4",
+    "monogram": "SS"
+  },
+  {
+    "id": "speciality-vegetables",
+    "name": "Speciality vegetables",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "mint",
+    "detail": "seeds-14q19vb",
+    "monogram": "SV"
+  },
+  {
+    "id": "spelt-flour-wholemeal",
+    "name": "Spelt flour, wholemeal",
+    "subject": "flour-bag",
+    "form": "dry-pack",
+    "accent": "gold",
+    "detail": "window-1b1ntlp",
+    "monogram": "SFW"
+  },
+  {
+    "id": "spelt-grain",
+    "name": "Spelt grain",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "dots-1acfgcf",
+    "monogram": "SG"
+  },
+  {
+    "id": "spices",
+    "name": "Spices",
+    "subject": "spice-jar",
+    "form": "jar",
+    "accent": "coral",
+    "detail": "band-145zru2",
+    "monogram": "SP"
+  },
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "subject": "spinach",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "seeds-1qj8hff",
+    "monogram": "SP"
+  },
+  {
+    "id": "spinach-canned",
+    "name": "Spinach, Canned",
+    "subject": "spinach",
+    "form": "tin",
+    "accent": "gold",
+    "detail": "band-qj1a1v",
+    "monogram": "SC"
+  },
+  {
+    "id": "spinach-frozen",
+    "name": "Spinach, Frozen",
+    "subject": "spinach",
+    "form": "frozen-pack",
+    "accent": "sky",
+    "detail": "stripe-1u67jps",
+    "monogram": "SF"
+  },
+  {
+    "id": "spinaches",
+    "name": "Spinaches",
+    "subject": "spinach",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "band-wezdm3",
+    "monogram": "SP"
+  },
+  {
+    "id": "spinaches-and-similar",
+    "name": "Spinaches and similar",
+    "subject": "spinach",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-1r6gif3",
+    "monogram": "SAS"
+  },
+  {
+    "id": "spring-greens",
+    "name": "Spring greens",
+    "subject": "leafy-greens",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "cut-1060v0z",
+    "monogram": "SG"
+  },
+  {
+    "id": "spring-greens-kale",
+    "name": "Spring greens and kale",
+    "subject": "leafy-greens",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-16le001",
+    "monogram": "SGA"
+  },
+  {
+    "id": "spring-onions",
+    "name": "Spring onions",
+    "subject": "spring-onions",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-v01krd",
+    "monogram": "SO"
+  },
+  {
+    "id": "spring-onions-and-similar",
+    "name": "Spring onions and similar",
+    "subject": "spring-onions",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-mxborl",
+    "monogram": "SOA"
+  },
+  {
+    "id": "st-john-s-wort-infusion-leaves",
+    "name": "St. John´s Wort infusion leaves",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "cut-75ufo",
+    "monogram": "SJS"
+  },
+  {
+    "id": "starches",
+    "name": "Starches",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "band-1wirmt6",
+    "monogram": "ST"
+  },
+  {
+    "id": "strawberries",
+    "name": "Strawberries",
+    "subject": "strawberry",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "stripe-1jxjc5k",
+    "monogram": "ST"
+  },
+  {
+    "id": "strawberries-and-similar",
+    "name": "Strawberries and similar",
+    "subject": "strawberry",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "window-4g30zo",
+    "monogram": "SAS"
+  },
+  {
+    "id": "strawberries-frozen",
+    "name": "Strawberries, Frozen",
+    "subject": "strawberry",
+    "form": "frozen-pack",
+    "accent": "mint",
+    "detail": "seeds-18g74j5",
+    "monogram": "SF"
+  },
+  {
+    "id": "sugar-beet-roots",
+    "name": "Sugar beet roots",
+    "subject": "beetroot",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-169dr4w",
+    "monogram": "SBR"
+  },
+  {
+    "id": "sugar-loaf-chicories",
+    "name": "Sugar loaf chicories",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "coral",
+    "detail": "stripe-8qyf9e",
+    "monogram": "SLC"
+  },
+  {
+    "id": "summer-squash",
+    "name": "Summer Squash",
+    "subject": "squash",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "dots-1ksqgmy",
+    "monogram": "SS"
+  },
+  {
+    "id": "summer-squashes",
+    "name": "Summer squashes",
+    "subject": "squash",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "stripe-65qna2",
+    "monogram": "SS"
+  },
+  {
+    "id": "sun-dried-tomatoes",
+    "name": "Sun-dried tomatoes",
+    "subject": "tomato",
+    "form": "dry-pack",
+    "accent": "mint",
+    "detail": "dots-1lopgxh",
+    "monogram": "SDT"
+  },
+  {
+    "id": "sunflower-seed-oil-edible",
+    "name": "Sunflower seed oil, edible",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "band-12nby7x",
+    "monogram": "SSO"
+  },
+  {
+    "id": "sunflower-seeds",
+    "name": "Sunflower seeds",
+    "subject": "seeds",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "window-1dqekv1",
+    "monogram": "SS"
+  },
+  {
+    "id": "sweet-bell-peppers",
+    "name": "Sweet Bell Peppers",
+    "subject": "sweet-pepper",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "dots-1ip357",
+    "monogram": "SBP"
+  },
+  {
+    "id": "sweet-corn",
+    "name": "Sweet corn",
+    "subject": "corn-cob",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-1efdbqw",
+    "monogram": "SC"
+  },
+  {
+    "id": "sweet-corn-canned",
+    "name": "Sweet Corn, Canned",
+    "subject": "corn-cob",
+    "form": "tin",
+    "accent": "coral",
+    "detail": "cut-1kse8ie",
+    "monogram": "SCC"
+  },
+  {
+    "id": "sweet-corn-fresh",
+    "name": "Sweet Corn, Fresh",
+    "subject": "corn-cob",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-1elw4c9",
+    "monogram": "SCF"
+  },
+  {
+    "id": "sweet-corn-fresh-on-the-cob",
+    "name": "Sweet Corn, Fresh (on-the-cob)",
+    "subject": "corn-cob",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "band-jaua2i",
+    "monogram": "SCF"
+  },
+  {
+    "id": "sweet-corn-frozen",
+    "name": "Sweet Corn, Frozen",
+    "subject": "corn-cob",
+    "form": "frozen-pack",
+    "accent": "mint",
+    "detail": "cut-1irsf0h",
+    "monogram": "SCF"
+  },
+  {
+    "id": "sweet-peas-canned",
+    "name": "Sweet Peas, Canned",
+    "subject": "pea-pod",
+    "form": "tin",
+    "accent": "mint",
+    "detail": "seeds-1nnsodh",
+    "monogram": "SPC"
+  },
+  {
+    "id": "sweet-peas-frozen",
+    "name": "Sweet Peas, Frozen",
+    "subject": "pea-pod",
+    "form": "frozen-pack",
+    "accent": "sky",
+    "detail": "stripe-1becpca",
+    "monogram": "SPF"
+  },
+  {
+    "id": "sweet-peppers",
+    "name": "Sweet peppers",
+    "subject": "sweet-pepper",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "dots-4qfwxj",
+    "monogram": "SP"
+  },
+  {
+    "id": "sweet-potatoes",
+    "name": "Sweet potatoes",
+    "subject": "sweet-potato",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "stripe-1jrb9xp",
+    "monogram": "SP"
+  },
+  {
+    "id": "table-grapes",
+    "name": "Table grapes",
+    "subject": "grape-bunch",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "cut-ntwmf6",
+    "monogram": "TG"
+  },
+  {
+    "id": "table-grapes-and-similar",
+    "name": "Table grapes and similar",
+    "subject": "grape-bunch",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-2djto2",
+    "monogram": "TGA"
+  },
+  {
+    "id": "table-olives",
+    "name": "Table olives",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "band-1n03zpa",
+    "monogram": "TO"
+  },
+  {
+    "id": "table-olives-ready-for-consumption",
+    "name": "Table olives ready for consumption",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "stripe-1tmwnkc",
+    "monogram": "TOR"
+  },
+  {
+    "id": "tahiti-limes",
+    "name": "Tahiti limes",
+    "subject": "lime-half",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-5jash9",
+    "monogram": "TL"
+  },
+  {
+    "id": "tangerines",
+    "name": "Tangerines",
+    "subject": "orange-half",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-1e0qokt",
+    "monogram": "TA"
+  },
+  {
+    "id": "tankan-mandarin",
+    "name": "Tankan mandarin",
+    "subject": "orange-half",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "seeds-qpyc2p",
+    "monogram": "TM"
+  },
+  {
+    "id": "tansy-and-related-species-dry",
+    "name": "Tansy and related species, dry",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "gold",
+    "detail": "window-i1nih1",
+    "monogram": "TAR"
+  },
+  {
+    "id": "taros",
+    "name": "Taros",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "dots-f3sepa",
+    "monogram": "TA"
+  },
+  {
+    "id": "tea-leaves-and-stalks-fermented",
+    "name": "Tea leaves and stalks, fermented",
+    "subject": "tea-cup",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "seeds-1rcqnni",
+    "monogram": "TLA"
+  },
+  {
+    "id": "tea-leaves-and-stalks-with-fruit-and-flavours",
+    "name": "Tea leaves and stalks with fruit and flavours",
+    "subject": "tea-cup",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "seeds-qo3otm",
+    "monogram": "TLA"
+  },
+  {
+    "id": "tea-leaves-derivatives-and-tea-ingredients",
+    "name": "Tea leaves derivatives and tea ingredients",
+    "subject": "tea-cup",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-1e5x95t",
+    "monogram": "TLD"
+  },
+  {
+    "id": "tea-powder-ingredients-and-extracts",
+    "name": "Tea powder ingredients and extracts",
+    "subject": "tea-cup",
+    "form": "dry-pack",
+    "accent": "gold",
+    "detail": "dots-1cpje9d",
+    "monogram": "TPI"
+  },
+  {
+    "id": "teas-leaves-dry-and-or-fermented-and-similar",
+    "name": "Teas leaves, dry and/or fermented, and similar",
+    "subject": "tea-cup",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "seeds-1s31mls",
+    "monogram": "TLD"
+  },
+  {
+    "id": "thyme",
+    "name": "Thyme",
+    "subject": "herb-sprig",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "stripe-17q58ri",
+    "monogram": "TH"
+  },
+  {
+    "id": "tigernuts",
+    "name": "Tigernuts",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "band-i4d04g",
+    "monogram": "TI"
+  },
+  {
+    "id": "tinned-beans",
+    "name": "Tinned beans",
+    "subject": "bean-pod",
+    "form": "tin",
+    "accent": "mint",
+    "detail": "cut-1tjl8ct",
+    "monogram": "TB"
+  },
+  {
+    "id": "tinned-fish",
+    "name": "Tinned fish",
+    "subject": "fish",
+    "form": "tin",
+    "accent": "sky",
+    "detail": "dots-3obb5g",
+    "monogram": "TF"
+  },
+  {
+    "id": "tinned-tomatoes",
+    "name": "Tinned tomatoes",
+    "subject": "tomato",
+    "form": "tin",
+    "accent": "leaf",
+    "detail": "stripe-mxjee0",
+    "monogram": "TT"
+  },
+  {
+    "id": "tomatillos",
+    "name": "Tomatillos",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "berry",
+    "detail": "window-1273guf",
+    "monogram": "TO"
+  },
+  {
+    "id": "tomato-paste",
+    "name": "Tomato Paste",
+    "subject": "tomato",
+    "form": "jar",
+    "accent": "mint",
+    "detail": "cut-1p4fs7h",
+    "monogram": "TP"
+  },
+  {
+    "id": "tomatoes",
+    "name": "Tomatoes",
+    "subject": "tomato",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-1q0zier",
+    "monogram": "TO"
+  },
+  {
+    "id": "tomatoes-and-similar",
+    "name": "Tomatoes and similar",
+    "subject": "tomato",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "seeds-1l2yibb",
+    "monogram": "TAS"
+  },
+  {
+    "id": "tomatoes-canned",
+    "name": "Tomatoes, Canned",
+    "subject": "tomato",
+    "form": "tin",
+    "accent": "mint",
+    "detail": "window-1gewckb",
+    "monogram": "TC"
+  },
+  {
+    "id": "traditional-sour-milk-products",
+    "name": "Traditional sour milk products",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "gold",
+    "detail": "seeds-1p8qoz7",
+    "monogram": "TSM"
+  },
+  {
+    "id": "tree-nuts",
+    "name": "Tree nuts",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "dots-abgng0",
+    "monogram": "TN"
+  },
+  {
+    "id": "turkey-fresh-fat-tissue",
+    "name": "Turkey, fresh fat tissue",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-1j4xbvk",
+    "monogram": "TFF"
+  },
+  {
+    "id": "turkey-fresh-meat",
+    "name": "Turkey fresh meat",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-xzlney",
+    "monogram": "TFM"
+  },
+  {
+    "id": "turkey-liver",
+    "name": "Turkey liver",
+    "subject": "poultry",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "band-1eakuya",
+    "monogram": "TL"
+  },
+  {
+    "id": "turmeric",
+    "name": "Turmeric",
+    "subject": "turmeric-root",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-1566og4",
+    "monogram": "TU"
+  },
+  {
+    "id": "turmeric-roots",
+    "name": "Turmeric roots",
+    "subject": "turmeric-root",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "band-wgpit8",
+    "monogram": "TR"
+  },
+  {
+    "id": "turnips",
+    "name": "Turnips",
+    "subject": "turnip",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "seeds-1o1ijco",
+    "monogram": "TU"
+  },
+  {
+    "id": "ugli-fruits",
+    "name": "Ugli fruits",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "cut-15rhsd6",
+    "monogram": "UF"
+  },
+  {
+    "id": "veal-kidney",
+    "name": "Veal kidney",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "band-2v9xrg",
+    "monogram": "VK"
+  },
+  {
+    "id": "veal-liver",
+    "name": "Veal liver",
+    "subject": "organ-meat-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "dots-19up1z0",
+    "monogram": "VL"
+  },
+  {
+    "id": "vine-leaves",
+    "name": "Vine leaves",
+    "subject": "leafy-greens",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "band-1u2jmd0",
+    "monogram": "VL"
+  },
+  {
+    "id": "vinegar-wine",
+    "name": "Vinegar, wine",
+    "subject": "drink-glass",
+    "form": "drink",
+    "accent": "berry",
+    "detail": "dots-1n4gue9",
+    "monogram": "VW"
+  },
+  {
+    "id": "wall-rocket",
+    "name": "Wall rocket",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "leaf",
+    "detail": "band-xcmtm0",
+    "monogram": "WR"
+  },
+  {
+    "id": "walnut-oil",
+    "name": "Walnut oil",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "window-s3e2mf",
+    "monogram": "WO"
+  },
+  {
+    "id": "walnuts",
+    "name": "Walnuts",
+    "subject": "nuts",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "band-1vndsfb",
+    "monogram": "WA"
+  },
+  {
+    "id": "water-bottled",
+    "name": "Water, Bottled",
+    "subject": "drink-glass",
+    "form": "drink",
+    "accent": "gold",
+    "detail": "dots-15fbxod",
+    "monogram": "WB"
+  },
+  {
+    "id": "water-finished",
+    "name": "Water, Finished",
+    "subject": "drink-glass",
+    "form": "drink",
+    "accent": "berry",
+    "detail": "window-1777q0x",
+    "monogram": "WF"
+  },
+  {
+    "id": "water-groundwater",
+    "name": "Water, Groundwater",
+    "subject": "drink-glass",
+    "form": "drink",
+    "accent": "mint",
+    "detail": "stripe-lrm3fb",
+    "monogram": "WG"
+  },
+  {
+    "id": "water-untreated",
+    "name": "Water, Untreated",
+    "subject": "drink-glass",
+    "form": "drink",
+    "accent": "gold",
+    "detail": "stripe-1mkid7d",
+    "monogram": "WU"
+  },
+  {
+    "id": "watermelon",
+    "name": "Watermelon",
+    "subject": "melon-slice",
+    "form": "drink",
+    "accent": "mint",
+    "detail": "seeds-1dxjgzb",
+    "monogram": "WA"
+  },
+  {
+    "id": "watermelon-seeds",
+    "name": "Watermelon seeds",
+    "subject": "melon-slice",
+    "form": "drink",
+    "accent": "leaf",
+    "detail": "dots-oxipz0",
+    "monogram": "WS"
+  },
+  {
+    "id": "watermelons",
+    "name": "Watermelons",
+    "subject": "melon-slice",
+    "form": "drink",
+    "accent": "coral",
+    "detail": "window-42s1ak",
+    "monogram": "WA"
+  },
+  {
+    "id": "watermelons-and-similar",
+    "name": "Watermelons and similar",
+    "subject": "melon-slice",
+    "form": "drink",
+    "accent": "leaf",
+    "detail": "seeds-1qh7hvc",
+    "monogram": "WAS"
+  },
+  {
+    "id": "welsh-onions",
+    "name": "Welsh onions",
+    "subject": "onion",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "seeds-1hhjxup",
+    "monogram": "WO"
+  },
+  {
+    "id": "wheat",
+    "name": "Wheat",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "stripe-16bn9s",
+    "monogram": "WH"
+  },
+  {
+    "id": "wheat-and-similar",
+    "name": "Wheat and similar",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "window-bxjq1o",
+    "monogram": "WAS"
+  },
+  {
+    "id": "wheat-coffee-ingredient",
+    "name": "Wheat coffee ingredient",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "seeds-d0smbd",
+    "monogram": "WCI"
+  },
+  {
+    "id": "wheat-flour",
+    "name": "Wheat flour",
+    "subject": "grain-ear",
+    "form": "dry-pack",
+    "accent": "berry",
+    "detail": "dots-qx1n4x",
+    "monogram": "WF"
+  },
+  {
+    "id": "wheat-flour-brown",
+    "name": "Wheat flour, brown",
+    "subject": "grain-ear",
+    "form": "dry-pack",
+    "accent": "coral",
+    "detail": "band-w6pz3k",
+    "monogram": "WFB"
+  },
+  {
+    "id": "wheat-flour-durum",
+    "name": "Wheat flour, durum",
+    "subject": "grain-ear",
+    "form": "dry-pack",
+    "accent": "mint",
+    "detail": "band-1jewwf5",
+    "monogram": "WFD"
+  },
+  {
+    "id": "wheat-flour-white",
+    "name": "Wheat flour white",
+    "subject": "grain-ear",
+    "form": "dry-pack",
+    "accent": "mint",
+    "detail": "seeds-7h1odt",
+    "monogram": "WFW"
+  },
+  {
+    "id": "wheat-grain",
+    "name": "Wheat grain",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-1grdf1q",
+    "monogram": "WG"
+  },
+  {
+    "id": "wheat-groats",
+    "name": "Wheat groats",
+    "subject": "grain-ear",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "dots-jvvkmf",
+    "monogram": "WG"
+  },
+  {
+    "id": "wheat-rolled-grains",
+    "name": "Wheat rolled grains",
+    "subject": "bread-loaf",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "dots-1j4kyzw",
+    "monogram": "WRG"
+  },
+  {
+    "id": "wheat-wholemeal-flour",
+    "name": "Wheat wholemeal flour",
+    "subject": "grain-ear",
+    "form": "dry-pack",
+    "accent": "coral",
+    "detail": "stripe-1k3j2dw",
+    "monogram": "WWF"
+  },
+  {
+    "id": "white-cabbage",
+    "name": "White cabbage",
+    "subject": "round-cabbage",
+    "form": "fresh",
+    "accent": "leaf",
+    "detail": "seeds-184jodo",
+    "monogram": "WC"
+  },
+  {
+    "id": "white-fish",
+    "name": "White fish",
+    "subject": "fish",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "cut-1w4n253",
+    "monogram": "WF"
+  },
+  {
+    "id": "whole-eggs",
+    "name": "Whole eggs",
+    "subject": "egg",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "band-x71xgp",
+    "monogram": "WE"
+  },
+  {
+    "id": "wild-boar-fresh-meat",
+    "name": "Wild boar fresh meat",
+    "subject": "meat-cut",
+    "form": "fresh",
+    "accent": "gold",
+    "detail": "window-l1jl57",
+    "monogram": "WBF"
+  },
+  {
+    "id": "wine",
+    "name": "Wine",
+    "subject": "drink-glass",
+    "form": "drink",
+    "accent": "sky",
+    "detail": "dots-5aloxg",
+    "monogram": "WI"
+  },
+  {
+    "id": "wine-grapes",
+    "name": "Wine grapes",
+    "subject": "grape-bunch",
+    "form": "drink",
+    "accent": "berry",
+    "detail": "cut-1yukp3f",
+    "monogram": "WG"
+  },
+  {
+    "id": "wine-red",
+    "name": "Wine, red",
+    "subject": "drink-glass",
+    "form": "drink",
+    "accent": "coral",
+    "detail": "cut-1prgrgq",
+    "monogram": "WR"
+  },
+  {
+    "id": "wine-ros",
+    "name": "Wine, rosé",
+    "subject": "drink-glass",
+    "form": "drink",
+    "accent": "gold",
+    "detail": "stripe-1v0bh1p",
+    "monogram": "WR"
+  },
+  {
+    "id": "wine-white",
+    "name": "Wine, white",
+    "subject": "drink-glass",
+    "form": "drink",
+    "accent": "leaf",
+    "detail": "band-1g6ykqc",
+    "monogram": "WW"
+  },
+  {
+    "id": "winter-melon",
+    "name": "Winter melon",
+    "subject": "melon-slice",
+    "form": "fresh",
+    "accent": "sky",
+    "detail": "window-1wrmwjy",
+    "monogram": "WM"
+  },
+  {
+    "id": "winter-squash",
+    "name": "Winter Squash",
+    "subject": "squash",
+    "form": "fresh",
+    "accent": "coral",
+    "detail": "seeds-1vugjmq",
+    "monogram": "WS"
+  },
+  {
+    "id": "winter-squash-frozen",
+    "name": "Winter Squash, Frozen",
+    "subject": "squash",
+    "form": "frozen-pack",
+    "accent": "gold",
+    "detail": "window-1mx9bij",
+    "monogram": "WSF"
+  },
+  {
+    "id": "witloofs",
+    "name": "Witloofs",
+    "subject": "labelled-produce-pack",
+    "form": "pack",
+    "accent": "sky",
+    "detail": "window-rvlyc4",
+    "monogram": "WI"
+  },
+  {
+    "id": "yams",
+    "name": "Yams",
+    "subject": "sweet-potato",
+    "form": "fresh",
+    "accent": "mint",
+    "detail": "dots-rt35yn",
+    "monogram": "YA"
+  },
+  {
+    "id": "yardlong-beans-with-pods",
+    "name": "Yardlong beans (with pods)",
+    "subject": "bean-pod",
+    "form": "fresh",
+    "accent": "berry",
+    "detail": "stripe-hwdqo3",
+    "monogram": "YBW"
+  },
+  {
+    "id": "yoghurt",
+    "name": "Yoghurt",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "mint",
+    "detail": "band-13y073b",
+    "monogram": "YO"
+  },
+  {
+    "id": "yoghurt-cow-milk",
+    "name": "Yoghurt, cow milk",
+    "subject": "milk-bottle",
+    "form": "bottle",
+    "accent": "mint",
+    "detail": "dots-1hf4t2z",
+    "monogram": "YCM"
+  }
+]

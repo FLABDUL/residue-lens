@@ -1,0 +1,17 @@
+# Local build and browser-test output
+.next/
+.next-playwright/
+.next-playwright-account/
+playwright-report/
+test-results/
+coverage/
+
+# Local dependencies, caches and isolated worktrees
+node_modules/
+.cache/
+.worktrees/
+
+# Local-only environment and tooling state
+.env*
+.agents/
+.git/

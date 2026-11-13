@@ -1,0 +1,6051 @@
+{
+  "meta": {
+    "title": "Pesticide residues in food: 2025",
+    "year": 2025,
+    "region": "Great Britain and Northern Ireland",
+    "sourceUrl": "https://www.data.gov.uk/dataset/5d5028ef-9918-4ab7-8755-81f3ad06f308/pesticide-residues-in-food",
+    "sourcePage": "https://www.data.gov.uk/dataset/5d5028ef-9918-4ab7-8755-81f3ad06f308/pesticide-residues-in-food",
+    "licence": "UK Open Government Licence v3.0",
+    "generatedNote": "BNA sample sheets are normalised; split and quarterly releases are deduplicated by sample identifier."
+  },
+  "foods": [
+    {
+      "id": "infant-food",
+      "canonicalId": "infant-food",
+      "name": "Infant food",
+      "category": "Baby food",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q3",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q3_2025_quarterly_data.ods",
+      "all": {
+        "samples": 24,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "conventional": {
+        "samples": 3,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "organic": {
+        "samples": 21,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": []
+    },
+    {
+      "id": "apple-juice",
+      "canonicalId": "apple-juice",
+      "name": "Apple juice",
+      "category": "Drinks & processed",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q3",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q3_2025_quarterly_data.ods",
+      "all": {
+        "samples": 60,
+        "detectedPct": 88.3,
+        "residueFreePct": 11.7,
+        "multiplePct": 80.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 2.0,
+        "maxResidues": 3
+      },
+      "conventional": {
+        "samples": 55,
+        "detectedPct": 94.5,
+        "residueFreePct": 5.5,
+        "multiplePct": 87.3,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 2,
+        "maxResidues": 3
+      },
+      "organic": {
+        "samples": 5,
+        "detectedPct": 20.0,
+        "residueFreePct": 80.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 1
+      },
+      "topResidues": [
+        {
+          "name": "captan (sum)",
+          "detections": 51,
+          "samplePct": 85.0,
+          "medianMgKg": 0.3,
+          "highMgKg": 0.5,
+          "typicalMrlMgKg": 6.3
+        },
+        {
+          "name": "flonicamid (sum)",
+          "detections": 38,
+          "samplePct": 63.3,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.3
+        },
+        {
+          "name": "pyrimethanil",
+          "detections": 11,
+          "samplePct": 18.3,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.05,
+          "typicalMrlMgKg": 7.65
+        },
+        {
+          "name": "acetamiprid",
+          "detections": 2,
+          "samplePct": 3.3,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.188
+        },
+        {
+          "name": "boscalid",
+          "detections": 2,
+          "samplePct": 3.3,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.14
+        },
+        {
+          "name": "Pirimicarb",
+          "detections": 1,
+          "samplePct": 1.7,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.5
+        }
+      ]
+    },
+    {
+      "id": "mango-juice",
+      "canonicalId": "mango-juice",
+      "name": "Mango juice",
+      "category": "Drinks & processed",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q3",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q3_2025_quarterly_data.ods",
+      "all": {
+        "samples": 18,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "conventional": {
+        "samples": 18,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": []
+    },
+    {
+      "id": "plant-based-chocolate",
+      "canonicalId": "plant-based-chocolate",
+      "name": "Plant-based chocolate",
+      "category": "Drinks & processed",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 36,
+        "detectedPct": 13.9,
+        "residueFreePct": 86.1,
+        "multiplePct": 5.6,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 2
+      },
+      "conventional": {
+        "samples": 31,
+        "detectedPct": 12.9,
+        "residueFreePct": 87.1,
+        "multiplePct": 3.2,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 2
+      },
+      "organic": {
+        "samples": 5,
+        "detectedPct": 20.0,
+        "residueFreePct": 80.0,
+        "multiplePct": 20.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 2
+      },
+      "topResidues": [
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 2.9,
+          "highMgKg": 3.1,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "clothianidin",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "boscalid",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "fluopyram",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "2,4-D (partial sum)",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "ethoprophos",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": null
+        }
+      ]
+    },
+    {
+      "id": "plant-based-protein",
+      "canonicalId": "plant-based-protein",
+      "name": "Plant-based protein",
+      "category": "Drinks & processed",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q3",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q3_2025_quarterly_data.ods",
+      "all": {
+        "samples": 24,
+        "detectedPct": 25.0,
+        "residueFreePct": 75.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "conventional": {
+        "samples": 24,
+        "detectedPct": 25.0,
+        "residueFreePct": 75.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "DDAC (sum)",
+          "detections": 3,
+          "samplePct": 12.5,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 0.1
+        },
+        {
+          "name": "2,4-D (partial sum)",
+          "detections": 2,
+          "samplePct": 8.3,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 1,
+          "samplePct": 4.2,
+          "medianMgKg": 0.6,
+          "highMgKg": 0.6,
+          "typicalMrlMgKg": null
+        }
+      ]
+    },
+    {
+      "id": "processed-tomatoes",
+      "canonicalId": "processed-tomatoes",
+      "name": "Processed tomatoes",
+      "category": "Drinks & processed",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q1_2025_quarterly_data.ods",
+      "all": {
+        "samples": 6,
+        "detectedPct": 50.0,
+        "residueFreePct": 50.0,
+        "multiplePct": 16.7,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.5,
+        "maxResidues": 3
+      },
+      "conventional": {
+        "samples": 6,
+        "detectedPct": 50.0,
+        "residueFreePct": 50.0,
+        "multiplePct": 16.7,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.5,
+        "maxResidues": 3
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "Spirotetramat (partial sum)",
+          "detections": 3,
+          "samplePct": 50.0,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 1,
+          "samplePct": 16.7,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.21
+        },
+        {
+          "name": "fluazifop-p (sum)",
+          "detections": 1,
+          "samplePct": 16.7,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.06
+        }
+      ]
+    },
+    {
+      "id": "wine",
+      "canonicalId": "wine",
+      "name": "Wine",
+      "category": "Drinks & processed",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q2\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 72,
+        "detectedPct": 70.8,
+        "residueFreePct": 29.2,
+        "multiplePct": 34.7,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1.0,
+        "maxResidues": 5
+      },
+      "conventional": {
+        "samples": 53,
+        "detectedPct": 81.1,
+        "residueFreePct": 18.9,
+        "multiplePct": 41.5,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1,
+        "maxResidues": 5
+      },
+      "organic": {
+        "samples": 19,
+        "detectedPct": 42.1,
+        "residueFreePct": 57.9,
+        "multiplePct": 15.8,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 2
+      },
+      "topResidues": [
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 46,
+          "samplePct": 63.9,
+          "medianMgKg": 3.8,
+          "highMgKg": 32.0,
+          "typicalMrlMgKg": 92.981
+        },
+        {
+          "name": "Folpet (sum)",
+          "detections": 13,
+          "samplePct": 18.1,
+          "medianMgKg": 0.3,
+          "highMgKg": 0.4,
+          "typicalMrlMgKg": 20.0
+        },
+        {
+          "name": "metalaxyl (sum)",
+          "detections": 5,
+          "samplePct": 6.9,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.67
+        },
+        {
+          "name": "dimethomorph",
+          "detections": 4,
+          "samplePct": 5.6,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 1.89
+        },
+        {
+          "name": "Spirotetramat (partial sum)",
+          "detections": 4,
+          "samplePct": 5.6,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 0.988
+        },
+        {
+          "name": "fenhexamid",
+          "detections": 3,
+          "samplePct": 4.2,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.04,
+          "typicalMrlMgKg": 6.125
+        },
+        {
+          "name": "methoxyfenozide",
+          "detections": 3,
+          "samplePct": 4.2,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 3,
+          "samplePct": 4.2,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "carbendazim (sum)",
+          "detections": 2,
+          "samplePct": 2.8,
+          "medianMgKg": 0.009,
+          "highMgKg": 0.009,
+          "typicalMrlMgKg": 0.5
+        },
+        {
+          "name": "pyrimethanil",
+          "detections": 2,
+          "samplePct": 2.8,
+          "medianMgKg": 0.055,
+          "highMgKg": 0.09,
+          "typicalMrlMgKg": 3.397
+        },
+        {
+          "name": "thiophanate-methyl",
+          "detections": 1,
+          "samplePct": 1.4,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "iprovalicarb",
+          "detections": 1,
+          "samplePct": 1.4,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 1.6
+        }
+      ]
+    },
+    {
+      "id": "apples",
+      "canonicalId": "apples",
+      "name": "Apples",
+      "category": "Fruit",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 75,
+        "detectedPct": 66.7,
+        "residueFreePct": 33.3,
+        "multiplePct": 61.3,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 2,
+        "maxResidues": 8
+      },
+      "conventional": {
+        "samples": 51,
+        "detectedPct": 96.1,
+        "residueFreePct": 3.9,
+        "multiplePct": 90.2,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 3,
+        "maxResidues": 8
+      },
+      "organic": {
+        "samples": 24,
+        "detectedPct": 4.2,
+        "residueFreePct": 95.8,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "topResidues": [
+        {
+          "name": "fludioxonil",
+          "detections": 30,
+          "samplePct": 40.0,
+          "medianMgKg": 0.2,
+          "highMgKg": 1.7,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "captan (sum)",
+          "detections": 27,
+          "samplePct": 36.0,
+          "medianMgKg": 0.2,
+          "highMgKg": 0.9,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 27,
+          "samplePct": 36.0,
+          "medianMgKg": 3.9,
+          "highMgKg": 15.0,
+          "typicalMrlMgKg": 150.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 13,
+          "samplePct": 17.3,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.06,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "dithiocarbamates",
+          "detections": 11,
+          "samplePct": 14.7,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.4,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "pyrimethanil",
+          "detections": 11,
+          "samplePct": 14.7,
+          "medianMgKg": 0.1,
+          "highMgKg": 1.3,
+          "typicalMrlMgKg": 15.0
+        },
+        {
+          "name": "dithianon",
+          "detections": 11,
+          "samplePct": 14.7,
+          "medianMgKg": 0.05,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 8,
+          "samplePct": 10.7,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.5
+        },
+        {
+          "name": "flonicamid (sum)",
+          "detections": 7,
+          "samplePct": 9.3,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.3
+        },
+        {
+          "name": "pyraclostrobin",
+          "detections": 6,
+          "samplePct": 8.0,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.5
+        },
+        {
+          "name": "fluxapyroxad",
+          "detections": 5,
+          "samplePct": 6.7,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.9
+        },
+        {
+          "name": "dodine",
+          "detections": 5,
+          "samplePct": 6.7,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.05,
+          "typicalMrlMgKg": 0.9
+        }
+      ]
+    },
+    {
+      "id": "figs",
+      "canonicalId": "figs",
+      "name": "Figs",
+      "category": "Fruit",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q3",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q3_2025_quarterly_data.ods",
+      "all": {
+        "samples": 97,
+        "detectedPct": 17.5,
+        "residueFreePct": 82.5,
+        "multiplePct": 2.1,
+        "aboveMrlPct": 4.1,
+        "medianResidues": 0,
+        "maxResidues": 6
+      },
+      "conventional": {
+        "samples": 97,
+        "detectedPct": 17.5,
+        "residueFreePct": 82.5,
+        "multiplePct": 2.1,
+        "aboveMrlPct": 4.1,
+        "medianResidues": 0,
+        "maxResidues": 6
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "lambda-cyhalothrin",
+          "detections": 10,
+          "samplePct": 10.3,
+          "medianMgKg": 0.007,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.01
+        },
+        {
+          "name": "deltamethrin",
+          "detections": 2,
+          "samplePct": 2.1,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.01
+        },
+        {
+          "name": "pyriproxifen",
+          "detections": 2,
+          "samplePct": 2.1,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.05
+        },
+        {
+          "name": "flonicamid (sum)",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.03
+        },
+        {
+          "name": "cyflumetofen",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.01
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.01
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.01
+        },
+        {
+          "name": "thiophanate-methyl",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.006,
+          "highMgKg": 0.006,
+          "typicalMrlMgKg": 0.1
+        },
+        {
+          "name": "cyfluthrin (sum)",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.05,
+          "highMgKg": 0.05,
+          "typicalMrlMgKg": 0.02
+        },
+        {
+          "name": "cypermethrin (sum)",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.05
+        },
+        {
+          "name": "dithiocarbamates",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.6,
+          "highMgKg": 0.6,
+          "typicalMrlMgKg": 0.05
+        },
+        {
+          "name": "fludioxonil",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.01
+        }
+      ]
+    },
+    {
+      "id": "grapes",
+      "canonicalId": "grapes",
+      "name": "Grapes",
+      "category": "Fruit",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 109,
+        "detectedPct": 97.2,
+        "residueFreePct": 2.8,
+        "multiplePct": 93.6,
+        "aboveMrlPct": 0.9,
+        "medianResidues": 3,
+        "maxResidues": 15
+      },
+      "conventional": {
+        "samples": 106,
+        "detectedPct": 100.0,
+        "residueFreePct": 0.0,
+        "multiplePct": 96.2,
+        "aboveMrlPct": 0.9,
+        "medianResidues": 3.0,
+        "maxResidues": 15
+      },
+      "organic": {
+        "samples": 3,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "ethephon",
+          "detections": 41,
+          "samplePct": 37.6,
+          "medianMgKg": 0.2,
+          "highMgKg": 0.6,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 28,
+          "samplePct": 25.7,
+          "medianMgKg": 0.1,
+          "highMgKg": 1.3,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "Spirotetramat (partial sum)",
+          "detections": 26,
+          "samplePct": 23.9,
+          "medianMgKg": 0.05,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "fludioxonil",
+          "detections": 22,
+          "samplePct": 20.2,
+          "medianMgKg": 0.1,
+          "highMgKg": 1.0,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "difenoconazole",
+          "detections": 21,
+          "samplePct": 19.3,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.09,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "cyprodinil",
+          "detections": 18,
+          "samplePct": 16.5,
+          "medianMgKg": 0.095,
+          "highMgKg": 1.8,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "cyantraniliprole",
+          "detections": 18,
+          "samplePct": 16.5,
+          "medianMgKg": 0.09,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "fluxapyroxad",
+          "detections": 17,
+          "samplePct": 15.6,
+          "medianMgKg": 0.2,
+          "highMgKg": 0.5,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "fenhexamid",
+          "detections": 16,
+          "samplePct": 14.7,
+          "medianMgKg": 0.15,
+          "highMgKg": 0.6,
+          "typicalMrlMgKg": 15.0
+        },
+        {
+          "name": "fluopyram",
+          "detections": 13,
+          "samplePct": 11.9,
+          "medianMgKg": 0.2,
+          "highMgKg": 0.4,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "proquinazid",
+          "detections": 12,
+          "samplePct": 11.0,
+          "medianMgKg": 0.15,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 0.5
+        },
+        {
+          "name": "zoxamide",
+          "detections": 12,
+          "samplePct": 11.0,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 5.0
+        }
+      ]
+    },
+    {
+      "id": "mangoes",
+      "canonicalId": "mangoes",
+      "name": "Mangoes",
+      "category": "Fruit",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 104,
+        "detectedPct": 84.6,
+        "residueFreePct": 15.4,
+        "multiplePct": 50.0,
+        "aboveMrlPct": 1.0,
+        "medianResidues": 1.5,
+        "maxResidues": 4
+      },
+      "conventional": {
+        "samples": 103,
+        "detectedPct": 85.4,
+        "residueFreePct": 14.6,
+        "multiplePct": 50.5,
+        "aboveMrlPct": 1.0,
+        "medianResidues": 2,
+        "maxResidues": 4
+      },
+      "organic": {
+        "samples": 1,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "fludioxonil",
+          "detections": 81,
+          "samplePct": 77.9,
+          "medianMgKg": 0.2,
+          "highMgKg": 0.7,
+          "typicalMrlMgKg": 7.0
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 50,
+          "samplePct": 48.1,
+          "medianMgKg": 0.2,
+          "highMgKg": 0.7,
+          "typicalMrlMgKg": 4.0
+        },
+        {
+          "name": "carbendazim (sum)",
+          "detections": 7,
+          "samplePct": 6.7,
+          "medianMgKg": 0.008,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.5
+        },
+        {
+          "name": "lambda-cyhalothrin",
+          "detections": 3,
+          "samplePct": 2.9,
+          "medianMgKg": 0.008,
+          "highMgKg": 0.009,
+          "typicalMrlMgKg": 0.2
+        },
+        {
+          "name": "difenoconazole",
+          "detections": 2,
+          "samplePct": 1.9,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.06,
+          "typicalMrlMgKg": 0.1
+        },
+        {
+          "name": "acephate",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.01
+        },
+        {
+          "name": "tebuconazole",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.1
+        },
+        {
+          "name": "thiophanate-methyl",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.008,
+          "highMgKg": 0.008,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "cypermethrin (sum)",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "imidacloprid",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.04,
+          "typicalMrlMgKg": 0.2
+        },
+        {
+          "name": "bifenthrin",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.5
+        },
+        {
+          "name": "deltamethrin",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.01
+        }
+      ]
+    },
+    {
+      "id": "peaches-nectarines",
+      "canonicalId": "peaches-nectarines",
+      "name": "Peaches and nectarines",
+      "category": "Fruit",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 96,
+        "detectedPct": 88.5,
+        "residueFreePct": 11.5,
+        "multiplePct": 67.7,
+        "aboveMrlPct": 2.1,
+        "medianResidues": 2.0,
+        "maxResidues": 8
+      },
+      "conventional": {
+        "samples": 96,
+        "detectedPct": 88.5,
+        "residueFreePct": 11.5,
+        "multiplePct": 67.7,
+        "aboveMrlPct": 2.1,
+        "medianResidues": 2.0,
+        "maxResidues": 8
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "fludioxonil",
+          "detections": 57,
+          "samplePct": 59.4,
+          "medianMgKg": 0.3,
+          "highMgKg": 1.3,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "fluopyram",
+          "detections": 21,
+          "samplePct": 21.9,
+          "medianMgKg": 0.06,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "tebuconazole",
+          "detections": 20,
+          "samplePct": 20.8,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 0.6
+        },
+        {
+          "name": "pyrimethanil",
+          "detections": 15,
+          "samplePct": 15.6,
+          "medianMgKg": 0.2,
+          "highMgKg": 0.8,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "spinosad (sum)",
+          "detections": 13,
+          "samplePct": 13.5,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.6
+        },
+        {
+          "name": "lambda-cyhalothrin",
+          "detections": 11,
+          "samplePct": 11.5,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.04,
+          "typicalMrlMgKg": 0.15
+        },
+        {
+          "name": "Spirotetramat (partial sum)",
+          "detections": 9,
+          "samplePct": 9.4,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.08,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "cyprodinil",
+          "detections": 9,
+          "samplePct": 9.4,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "flonicamid (sum)",
+          "detections": 8,
+          "samplePct": 8.3,
+          "medianMgKg": 0.025,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 0.4
+        },
+        {
+          "name": "acetamiprid",
+          "detections": 7,
+          "samplePct": 7.3,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.05,
+          "typicalMrlMgKg": 0.2
+        },
+        {
+          "name": "boscalid",
+          "detections": 7,
+          "samplePct": 7.3,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.07,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "deltamethrin",
+          "detections": 6,
+          "samplePct": 6.2,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.15
+        }
+      ]
+    },
+    {
+      "id": "plums",
+      "canonicalId": "plums",
+      "name": "Plums",
+      "category": "Fruit",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q2\u2013Q3",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q3_2025_quarterly_data.ods",
+      "all": {
+        "samples": 61,
+        "detectedPct": 82.0,
+        "residueFreePct": 18.0,
+        "multiplePct": 50.8,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 2,
+        "maxResidues": 5
+      },
+      "conventional": {
+        "samples": 57,
+        "detectedPct": 87.7,
+        "residueFreePct": 12.3,
+        "multiplePct": 54.4,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 2,
+        "maxResidues": 5
+      },
+      "organic": {
+        "samples": 4,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "fludioxonil",
+          "detections": 41,
+          "samplePct": 67.2,
+          "medianMgKg": 0.5,
+          "highMgKg": 1.8,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "pyrimethanil",
+          "detections": 11,
+          "samplePct": 18.0,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 8,
+          "samplePct": 13.1,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.05,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "cyprodinil",
+          "detections": 6,
+          "samplePct": 9.8,
+          "medianMgKg": 0.08,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "cyantraniliprole",
+          "detections": 5,
+          "samplePct": 8.2,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 4,
+          "samplePct": 6.6,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "fenhexamid",
+          "detections": 4,
+          "samplePct": 6.6,
+          "medianMgKg": 0.025,
+          "highMgKg": 0.08,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "tebuconazole",
+          "detections": 4,
+          "samplePct": 6.6,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "cypermethrin (sum)",
+          "detections": 3,
+          "samplePct": 4.9,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "flonicamid (sum)",
+          "detections": 3,
+          "samplePct": 4.9,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.3
+        },
+        {
+          "name": "Spirotetramat (partial sum)",
+          "detections": 2,
+          "samplePct": 3.3,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "Pirimicarb",
+          "detections": 2,
+          "samplePct": 3.3,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.04,
+          "typicalMrlMgKg": 3.0
+        }
+      ]
+    },
+    {
+      "id": "strawberries",
+      "canonicalId": "strawberries",
+      "name": "Strawberries",
+      "category": "Fruit",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 121,
+        "detectedPct": 95.9,
+        "residueFreePct": 4.1,
+        "multiplePct": 90.1,
+        "aboveMrlPct": 5.0,
+        "medianResidues": 4,
+        "maxResidues": 15
+      },
+      "conventional": {
+        "samples": 120,
+        "detectedPct": 96.7,
+        "residueFreePct": 3.3,
+        "multiplePct": 90.8,
+        "aboveMrlPct": 5.0,
+        "medianResidues": 4.0,
+        "maxResidues": 15
+      },
+      "organic": {
+        "samples": 1,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "fluopyram",
+          "detections": 58,
+          "samplePct": 47.9,
+          "medianMgKg": 0.075,
+          "highMgKg": 0.4,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "trifloxystrobin",
+          "detections": 45,
+          "samplePct": 37.2,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 43,
+          "samplePct": 35.5,
+          "medianMgKg": 2.0,
+          "highMgKg": 8.8,
+          "typicalMrlMgKg": 100.0
+        },
+        {
+          "name": "cyprodinil",
+          "detections": 34,
+          "samplePct": 28.1,
+          "medianMgKg": 0.06,
+          "highMgKg": 0.5,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "fludioxonil",
+          "detections": 33,
+          "samplePct": 27.3,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 4.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 32,
+          "samplePct": 26.4,
+          "medianMgKg": 0.2,
+          "highMgKg": 0.9,
+          "typicalMrlMgKg": 6.0
+        },
+        {
+          "name": "fenhexamid",
+          "detections": 31,
+          "samplePct": 25.6,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.6,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "fluxapyroxad",
+          "detections": 29,
+          "samplePct": 24.0,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.07,
+          "typicalMrlMgKg": 4.0
+        },
+        {
+          "name": "difenoconazole",
+          "detections": 28,
+          "samplePct": 23.1,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 27,
+          "samplePct": 22.3,
+          "medianMgKg": 0.08,
+          "highMgKg": 0.4,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "pyraclostrobin",
+          "detections": 26,
+          "samplePct": 21.5,
+          "medianMgKg": 0.06,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "bupirimate",
+          "detections": 20,
+          "samplePct": 16.5,
+          "medianMgKg": 0.065,
+          "highMgKg": 0.6,
+          "typicalMrlMgKg": 2.0
+        }
+      ]
+    },
+    {
+      "id": "tomatoes",
+      "canonicalId": "tomatoes",
+      "name": "Tomatoes",
+      "category": "Fruit",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 78,
+        "detectedPct": 70.5,
+        "residueFreePct": 29.5,
+        "multiplePct": 53.8,
+        "aboveMrlPct": 3.8,
+        "medianResidues": 2.0,
+        "maxResidues": 9
+      },
+      "conventional": {
+        "samples": 72,
+        "detectedPct": 76.4,
+        "residueFreePct": 23.6,
+        "multiplePct": 58.3,
+        "aboveMrlPct": 4.2,
+        "medianResidues": 2.0,
+        "maxResidues": 9
+      },
+      "organic": {
+        "samples": 6,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "fluopyram",
+          "detections": 22,
+          "samplePct": 28.2,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.08,
+          "typicalMrlMgKg": 0.9
+        },
+        {
+          "name": "boscalid",
+          "detections": 14,
+          "samplePct": 17.9,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 13,
+          "samplePct": 16.7,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "difenoconazole",
+          "detections": 13,
+          "samplePct": 16.7,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "cyantraniliprole",
+          "detections": 11,
+          "samplePct": 14.1,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.05,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "dimethomorph",
+          "detections": 9,
+          "samplePct": 11.5,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.05,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "pyraclostrobin",
+          "detections": 9,
+          "samplePct": 11.5,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.07,
+          "typicalMrlMgKg": 0.3
+        },
+        {
+          "name": "cyprodinil",
+          "detections": 9,
+          "samplePct": 11.5,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "mandipropamid",
+          "detections": 8,
+          "samplePct": 10.3,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.08,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "fludioxonil",
+          "detections": 7,
+          "samplePct": 9.0,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "propamocarb (sum)",
+          "detections": 7,
+          "samplePct": 9.0,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.5,
+          "typicalMrlMgKg": 4.0
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 7,
+          "samplePct": 9.0,
+          "medianMgKg": 0.5,
+          "highMgKg": 4.9,
+          "typicalMrlMgKg": 100.0
+        }
+      ]
+    },
+    {
+      "id": "barley",
+      "canonicalId": "barley",
+      "name": "Barley",
+      "category": "Grains & staples",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 84,
+        "detectedPct": 98.8,
+        "residueFreePct": 1.2,
+        "multiplePct": 94.0,
+        "aboveMrlPct": 1.2,
+        "medianResidues": 2.0,
+        "maxResidues": 4
+      },
+      "conventional": {
+        "samples": 84,
+        "detectedPct": 98.8,
+        "residueFreePct": 1.2,
+        "multiplePct": 94.0,
+        "aboveMrlPct": 1.2,
+        "medianResidues": 2.0,
+        "maxResidues": 4
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "glyphosate",
+          "detections": 78,
+          "samplePct": 92.9,
+          "medianMgKg": 0.4,
+          "highMgKg": 0.9,
+          "typicalMrlMgKg": 20.0
+        },
+        {
+          "name": "chlormequat",
+          "detections": 65,
+          "samplePct": 77.4,
+          "medianMgKg": 0.08,
+          "highMgKg": 0.4,
+          "typicalMrlMgKg": 2.66
+        },
+        {
+          "name": "mepiquat",
+          "detections": 37,
+          "samplePct": 44.0,
+          "medianMgKg": 0.05,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 3.24
+        },
+        {
+          "name": "fluxapyroxad",
+          "detections": 7,
+          "samplePct": 8.3,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.06,
+          "typicalMrlMgKg": 0.3
+        },
+        {
+          "name": "deltamethrin",
+          "detections": 6,
+          "samplePct": 7.1,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "tebuconazole",
+          "detections": 3,
+          "samplePct": 3.6,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.76
+        },
+        {
+          "name": "benzovindiflupyr",
+          "detections": 1,
+          "samplePct": 1.2,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.435
+        },
+        {
+          "name": "chlorpyrifos",
+          "detections": 1,
+          "samplePct": 1.2,
+          "medianMgKg": 0.008,
+          "highMgKg": 0.008,
+          "typicalMrlMgKg": 0.01
+        },
+        {
+          "name": "thiamethoxam",
+          "detections": 1,
+          "samplePct": 1.2,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 0.5
+        },
+        {
+          "name": "Ethylene oxide (sum)",
+          "detections": 1,
+          "samplePct": 1.2,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 0.02
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 1,
+          "samplePct": 1.2,
+          "medianMgKg": 0.5,
+          "highMgKg": 0.5,
+          "typicalMrlMgKg": 2.0
+        }
+      ]
+    },
+    {
+      "id": "bread",
+      "canonicalId": "bread",
+      "name": "Bread",
+      "category": "Grains & staples",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q3\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 144,
+        "detectedPct": 100.0,
+        "residueFreePct": 0.0,
+        "multiplePct": 43.8,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1.0,
+        "maxResidues": 4
+      },
+      "conventional": {
+        "samples": 144,
+        "detectedPct": 100.0,
+        "residueFreePct": 0.0,
+        "multiplePct": 43.8,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1.0,
+        "maxResidues": 4
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "chlormequat",
+          "detections": 139,
+          "samplePct": 96.5,
+          "medianMgKg": 0.08,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 2.1
+        },
+        {
+          "name": "glyphosate",
+          "detections": 54,
+          "samplePct": 37.5,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 1.2
+        },
+        {
+          "name": "deltamethrin",
+          "detections": 8,
+          "samplePct": 5.6,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.27
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 7,
+          "samplePct": 4.9,
+          "medianMgKg": 0.4,
+          "highMgKg": 0.9,
+          "typicalMrlMgKg": 150.0
+        },
+        {
+          "name": "pirimiphos-methyl",
+          "detections": 3,
+          "samplePct": 2.1,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.04,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "flonicamid (sum)",
+          "detections": 2,
+          "samplePct": 1.4,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 1.34
+        },
+        {
+          "name": "mepiquat",
+          "detections": 1,
+          "samplePct": 0.7,
+          "medianMgKg": 0.06,
+          "highMgKg": 0.06,
+          "typicalMrlMgKg": 0.48
+        },
+        {
+          "name": "malathion (sum)",
+          "detections": 1,
+          "samplePct": 0.7,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 8.0
+        }
+      ]
+    },
+    {
+      "id": "gluten-free-bread",
+      "canonicalId": "gluten-free-bread",
+      "name": "Gluten-free bread",
+      "category": "Grains & staples",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q3\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 72,
+        "detectedPct": 6.9,
+        "residueFreePct": 93.1,
+        "multiplePct": 2.8,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 3
+      },
+      "conventional": {
+        "samples": 72,
+        "detectedPct": 6.9,
+        "residueFreePct": 93.1,
+        "multiplePct": 2.8,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 3
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "chlormequat",
+          "detections": 2,
+          "samplePct": 2.8,
+          "medianMgKg": 0.09,
+          "highMgKg": 0.09,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "glyphosate",
+          "detections": 2,
+          "samplePct": 2.8,
+          "medianMgKg": 0.065,
+          "highMgKg": 0.07,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 2,
+          "samplePct": 2.8,
+          "medianMgKg": 0.3,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "BAC (partial sum)",
+          "detections": 1,
+          "samplePct": 1.4,
+          "medianMgKg": 0.06,
+          "highMgKg": 0.06,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "captan (sum)",
+          "detections": 1,
+          "samplePct": 1.4,
+          "medianMgKg": 0.05,
+          "highMgKg": 0.05,
+          "typicalMrlMgKg": null
+        }
+      ]
+    },
+    {
+      "id": "oats",
+      "canonicalId": "oats",
+      "name": "Oats",
+      "category": "Grains & staples",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 72,
+        "detectedPct": 61.1,
+        "residueFreePct": 38.9,
+        "multiplePct": 48.6,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1.0,
+        "maxResidues": 5
+      },
+      "conventional": {
+        "samples": 35,
+        "detectedPct": 100.0,
+        "residueFreePct": 0.0,
+        "multiplePct": 97.1,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 3,
+        "maxResidues": 5
+      },
+      "organic": {
+        "samples": 37,
+        "detectedPct": 24.3,
+        "residueFreePct": 75.7,
+        "multiplePct": 2.7,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 2
+      },
+      "topResidues": [
+        {
+          "name": "chlormequat",
+          "detections": 44,
+          "samplePct": 61.1,
+          "medianMgKg": 1.6,
+          "highMgKg": 2.6,
+          "typicalMrlMgKg": 13.05
+        },
+        {
+          "name": "mepiquat",
+          "detections": 32,
+          "samplePct": 44.4,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "glyphosate",
+          "detections": 31,
+          "samplePct": 43.1,
+          "medianMgKg": 0.3,
+          "highMgKg": 0.7,
+          "typicalMrlMgKg": 3.4
+        },
+        {
+          "name": "clopyralid",
+          "detections": 3,
+          "samplePct": 4.2,
+          "medianMgKg": 0.05,
+          "highMgKg": 0.06,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 2,
+          "samplePct": 2.8,
+          "medianMgKg": 0.6,
+          "highMgKg": 0.6,
+          "typicalMrlMgKg": 2.0
+        }
+      ]
+    },
+    {
+      "id": "rice",
+      "canonicalId": "rice",
+      "name": "Rice",
+      "category": "Grains & staples",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q2",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q2_2025_quarterly_data.ods",
+      "all": {
+        "samples": 48,
+        "detectedPct": 50.0,
+        "residueFreePct": 50.0,
+        "multiplePct": 31.2,
+        "aboveMrlPct": 2.1,
+        "medianResidues": 0.5,
+        "maxResidues": 7
+      },
+      "conventional": {
+        "samples": 44,
+        "detectedPct": 54.5,
+        "residueFreePct": 45.5,
+        "multiplePct": 34.1,
+        "aboveMrlPct": 2.3,
+        "medianResidues": 1.0,
+        "maxResidues": 7
+      },
+      "organic": {
+        "samples": 4,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "tebuconazole",
+          "detections": 12,
+          "samplePct": 25.0,
+          "medianMgKg": 0.05,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "isoprothiolane",
+          "detections": 10,
+          "samplePct": 20.8,
+          "medianMgKg": 0.3,
+          "highMgKg": 1.7,
+          "typicalMrlMgKg": 6.0
+        },
+        {
+          "name": "dinotefuran",
+          "detections": 6,
+          "samplePct": 12.5,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 8.0
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 4,
+          "samplePct": 8.3,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.04,
+          "typicalMrlMgKg": 2.9
+        },
+        {
+          "name": "permethrin (sum)",
+          "detections": 4,
+          "samplePct": 8.3,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.05
+        },
+        {
+          "name": "imidacloprid",
+          "detections": 3,
+          "samplePct": 6.2,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.39
+        },
+        {
+          "name": "tricyclazole",
+          "detections": 3,
+          "samplePct": 6.2,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.09,
+          "typicalMrlMgKg": 0.3
+        },
+        {
+          "name": "pirimiphos-methyl",
+          "detections": 3,
+          "samplePct": 6.2,
+          "medianMgKg": 0.2,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 0.5
+        },
+        {
+          "name": "carbendazim (sum)",
+          "detections": 2,
+          "samplePct": 4.2,
+          "medianMgKg": 0.007,
+          "highMgKg": 0.007,
+          "typicalMrlMgKg": 0.01
+        },
+        {
+          "name": "difenoconazole",
+          "detections": 2,
+          "samplePct": 4.2,
+          "medianMgKg": 0.025,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "acetamiprid",
+          "detections": 2,
+          "samplePct": 4.2,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.01
+        },
+        {
+          "name": "thiamethoxam",
+          "detections": 1,
+          "samplePct": 2.1,
+          "medianMgKg": 0.05,
+          "highMgKg": 0.05,
+          "typicalMrlMgKg": 5.0
+        }
+      ]
+    },
+    {
+      "id": "spices",
+      "canonicalId": "spices",
+      "name": "Spices",
+      "category": "Herbs & spices",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q3",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q3_2025_quarterly_data.ods",
+      "all": {
+        "samples": 60,
+        "detectedPct": 81.7,
+        "residueFreePct": 18.3,
+        "multiplePct": 58.3,
+        "aboveMrlPct": 5.0,
+        "medianResidues": 2.0,
+        "maxResidues": 22
+      },
+      "conventional": {
+        "samples": 57,
+        "detectedPct": 86.0,
+        "residueFreePct": 14.0,
+        "multiplePct": 61.4,
+        "aboveMrlPct": 5.3,
+        "medianResidues": 2,
+        "maxResidues": 22
+      },
+      "organic": {
+        "samples": 3,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "Ethylene oxide (sum)",
+          "detections": 22,
+          "samplePct": 36.7,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.05,
+          "typicalMrlMgKg": 0.1
+        },
+        {
+          "name": "clothianidin",
+          "detections": 18,
+          "samplePct": 30.0,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "profenofos",
+          "detections": 18,
+          "samplePct": 30.0,
+          "medianMgKg": 0.06,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "tebuconazole",
+          "detections": 16,
+          "samplePct": 26.7,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "metalaxyl (sum)",
+          "detections": 16,
+          "samplePct": 26.7,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.05
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 6,
+          "samplePct": 10.0,
+          "medianMgKg": 0.035,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 0.3
+        },
+        {
+          "name": "thiamethoxam",
+          "detections": 6,
+          "samplePct": 10.0,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 0.05
+        },
+        {
+          "name": "chlorpyrifos",
+          "detections": 5,
+          "samplePct": 8.3,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 0.01
+        },
+        {
+          "name": "imidacloprid",
+          "detections": 5,
+          "samplePct": 8.3,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 0.05
+        },
+        {
+          "name": "carbendazim (sum)",
+          "detections": 3,
+          "samplePct": 5.0,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.4,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "difenoconazole",
+          "detections": 3,
+          "samplePct": 5.0,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.05,
+          "typicalMrlMgKg": 0.3
+        },
+        {
+          "name": "carbofuran (sum)",
+          "detections": 3,
+          "samplePct": 5.0,
+          "medianMgKg": 0.006,
+          "highMgKg": 0.009,
+          "typicalMrlMgKg": 0.05
+        }
+      ]
+    },
+    {
+      "id": "milk",
+      "canonicalId": "milk",
+      "name": "Milk",
+      "category": "Meat, fish & dairy",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 300,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "conventional": {
+        "samples": 155,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "organic": {
+        "samples": 145,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": []
+    },
+    {
+      "id": "pork",
+      "canonicalId": "pork",
+      "name": "Pork",
+      "category": "Meat, fish & dairy",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 96,
+        "detectedPct": 2.1,
+        "residueFreePct": 97.9,
+        "multiplePct": 1.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 2
+      },
+      "conventional": {
+        "samples": 96,
+        "detectedPct": 2.1,
+        "residueFreePct": 97.9,
+        "multiplePct": 1.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 2
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "DDT (sum)",
+          "detections": 2,
+          "samplePct": 2.1,
+          "medianMgKg": 0.046,
+          "highMgKg": 0.062,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "Dieldrin (sum)",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.049,
+          "highMgKg": 0.049,
+          "typicalMrlMgKg": 0.2
+        }
+      ]
+    },
+    {
+      "id": "tinned-fish",
+      "canonicalId": "tinned-fish",
+      "name": "Tinned fish",
+      "category": "Meat, fish & dairy",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 96,
+        "detectedPct": 10.4,
+        "residueFreePct": 89.6,
+        "multiplePct": 1.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 2
+      },
+      "conventional": {
+        "samples": 96,
+        "detectedPct": 10.4,
+        "residueFreePct": 89.6,
+        "multiplePct": 1.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 2
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "DDT (sum)",
+          "detections": 9,
+          "samplePct": 9.4,
+          "medianMgKg": 0.004,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "hexachlorobenzene",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.003,
+          "highMgKg": 0.003,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "permethrin (sum)",
+          "detections": 1,
+          "samplePct": 1.0,
+          "medianMgKg": 0.002,
+          "highMgKg": 0.002,
+          "typicalMrlMgKg": null
+        }
+      ]
+    },
+    {
+      "id": "asparagus",
+      "canonicalId": "asparagus",
+      "name": "Asparagus",
+      "category": "Vegetables",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q2\u2013Q3",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q3_2025_quarterly_data.ods",
+      "all": {
+        "samples": 60,
+        "detectedPct": 5.0,
+        "residueFreePct": 95.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "conventional": {
+        "samples": 56,
+        "detectedPct": 5.4,
+        "residueFreePct": 94.6,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "organic": {
+        "samples": 4,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "pyriproxifen",
+          "detections": 1,
+          "samplePct": 1.7,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.05
+        },
+        {
+          "name": "methomyl",
+          "detections": 1,
+          "samplePct": 1.7,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.01
+        },
+        {
+          "name": "linuron",
+          "detections": 1,
+          "samplePct": 1.7,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.01
+        }
+      ]
+    },
+    {
+      "id": "cabbage",
+      "canonicalId": "cabbage",
+      "name": "Cabbage",
+      "category": "Vegetables",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 96,
+        "detectedPct": 64.6,
+        "residueFreePct": 35.4,
+        "multiplePct": 36.5,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1.0,
+        "maxResidues": 7
+      },
+      "conventional": {
+        "samples": 82,
+        "detectedPct": 75.6,
+        "residueFreePct": 24.4,
+        "multiplePct": 42.7,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1.0,
+        "maxResidues": 7
+      },
+      "organic": {
+        "samples": 14,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "Spirotetramat (partial sum)",
+          "detections": 46,
+          "samplePct": 47.9,
+          "medianMgKg": 0.05,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "flonicamid (sum)",
+          "detections": 18,
+          "samplePct": 18.8,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 0.5
+        },
+        {
+          "name": "clopyralid",
+          "detections": 10,
+          "samplePct": 10.4,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.07,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "prothioconazole",
+          "detections": 6,
+          "samplePct": 6.2,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.09,
+          "typicalMrlMgKg": 0.09
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 6,
+          "samplePct": 6.2,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.4,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 5,
+          "samplePct": 5.2,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.4,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "difenoconazole",
+          "detections": 4,
+          "samplePct": 4.2,
+          "medianMgKg": 0.08,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 0.3
+        },
+        {
+          "name": "lambda-cyhalothrin",
+          "detections": 4,
+          "samplePct": 4.2,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.15
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 4,
+          "samplePct": 4.2,
+          "medianMgKg": 1.45,
+          "highMgKg": 4.4,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "tebuconazole",
+          "detections": 2,
+          "samplePct": 2.1,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "propamocarb (sum)",
+          "detections": 2,
+          "samplePct": 2.1,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "triallate",
+          "detections": 2,
+          "samplePct": 2.1,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.1
+        }
+      ]
+    },
+    {
+      "id": "celery",
+      "canonicalId": "celery",
+      "name": "Celery",
+      "category": "Vegetables",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q3\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 36,
+        "detectedPct": 50.0,
+        "residueFreePct": 50.0,
+        "multiplePct": 27.8,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.5,
+        "maxResidues": 3
+      },
+      "conventional": {
+        "samples": 28,
+        "detectedPct": 64.3,
+        "residueFreePct": 35.7,
+        "multiplePct": 35.7,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1.0,
+        "maxResidues": 3
+      },
+      "organic": {
+        "samples": 8,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "difenoconazole",
+          "detections": 9,
+          "samplePct": 25.0,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.04,
+          "typicalMrlMgKg": 7.0
+        },
+        {
+          "name": "prosulfocarb",
+          "detections": 7,
+          "samplePct": 19.4,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.08,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 4,
+          "samplePct": 11.1,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 30.0
+        },
+        {
+          "name": "flonicamid (sum)",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.3
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "tebuconazole",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.5
+        },
+        {
+          "name": "boscalid",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 9.0
+        },
+        {
+          "name": "cyprodinil",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 30.0
+        },
+        {
+          "name": "fludioxonil",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 1.5
+        }
+      ]
+    },
+    {
+      "id": "green-beans",
+      "canonicalId": "green-beans",
+      "name": "Green beans",
+      "category": "Vegetables",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 96,
+        "detectedPct": 62.5,
+        "residueFreePct": 37.5,
+        "multiplePct": 36.5,
+        "aboveMrlPct": 17.7,
+        "medianResidues": 1.0,
+        "maxResidues": 9
+      },
+      "conventional": {
+        "samples": 90,
+        "detectedPct": 65.6,
+        "residueFreePct": 34.4,
+        "multiplePct": 38.9,
+        "aboveMrlPct": 18.9,
+        "medianResidues": 1.0,
+        "maxResidues": 9
+      },
+      "organic": {
+        "samples": 6,
+        "detectedPct": 16.7,
+        "residueFreePct": 83.3,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "topResidues": [
+        {
+          "name": "azoxystrobin",
+          "detections": 16,
+          "samplePct": 16.7,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "lambda-cyhalothrin",
+          "detections": 12,
+          "samplePct": 12.5,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.06,
+          "typicalMrlMgKg": 0.4
+        },
+        {
+          "name": "cypermethrin (sum)",
+          "detections": 11,
+          "samplePct": 11.5,
+          "medianMgKg": 0.09,
+          "highMgKg": 0.9,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "carbendazim (sum)",
+          "detections": 9,
+          "samplePct": 9.4,
+          "medianMgKg": 0.009,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 0.2
+        },
+        {
+          "name": "boscalid",
+          "detections": 7,
+          "samplePct": 7.3,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.7,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "dithiocarbamates",
+          "detections": 6,
+          "samplePct": 6.2,
+          "medianMgKg": 0.5,
+          "highMgKg": 0.9,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 5,
+          "samplePct": 5.2,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.07,
+          "typicalMrlMgKg": 0.8
+        },
+        {
+          "name": "fluopyram",
+          "detections": 5,
+          "samplePct": 5.2,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.08,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "trifloxystrobin",
+          "detections": 5,
+          "samplePct": 5.2,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.06,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "difenoconazole",
+          "detections": 4,
+          "samplePct": 4.2,
+          "medianMgKg": 0.11,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "deltamethrin",
+          "detections": 4,
+          "samplePct": 4.2,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.2
+        },
+        {
+          "name": "omethoate",
+          "detections": 4,
+          "samplePct": 4.2,
+          "medianMgKg": 0.029,
+          "highMgKg": 0.08,
+          "typicalMrlMgKg": 0.01
+        }
+      ]
+    },
+    {
+      "id": "lettuce",
+      "canonicalId": "lettuce",
+      "name": "Lettuce",
+      "category": "Vegetables",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 72,
+        "detectedPct": 72.2,
+        "residueFreePct": 27.8,
+        "multiplePct": 48.6,
+        "aboveMrlPct": 2.8,
+        "medianResidues": 1.0,
+        "maxResidues": 9
+      },
+      "conventional": {
+        "samples": 65,
+        "detectedPct": 78.5,
+        "residueFreePct": 21.5,
+        "multiplePct": 52.3,
+        "aboveMrlPct": 3.1,
+        "medianResidues": 2,
+        "maxResidues": 9
+      },
+      "organic": {
+        "samples": 7,
+        "detectedPct": 14.3,
+        "residueFreePct": 85.7,
+        "multiplePct": 14.3,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 2
+      },
+      "topResidues": [
+        {
+          "name": "Spirotetramat (partial sum)",
+          "detections": 31,
+          "samplePct": 43.1,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 7.0
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 28,
+          "samplePct": 38.9,
+          "medianMgKg": 1.45,
+          "highMgKg": 11.0,
+          "typicalMrlMgKg": 300.0
+        },
+        {
+          "name": "chlorate",
+          "detections": 15,
+          "samplePct": 20.8,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "propamocarb (sum)",
+          "detections": 10,
+          "samplePct": 13.9,
+          "medianMgKg": 0.02,
+          "highMgKg": 3.4,
+          "typicalMrlMgKg": 40.0
+        },
+        {
+          "name": "flupyradifurone",
+          "detections": 7,
+          "samplePct": 9.7,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "metalaxyl (sum)",
+          "detections": 5,
+          "samplePct": 6.9,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "mandipropamid",
+          "detections": 5,
+          "samplePct": 6.9,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 25.0
+        },
+        {
+          "name": "acetamiprid",
+          "detections": 5,
+          "samplePct": 6.9,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "propyzamide",
+          "detections": 4,
+          "samplePct": 5.6,
+          "medianMgKg": 0.055,
+          "highMgKg": 2.9,
+          "typicalMrlMgKg": 0.6
+        },
+        {
+          "name": "fludioxonil",
+          "detections": 4,
+          "samplePct": 5.6,
+          "medianMgKg": 0.15,
+          "highMgKg": 1.6,
+          "typicalMrlMgKg": 40.0
+        },
+        {
+          "name": "cyprodinil",
+          "detections": 4,
+          "samplePct": 5.6,
+          "medianMgKg": 0.15,
+          "highMgKg": 1.4,
+          "typicalMrlMgKg": 15.0
+        },
+        {
+          "name": "spinosad (sum)",
+          "detections": 4,
+          "samplePct": 5.6,
+          "medianMgKg": 0.065,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 10.0
+        }
+      ]
+    },
+    {
+      "id": "potatoes",
+      "canonicalId": "potatoes",
+      "name": "Potatoes",
+      "category": "Vegetables",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 143,
+        "detectedPct": 65.0,
+        "residueFreePct": 35.0,
+        "multiplePct": 22.4,
+        "aboveMrlPct": 4.2,
+        "medianResidues": 1,
+        "maxResidues": 3
+      },
+      "conventional": {
+        "samples": 143,
+        "detectedPct": 65.0,
+        "residueFreePct": 35.0,
+        "multiplePct": 22.4,
+        "aboveMrlPct": 4.2,
+        "medianResidues": 1,
+        "maxResidues": 3
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "maleic hydrazide",
+          "detections": 54,
+          "samplePct": 37.8,
+          "medianMgKg": 11.0,
+          "highMgKg": 16.0,
+          "typicalMrlMgKg": 60.0
+        },
+        {
+          "name": "1,4-dimethylnaphthalene",
+          "detections": 20,
+          "samplePct": 14.0,
+          "medianMgKg": 0.4,
+          "highMgKg": 1.0,
+          "typicalMrlMgKg": 15.0
+        },
+        {
+          "name": "propamocarb (sum)",
+          "detections": 15,
+          "samplePct": 10.5,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.3
+        },
+        {
+          "name": "flonicamid (sum)",
+          "detections": 14,
+          "samplePct": 9.8,
+          "medianMgKg": 0.055,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 0.09
+        },
+        {
+          "name": "fluopyram",
+          "detections": 8,
+          "samplePct": 5.6,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 0.15
+        },
+        {
+          "name": "fluazifop-p (sum)",
+          "detections": 4,
+          "samplePct": 2.8,
+          "medianMgKg": 0.185,
+          "highMgKg": 0.4,
+          "typicalMrlMgKg": 0.15
+        },
+        {
+          "name": "fosthiazate",
+          "detections": 4,
+          "samplePct": 2.8,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 0.02
+        },
+        {
+          "name": "chlorpropham",
+          "detections": 3,
+          "samplePct": 2.1,
+          "medianMgKg": 0.07,
+          "highMgKg": 0.07,
+          "typicalMrlMgKg": 0.35
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 2,
+          "samplePct": 1.4,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 7.0
+        },
+        {
+          "name": "fluopicolide",
+          "detections": 1,
+          "samplePct": 0.7,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.03
+        },
+        {
+          "name": "cyromazine",
+          "detections": 1,
+          "samplePct": 0.7,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.05
+        },
+        {
+          "name": "imidacloprid",
+          "detections": 1,
+          "samplePct": 0.7,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.5
+        }
+      ]
+    },
+    {
+      "id": "prepared-salad",
+      "canonicalId": "prepared-salad",
+      "name": "Prepared salad",
+      "category": "Vegetables",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q2\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 54,
+        "detectedPct": 92.6,
+        "residueFreePct": 7.4,
+        "multiplePct": 74.1,
+        "aboveMrlPct": 16.7,
+        "medianResidues": 4.0,
+        "maxResidues": 12
+      },
+      "conventional": {
+        "samples": 51,
+        "detectedPct": 92.2,
+        "residueFreePct": 7.8,
+        "multiplePct": 72.5,
+        "aboveMrlPct": 17.6,
+        "medianResidues": 4,
+        "maxResidues": 12
+      },
+      "organic": {
+        "samples": 3,
+        "detectedPct": 100.0,
+        "residueFreePct": 0.0,
+        "multiplePct": 100.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 2,
+        "maxResidues": 3
+      },
+      "topResidues": [
+        {
+          "name": "chlorate",
+          "detections": 44,
+          "samplePct": 81.5,
+          "medianMgKg": 0.4,
+          "highMgKg": 1.8,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "mandipropamid",
+          "detections": 26,
+          "samplePct": 48.1,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.8,
+          "typicalMrlMgKg": 25.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 17,
+          "samplePct": 31.5,
+          "medianMgKg": 0.03,
+          "highMgKg": 1.2,
+          "typicalMrlMgKg": 50.0
+        },
+        {
+          "name": "propamocarb (sum)",
+          "detections": 17,
+          "samplePct": 31.5,
+          "medianMgKg": 0.2,
+          "highMgKg": 3.2,
+          "typicalMrlMgKg": 40.0
+        },
+        {
+          "name": "dithiocarbamates",
+          "detections": 17,
+          "samplePct": 31.5,
+          "medianMgKg": 0.2,
+          "highMgKg": 1.3,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "acetamiprid",
+          "detections": 13,
+          "samplePct": 24.1,
+          "medianMgKg": 0.07,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "spinosad (sum)",
+          "detections": 10,
+          "samplePct": 18.5,
+          "medianMgKg": 0.05,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 7,
+          "samplePct": 13.0,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.8,
+          "typicalMrlMgKg": 20.0
+        },
+        {
+          "name": "fludioxonil",
+          "detections": 6,
+          "samplePct": 11.1,
+          "medianMgKg": 0.045,
+          "highMgKg": 0.5,
+          "typicalMrlMgKg": 40.0
+        },
+        {
+          "name": "lambda-cyhalothrin",
+          "detections": 6,
+          "samplePct": 11.1,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.04,
+          "typicalMrlMgKg": 0.15
+        },
+        {
+          "name": "Spirotetramat (partial sum)",
+          "detections": 5,
+          "samplePct": 9.3,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 7.0
+        },
+        {
+          "name": "pyraclostrobin",
+          "detections": 5,
+          "samplePct": 9.3,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 2.0
+        }
+      ]
+    },
+    {
+      "id": "salad-leaves",
+      "canonicalId": "salad-leaves",
+      "name": "Salad leaves",
+      "category": "Vegetables",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q1_2025_quarterly_data.ods",
+      "all": {
+        "samples": 18,
+        "detectedPct": 100.0,
+        "residueFreePct": 0.0,
+        "multiplePct": 88.9,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 7.0,
+        "maxResidues": 12
+      },
+      "conventional": {
+        "samples": 18,
+        "detectedPct": 100.0,
+        "residueFreePct": 0.0,
+        "multiplePct": 88.9,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 7.0,
+        "maxResidues": 12
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "chlorate",
+          "detections": 16,
+          "samplePct": 88.9,
+          "medianMgKg": 0.15,
+          "highMgKg": 0.7,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "mandipropamid",
+          "detections": 11,
+          "samplePct": 61.1,
+          "medianMgKg": 0.2,
+          "highMgKg": 3.4,
+          "typicalMrlMgKg": 25.0
+        },
+        {
+          "name": "fludioxonil",
+          "detections": 9,
+          "samplePct": 50.0,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 40.0
+        },
+        {
+          "name": "acetamiprid",
+          "detections": 8,
+          "samplePct": 44.4,
+          "medianMgKg": 0.06,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "propamocarb (sum)",
+          "detections": 7,
+          "samplePct": 38.9,
+          "medianMgKg": 0.4,
+          "highMgKg": 4.1,
+          "typicalMrlMgKg": 40.0
+        },
+        {
+          "name": "dithiocarbamates",
+          "detections": 5,
+          "samplePct": 27.8,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.7,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "metalaxyl (sum)",
+          "detections": 5,
+          "samplePct": 27.8,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.05,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "Spirotetramat (partial sum)",
+          "detections": 5,
+          "samplePct": 27.8,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.08,
+          "typicalMrlMgKg": 7.0
+        },
+        {
+          "name": "pyraclostrobin",
+          "detections": 4,
+          "samplePct": 22.2,
+          "medianMgKg": 0.045,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 4,
+          "samplePct": 22.2,
+          "medianMgKg": 1.3,
+          "highMgKg": 2.6,
+          "typicalMrlMgKg": 50.0
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 4,
+          "samplePct": 22.2,
+          "medianMgKg": 0.045,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 15.0
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 4,
+          "samplePct": 22.2,
+          "medianMgKg": 0.035,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 20.0
+        }
+      ]
+    },
+    {
+      "id": "spinach",
+      "canonicalId": "spinach",
+      "name": "Spinach",
+      "category": "Vegetables",
+      "region": "GB",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 99,
+        "detectedPct": 86.9,
+        "residueFreePct": 13.1,
+        "multiplePct": 68.7,
+        "aboveMrlPct": 11.1,
+        "medianResidues": 3,
+        "maxResidues": 9
+      },
+      "conventional": {
+        "samples": 82,
+        "detectedPct": 91.5,
+        "residueFreePct": 8.5,
+        "multiplePct": 75.6,
+        "aboveMrlPct": 12.2,
+        "medianResidues": 4.0,
+        "maxResidues": 9
+      },
+      "organic": {
+        "samples": 17,
+        "detectedPct": 64.7,
+        "residueFreePct": 35.3,
+        "multiplePct": 35.3,
+        "aboveMrlPct": 5.9,
+        "medianResidues": 1,
+        "maxResidues": 3
+      },
+      "topResidues": [
+        {
+          "name": "chlorate",
+          "detections": 65,
+          "samplePct": 65.7,
+          "medianMgKg": 0.07,
+          "highMgKg": 0.6,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "mandipropamid",
+          "detections": 45,
+          "samplePct": 45.5,
+          "medianMgKg": 0.5,
+          "highMgKg": 2.3,
+          "typicalMrlMgKg": 25.0
+        },
+        {
+          "name": "propamocarb (sum)",
+          "detections": 43,
+          "samplePct": 43.4,
+          "medianMgKg": 1.3,
+          "highMgKg": 8.4,
+          "typicalMrlMgKg": 30.0
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 32,
+          "samplePct": 32.3,
+          "medianMgKg": 2.8,
+          "highMgKg": 17.1,
+          "typicalMrlMgKg": 300.0
+        },
+        {
+          "name": "lambda-cyhalothrin",
+          "detections": 29,
+          "samplePct": 29.3,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.3,
+          "typicalMrlMgKg": 0.6
+        },
+        {
+          "name": "fluopicolide",
+          "detections": 20,
+          "samplePct": 20.2,
+          "medianMgKg": 0.07,
+          "highMgKg": 0.5,
+          "typicalMrlMgKg": 6.0
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 19,
+          "samplePct": 19.2,
+          "medianMgKg": 0.09,
+          "highMgKg": 0.5,
+          "typicalMrlMgKg": 20.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 16,
+          "samplePct": 16.2,
+          "medianMgKg": 0.15,
+          "highMgKg": 2.2,
+          "typicalMrlMgKg": 50.0
+        },
+        {
+          "name": "spinosad (sum)",
+          "detections": 10,
+          "samplePct": 10.1,
+          "medianMgKg": 0.15,
+          "highMgKg": 4.7,
+          "typicalMrlMgKg": 15.0
+        },
+        {
+          "name": "pyraclostrobin",
+          "detections": 8,
+          "samplePct": 8.1,
+          "medianMgKg": 0.08,
+          "highMgKg": 0.4,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 8,
+          "samplePct": 8.1,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 15.0
+        },
+        {
+          "name": "deltamethrin",
+          "detections": 8,
+          "samplePct": 8.1,
+          "medianMgKg": 0.045,
+          "highMgKg": 0.08,
+          "typicalMrlMgKg": 0.01
+        }
+      ]
+    },
+    {
+      "id": "ni-infant-food",
+      "canonicalId": "infant-food",
+      "name": "Infant food",
+      "category": "Baby food",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q3",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q3_2025_quarterly_data.ods",
+      "all": {
+        "samples": 12,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "conventional": {
+        "samples": 4,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "organic": {
+        "samples": 8,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "topResidues": []
+    },
+    {
+      "id": "ni-wine",
+      "canonicalId": "wine",
+      "name": "Wine",
+      "category": "Drinks & processed",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q2\u2013Q3",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q3_2025_quarterly_data.ods",
+      "all": {
+        "samples": 24,
+        "detectedPct": 50.0,
+        "residueFreePct": 50.0,
+        "multiplePct": 12.5,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.5,
+        "maxResidues": 4
+      },
+      "conventional": {
+        "samples": 23,
+        "detectedPct": 52.2,
+        "residueFreePct": 47.8,
+        "multiplePct": 13.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1,
+        "maxResidues": 4
+      },
+      "organic": {
+        "samples": 1,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "metalaxyl (sum)",
+          "detections": 5,
+          "samplePct": 20.8,
+          "medianMgKg": 0.017,
+          "highMgKg": 0.042,
+          "typicalMrlMgKg": 1.005
+        },
+        {
+          "name": "dimethomorph",
+          "detections": 4,
+          "samplePct": 16.7,
+          "medianMgKg": 0.012,
+          "highMgKg": 0.014,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "methoxyfenozide",
+          "detections": 3,
+          "samplePct": 12.5,
+          "medianMgKg": 0.034,
+          "highMgKg": 0.039,
+          "typicalMrlMgKg": 0.33
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 1,
+          "samplePct": 4.2,
+          "medianMgKg": 0.026,
+          "highMgKg": 0.026,
+          "typicalMrlMgKg": 195.0
+        },
+        {
+          "name": "fluopicolide",
+          "detections": 1,
+          "samplePct": 4.2,
+          "medianMgKg": 0.013,
+          "highMgKg": 0.013,
+          "typicalMrlMgKg": 0.62
+        },
+        {
+          "name": "boscalid",
+          "detections": 1,
+          "samplePct": 4.2,
+          "medianMgKg": 0.022,
+          "highMgKg": 0.022,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 1,
+          "samplePct": 4.2,
+          "medianMgKg": 0.013,
+          "highMgKg": 0.013,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "fluopyram",
+          "detections": 1,
+          "samplePct": 4.2,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.3
+        },
+        {
+          "name": "flutriafol",
+          "detections": 1,
+          "samplePct": 4.2,
+          "medianMgKg": 0.016,
+          "highMgKg": 0.016,
+          "typicalMrlMgKg": 1.5
+        }
+      ]
+    },
+    {
+      "id": "ni-apples",
+      "canonicalId": "apples",
+      "name": "Apples",
+      "category": "Fruit",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 41,
+        "detectedPct": 73.2,
+        "residueFreePct": 26.8,
+        "multiplePct": 56.1,
+        "aboveMrlPct": 2.4,
+        "medianResidues": 2,
+        "maxResidues": 5
+      },
+      "conventional": {
+        "samples": 33,
+        "detectedPct": 87.9,
+        "residueFreePct": 12.1,
+        "multiplePct": 69.7,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 2,
+        "maxResidues": 5
+      },
+      "organic": {
+        "samples": 8,
+        "detectedPct": 12.5,
+        "residueFreePct": 87.5,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 12.5,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "topResidues": [
+        {
+          "name": "fludioxonil",
+          "detections": 16,
+          "samplePct": 39.0,
+          "medianMgKg": 0.042,
+          "highMgKg": 1.5,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 10,
+          "samplePct": 24.4,
+          "medianMgKg": 0.037,
+          "highMgKg": 0.066,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "pyraclostrobin",
+          "detections": 10,
+          "samplePct": 24.4,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.031,
+          "typicalMrlMgKg": 0.5
+        },
+        {
+          "name": "pyrimethanil",
+          "detections": 8,
+          "samplePct": 19.5,
+          "medianMgKg": 0.053,
+          "highMgKg": 0.16,
+          "typicalMrlMgKg": 15.0
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 5,
+          "samplePct": 12.2,
+          "medianMgKg": 8.05,
+          "highMgKg": 11.19,
+          "typicalMrlMgKg": 151.0
+        },
+        {
+          "name": "acetamiprid",
+          "detections": 3,
+          "samplePct": 7.3,
+          "medianMgKg": 0.031,
+          "highMgKg": 0.092,
+          "typicalMrlMgKg": 0.4
+        },
+        {
+          "name": "dithiocarbamates",
+          "detections": 3,
+          "samplePct": 7.3,
+          "medianMgKg": 0.14,
+          "highMgKg": 0.63,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 3,
+          "samplePct": 7.3,
+          "medianMgKg": 0.012,
+          "highMgKg": 0.018,
+          "typicalMrlMgKg": 0.4
+        },
+        {
+          "name": "deltamethrin",
+          "detections": 2,
+          "samplePct": 4.9,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.017,
+          "typicalMrlMgKg": 0.2
+        },
+        {
+          "name": "captan (partial sum)",
+          "detections": 2,
+          "samplePct": 4.9,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.031,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "fenhexamid",
+          "detections": 1,
+          "samplePct": 2.4,
+          "medianMgKg": 0.026,
+          "highMgKg": 0.026,
+          "typicalMrlMgKg": 0.01
+        },
+        {
+          "name": "fluopyram",
+          "detections": 1,
+          "samplePct": 2.4,
+          "medianMgKg": 0.025,
+          "highMgKg": 0.025,
+          "typicalMrlMgKg": 0.8
+        }
+      ]
+    },
+    {
+      "id": "ni-figs",
+      "canonicalId": "figs",
+      "name": "Figs",
+      "category": "Fruit",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q3\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 19,
+        "detectedPct": 10.5,
+        "residueFreePct": 89.5,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 1
+      },
+      "conventional": {
+        "samples": 19,
+        "detectedPct": 10.5,
+        "residueFreePct": 89.5,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 1
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "cypermethrin (sum)",
+          "detections": 2,
+          "samplePct": 10.5,
+          "medianMgKg": 0.025,
+          "highMgKg": 0.026,
+          "typicalMrlMgKg": 0.05
+        }
+      ]
+    },
+    {
+      "id": "ni-grapes",
+      "canonicalId": "grapes",
+      "name": "Grapes",
+      "category": "Fruit",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 36,
+        "detectedPct": 91.7,
+        "residueFreePct": 8.3,
+        "multiplePct": 72.2,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 2.0,
+        "maxResidues": 8
+      },
+      "conventional": {
+        "samples": 33,
+        "detectedPct": 97.0,
+        "residueFreePct": 3.0,
+        "multiplePct": 78.8,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 3,
+        "maxResidues": 8
+      },
+      "organic": {
+        "samples": 3,
+        "detectedPct": 33.3,
+        "residueFreePct": 66.7,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 1
+      },
+      "topResidues": [
+        {
+          "name": "ethephon",
+          "detections": 11,
+          "samplePct": 30.6,
+          "medianMgKg": 0.15,
+          "highMgKg": 0.46,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 10,
+          "samplePct": 27.8,
+          "medianMgKg": 0.12,
+          "highMgKg": 0.49,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "cyprodinil",
+          "detections": 8,
+          "samplePct": 22.2,
+          "medianMgKg": 0.145,
+          "highMgKg": 2.2,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "fludioxonil",
+          "detections": 8,
+          "samplePct": 22.2,
+          "medianMgKg": 0.07,
+          "highMgKg": 0.34,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "fenhexamid",
+          "detections": 7,
+          "samplePct": 19.4,
+          "medianMgKg": 0.2,
+          "highMgKg": 0.51,
+          "typicalMrlMgKg": 15.0
+        },
+        {
+          "name": "fluopyram",
+          "detections": 5,
+          "samplePct": 13.9,
+          "medianMgKg": 0.18,
+          "highMgKg": 0.53,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 4,
+          "samplePct": 11.1,
+          "medianMgKg": 9.355,
+          "highMgKg": 18.16,
+          "typicalMrlMgKg": 100.0
+        },
+        {
+          "name": "metrafenone",
+          "detections": 4,
+          "samplePct": 11.1,
+          "medianMgKg": 0.056,
+          "highMgKg": 0.09,
+          "typicalMrlMgKg": 7.0
+        },
+        {
+          "name": "thiamethoxam",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.035,
+          "typicalMrlMgKg": 0.4
+        },
+        {
+          "name": "pyrimethanil",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.19,
+          "highMgKg": 2.0,
+          "typicalMrlMgKg": 6.0
+        },
+        {
+          "name": "etofenprox",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.15,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 4.0
+        },
+        {
+          "name": "cyazofamid",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.036,
+          "highMgKg": 0.04,
+          "typicalMrlMgKg": 2.0
+        }
+      ]
+    },
+    {
+      "id": "ni-mangoes",
+      "canonicalId": "mangoes",
+      "name": "Mangoes",
+      "category": "Fruit",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 36,
+        "detectedPct": 94.4,
+        "residueFreePct": 5.6,
+        "multiplePct": 41.7,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1.0,
+        "maxResidues": 3
+      },
+      "conventional": {
+        "samples": 36,
+        "detectedPct": 94.4,
+        "residueFreePct": 5.6,
+        "multiplePct": 41.7,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1.0,
+        "maxResidues": 3
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "fludioxonil",
+          "detections": 32,
+          "samplePct": 88.9,
+          "medianMgKg": 0.17,
+          "highMgKg": 0.31,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 17,
+          "samplePct": 47.2,
+          "medianMgKg": 0.19,
+          "highMgKg": 0.32,
+          "typicalMrlMgKg": 4.0
+        },
+        {
+          "name": "deltamethrin",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.011,
+          "highMgKg": 0.011,
+          "typicalMrlMgKg": 0.05
+        }
+      ]
+    },
+    {
+      "id": "ni-peaches-nectarines",
+      "canonicalId": "peaches-nectarines",
+      "name": "Peaches and nectarines",
+      "category": "Fruit",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 36,
+        "detectedPct": 80.6,
+        "residueFreePct": 19.4,
+        "multiplePct": 58.3,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 2.0,
+        "maxResidues": 6
+      },
+      "conventional": {
+        "samples": 35,
+        "detectedPct": 82.9,
+        "residueFreePct": 17.1,
+        "multiplePct": 60.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 2,
+        "maxResidues": 6
+      },
+      "organic": {
+        "samples": 1,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "fludioxonil",
+          "detections": 20,
+          "samplePct": 55.6,
+          "medianMgKg": 0.3,
+          "highMgKg": 0.77,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "pyrimethanil",
+          "detections": 10,
+          "samplePct": 27.8,
+          "medianMgKg": 0.4,
+          "highMgKg": 1.0,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "deltamethrin",
+          "detections": 6,
+          "samplePct": 16.7,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.026,
+          "typicalMrlMgKg": 0.15
+        },
+        {
+          "name": "fluopyram",
+          "detections": 4,
+          "samplePct": 11.1,
+          "medianMgKg": 0.058,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.026,
+          "highMgKg": 0.065,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.013,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "tebuconazole",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.049,
+          "highMgKg": 0.084,
+          "typicalMrlMgKg": 0.6
+        },
+        {
+          "name": "spinosad (sum)",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.014,
+          "highMgKg": 0.014,
+          "typicalMrlMgKg": 0.6
+        },
+        {
+          "name": "flonicamid (sum)",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.034,
+          "highMgKg": 0.056,
+          "typicalMrlMgKg": 0.4
+        },
+        {
+          "name": "acetamiprid",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.046,
+          "highMgKg": 0.069,
+          "typicalMrlMgKg": 0.2
+        },
+        {
+          "name": "chlorate",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.017,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.05
+        },
+        {
+          "name": "boscalid",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.018,
+          "highMgKg": 0.024,
+          "typicalMrlMgKg": 5.0
+        }
+      ]
+    },
+    {
+      "id": "ni-plums",
+      "canonicalId": "plums",
+      "name": "Plums",
+      "category": "Fruit",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q2\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 36,
+        "detectedPct": 66.7,
+        "residueFreePct": 33.3,
+        "multiplePct": 36.1,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1.0,
+        "maxResidues": 3
+      },
+      "conventional": {
+        "samples": 33,
+        "detectedPct": 72.7,
+        "residueFreePct": 27.3,
+        "multiplePct": 39.4,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1,
+        "maxResidues": 3
+      },
+      "organic": {
+        "samples": 3,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "fludioxonil",
+          "detections": 15,
+          "samplePct": 41.7,
+          "medianMgKg": 0.37,
+          "highMgKg": 1.3,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 6,
+          "samplePct": 16.7,
+          "medianMgKg": 0.011,
+          "highMgKg": 0.076,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 4,
+          "samplePct": 11.1,
+          "medianMgKg": 0.027,
+          "highMgKg": 0.42,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "cyprodinil",
+          "detections": 4,
+          "samplePct": 11.1,
+          "medianMgKg": 0.052,
+          "highMgKg": 0.12,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "pyrimethanil",
+          "detections": 4,
+          "samplePct": 11.1,
+          "medianMgKg": 0.195,
+          "highMgKg": 0.42,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.011,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "tebuconazole",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.122,
+          "highMgKg": 0.22,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "spirodiclofen",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.022,
+          "highMgKg": 0.022,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "dithiocarbamates",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.08,
+          "highMgKg": 0.08,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "pyraclostrobin",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.8
+        },
+        {
+          "name": "fenhexamid",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.012,
+          "highMgKg": 0.012,
+          "typicalMrlMgKg": 2.0
+        }
+      ]
+    },
+    {
+      "id": "ni-strawberries",
+      "canonicalId": "strawberries",
+      "name": "Strawberries",
+      "category": "Fruit",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 36,
+        "detectedPct": 91.7,
+        "residueFreePct": 8.3,
+        "multiplePct": 77.8,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 3.5,
+        "maxResidues": 9
+      },
+      "conventional": {
+        "samples": 35,
+        "detectedPct": 94.3,
+        "residueFreePct": 5.7,
+        "multiplePct": 80.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 4,
+        "maxResidues": 9
+      },
+      "organic": {
+        "samples": 1,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "fludioxonil",
+          "detections": 14,
+          "samplePct": 38.9,
+          "medianMgKg": 0.065,
+          "highMgKg": 0.47,
+          "typicalMrlMgKg": 4.0
+        },
+        {
+          "name": "fluopyram",
+          "detections": 12,
+          "samplePct": 33.3,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.16,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "bupirimate",
+          "detections": 11,
+          "samplePct": 30.6,
+          "medianMgKg": 0.041,
+          "highMgKg": 0.43,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 11,
+          "samplePct": 30.6,
+          "medianMgKg": 0.097,
+          "highMgKg": 0.77,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "fluxapyroxad",
+          "detections": 10,
+          "samplePct": 27.8,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.24,
+          "typicalMrlMgKg": 4.0
+        },
+        {
+          "name": "cyprodinil",
+          "detections": 9,
+          "samplePct": 25.0,
+          "medianMgKg": 0.23,
+          "highMgKg": 1.7,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 9,
+          "samplePct": 25.0,
+          "medianMgKg": 0.094,
+          "highMgKg": 0.61,
+          "typicalMrlMgKg": 6.0
+        },
+        {
+          "name": "difenoconazole",
+          "detections": 8,
+          "samplePct": 22.2,
+          "medianMgKg": 0.028,
+          "highMgKg": 0.52,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "pyraclostrobin",
+          "detections": 6,
+          "samplePct": 16.7,
+          "medianMgKg": 0.058,
+          "highMgKg": 0.11,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "fenhexamid",
+          "detections": 5,
+          "samplePct": 13.9,
+          "medianMgKg": 0.23,
+          "highMgKg": 1.5,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "trifloxystrobin",
+          "detections": 5,
+          "samplePct": 13.9,
+          "medianMgKg": 0.06,
+          "highMgKg": 0.074,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "spinosad (sum)",
+          "detections": 5,
+          "samplePct": 13.9,
+          "medianMgKg": 0.017,
+          "highMgKg": 0.042,
+          "typicalMrlMgKg": 0.3
+        }
+      ]
+    },
+    {
+      "id": "ni-tomatoes",
+      "canonicalId": "tomatoes",
+      "name": "Tomatoes",
+      "category": "Fruit",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 36,
+        "detectedPct": 33.3,
+        "residueFreePct": 66.7,
+        "multiplePct": 22.2,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 4
+      },
+      "conventional": {
+        "samples": 27,
+        "detectedPct": 44.4,
+        "residueFreePct": 55.6,
+        "multiplePct": 29.6,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 4
+      },
+      "organic": {
+        "samples": 9,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "difenoconazole",
+          "detections": 5,
+          "samplePct": 13.9,
+          "medianMgKg": 0.033,
+          "highMgKg": 0.092,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.036,
+          "highMgKg": 0.04,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "cyprodinil",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.029,
+          "highMgKg": 0.071,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "mandipropamid",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.033,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "fludioxonil",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.026,
+          "highMgKg": 0.037,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "fluopyram",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.033,
+          "typicalMrlMgKg": 0.5
+        },
+        {
+          "name": "spinosad (sum)",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.03,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "cyazofamid",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.029,
+          "highMgKg": 0.029,
+          "typicalMrlMgKg": 0.6
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.013,
+          "highMgKg": 0.013,
+          "typicalMrlMgKg": 0.6
+        },
+        {
+          "name": "flonicamid (sum)",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.049,
+          "highMgKg": 0.049,
+          "typicalMrlMgKg": 0.5
+        },
+        {
+          "name": "pyriproxifen",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.038,
+          "highMgKg": 0.038,
+          "typicalMrlMgKg": 0.7
+        }
+      ]
+    },
+    {
+      "id": "ni-barley",
+      "canonicalId": "barley",
+      "name": "Barley",
+      "category": "Grains & staples",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q2\u2013Q3",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q3_2025_quarterly_data.ods",
+      "all": {
+        "samples": 36,
+        "detectedPct": 86.1,
+        "residueFreePct": 13.9,
+        "multiplePct": 72.2,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 3.0,
+        "maxResidues": 3
+      },
+      "conventional": {
+        "samples": 35,
+        "detectedPct": 88.6,
+        "residueFreePct": 11.4,
+        "multiplePct": 74.3,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 3,
+        "maxResidues": 3
+      },
+      "organic": {
+        "samples": 1,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "chlormequat",
+          "detections": 30,
+          "samplePct": 83.3,
+          "medianMgKg": 0.046,
+          "highMgKg": 0.45,
+          "typicalMrlMgKg": 2.66
+        },
+        {
+          "name": "glyphosate",
+          "detections": 26,
+          "samplePct": 72.2,
+          "medianMgKg": 0.195,
+          "highMgKg": 0.66,
+          "typicalMrlMgKg": 20.0
+        },
+        {
+          "name": "mepiquat",
+          "detections": 13,
+          "samplePct": 36.1,
+          "medianMgKg": 0.088,
+          "highMgKg": 0.22,
+          "typicalMrlMgKg": 3.24
+        },
+        {
+          "name": "deltamethrin",
+          "detections": 9,
+          "samplePct": 25.0,
+          "medianMgKg": 0.013,
+          "highMgKg": 0.017,
+          "typicalMrlMgKg": 2.0
+        }
+      ]
+    },
+    {
+      "id": "ni-bread",
+      "canonicalId": "bread",
+      "name": "Bread",
+      "category": "Grains & staples",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q3\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 48,
+        "detectedPct": 93.8,
+        "residueFreePct": 6.2,
+        "multiplePct": 41.7,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1.0,
+        "maxResidues": 3
+      },
+      "conventional": {
+        "samples": 48,
+        "detectedPct": 93.8,
+        "residueFreePct": 6.2,
+        "multiplePct": 41.7,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1.0,
+        "maxResidues": 3
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "chlormequat",
+          "detections": 40,
+          "samplePct": 83.3,
+          "medianMgKg": 0.04,
+          "highMgKg": 0.09,
+          "typicalMrlMgKg": 2.1
+        },
+        {
+          "name": "deltamethrin",
+          "detections": 12,
+          "samplePct": 25.0,
+          "medianMgKg": 0.013,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.27
+        },
+        {
+          "name": "pirimiphos-methyl",
+          "detections": 9,
+          "samplePct": 18.8,
+          "medianMgKg": 0.012,
+          "highMgKg": 0.066,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "glyphosate",
+          "detections": 8,
+          "samplePct": 16.7,
+          "medianMgKg": 0.022,
+          "highMgKg": 0.074,
+          "typicalMrlMgKg": 6.6
+        }
+      ]
+    },
+    {
+      "id": "ni-gluten-free-bread",
+      "canonicalId": "gluten-free-bread",
+      "name": "Gluten-free bread",
+      "category": "Grains & staples",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q3\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 12,
+        "detectedPct": 16.7,
+        "residueFreePct": 83.3,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "conventional": {
+        "samples": 12,
+        "detectedPct": 16.7,
+        "residueFreePct": 83.3,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "glyphosate",
+          "detections": 1,
+          "samplePct": 8.3,
+          "medianMgKg": 0.034,
+          "highMgKg": 0.034,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "deltamethrin",
+          "detections": 1,
+          "samplePct": 8.3,
+          "medianMgKg": 0.034,
+          "highMgKg": 0.034,
+          "typicalMrlMgKg": null
+        }
+      ]
+    },
+    {
+      "id": "ni-oats",
+      "canonicalId": "oats",
+      "name": "Oats",
+      "category": "Grains & staples",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q2\u2013Q3",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q3_2025_quarterly_data.ods",
+      "all": {
+        "samples": 36,
+        "detectedPct": 50.0,
+        "residueFreePct": 50.0,
+        "multiplePct": 27.8,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.5,
+        "maxResidues": 4
+      },
+      "conventional": {
+        "samples": 15,
+        "detectedPct": 93.3,
+        "residueFreePct": 6.7,
+        "multiplePct": 60.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 2,
+        "maxResidues": 4
+      },
+      "organic": {
+        "samples": 21,
+        "detectedPct": 19.0,
+        "residueFreePct": 81.0,
+        "multiplePct": 4.8,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 2
+      },
+      "topResidues": [
+        {
+          "name": "chlormequat",
+          "detections": 18,
+          "samplePct": 50.0,
+          "medianMgKg": 1.195,
+          "highMgKg": 2.0,
+          "typicalMrlMgKg": 13.05
+        },
+        {
+          "name": "mepiquat",
+          "detections": 7,
+          "samplePct": 19.4,
+          "medianMgKg": 0.15,
+          "highMgKg": 0.36,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "glyphosate",
+          "detections": 5,
+          "samplePct": 13.9,
+          "medianMgKg": 0.11,
+          "highMgKg": 0.28,
+          "typicalMrlMgKg": 3.4
+        },
+        {
+          "name": "pirimiphos-methyl",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.014,
+          "highMgKg": 0.014,
+          "typicalMrlMgKg": 0.85
+        },
+        {
+          "name": "dithiocarbamates",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.062,
+          "highMgKg": 0.062,
+          "typicalMrlMgKg": 2.0
+        }
+      ]
+    },
+    {
+      "id": "ni-cheese",
+      "canonicalId": "cheese",
+      "name": "Cheese",
+      "category": "Meat, fish & dairy",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 48,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "conventional": {
+        "samples": 44,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "organic": {
+        "samples": 4,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "topResidues": []
+    },
+    {
+      "id": "ni-milk",
+      "canonicalId": "milk",
+      "name": "Milk",
+      "category": "Meat, fish & dairy",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q2\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 48,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "conventional": {
+        "samples": 29,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "organic": {
+        "samples": 19,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": []
+    },
+    {
+      "id": "ni-pork",
+      "canonicalId": "pork",
+      "name": "Pork",
+      "category": "Meat, fish & dairy",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 72,
+        "detectedPct": 4.2,
+        "residueFreePct": 95.8,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 1.4,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "conventional": {
+        "samples": 72,
+        "detectedPct": 4.2,
+        "residueFreePct": 95.8,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 1.4,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "BAC (sum)",
+          "detections": 2,
+          "samplePct": 2.8,
+          "medianMgKg": 0.128,
+          "highMgKg": 0.19,
+          "typicalMrlMgKg": 0.1
+        },
+        {
+          "name": "Copper",
+          "detections": 1,
+          "samplePct": 1.4,
+          "medianMgKg": 2.0,
+          "highMgKg": 2.0,
+          "typicalMrlMgKg": 5.0
+        }
+      ]
+    },
+    {
+      "id": "ni-tinned-fish",
+      "canonicalId": "tinned-fish",
+      "name": "Tinned fish",
+      "category": "Meat, fish & dairy",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 48,
+        "detectedPct": 20.8,
+        "residueFreePct": 79.2,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "conventional": {
+        "samples": 48,
+        "detectedPct": 20.8,
+        "residueFreePct": 79.2,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "DDT (sum)",
+          "detections": 7,
+          "samplePct": 14.6,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.016,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "BAC (sum)",
+          "detections": 2,
+          "samplePct": 4.2,
+          "medianMgKg": 0.175,
+          "highMgKg": 0.21,
+          "typicalMrlMgKg": null
+        },
+        {
+          "name": "pirimiphos-methyl",
+          "detections": 1,
+          "samplePct": 2.1,
+          "medianMgKg": 0.004,
+          "highMgKg": 0.004,
+          "typicalMrlMgKg": null
+        }
+      ]
+    },
+    {
+      "id": "ni-asparagus",
+      "canonicalId": "asparagus",
+      "name": "Asparagus",
+      "category": "Vegetables",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q2\u2013Q3",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q3_2025_quarterly_data.ods",
+      "all": {
+        "samples": 24,
+        "detectedPct": 8.3,
+        "residueFreePct": 91.7,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 8.3,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "conventional": {
+        "samples": 24,
+        "detectedPct": 8.3,
+        "residueFreePct": 91.7,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 8.3,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "linuron",
+          "detections": 1,
+          "samplePct": 4.2,
+          "medianMgKg": 0.023,
+          "highMgKg": 0.023,
+          "typicalMrlMgKg": 0.01
+        },
+        {
+          "name": "fludioxonil",
+          "detections": 1,
+          "samplePct": 4.2,
+          "medianMgKg": 0.011,
+          "highMgKg": 0.011,
+          "typicalMrlMgKg": 0.01
+        }
+      ]
+    },
+    {
+      "id": "ni-cabbage",
+      "canonicalId": "cabbage",
+      "name": "Cabbage",
+      "category": "Vegetables",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 36,
+        "detectedPct": 25.0,
+        "residueFreePct": 75.0,
+        "multiplePct": 5.6,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 5
+      },
+      "conventional": {
+        "samples": 32,
+        "detectedPct": 28.1,
+        "residueFreePct": 71.9,
+        "multiplePct": 6.2,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 5
+      },
+      "organic": {
+        "samples": 4,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "boscalid",
+          "detections": 4,
+          "samplePct": 11.1,
+          "medianMgKg": 0.035,
+          "highMgKg": 0.15,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "lambda-cyhalothrin",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.013,
+          "highMgKg": 0.04,
+          "typicalMrlMgKg": 0.15
+        },
+        {
+          "name": "tebuconazole",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.093,
+          "highMgKg": 0.12,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.055,
+          "highMgKg": 0.055,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "metalaxyl (sum)",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.052,
+          "highMgKg": 0.052,
+          "typicalMrlMgKg": 0.06
+        },
+        {
+          "name": "Pirimicarb",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.015,
+          "highMgKg": 0.015,
+          "typicalMrlMgKg": 0.5
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.016,
+          "highMgKg": 0.016,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "fluopicolide",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.018,
+          "highMgKg": 0.018,
+          "typicalMrlMgKg": 0.3
+        },
+        {
+          "name": "pyraclostrobin",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.4
+        },
+        {
+          "name": "prothioconazole",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.077,
+          "highMgKg": 0.077,
+          "typicalMrlMgKg": 0.09
+        }
+      ]
+    },
+    {
+      "id": "ni-green-beans",
+      "canonicalId": "green-beans",
+      "name": "Green beans",
+      "category": "Vegetables",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 36,
+        "detectedPct": 38.9,
+        "residueFreePct": 61.1,
+        "multiplePct": 19.4,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 6
+      },
+      "conventional": {
+        "samples": 35,
+        "detectedPct": 40.0,
+        "residueFreePct": 60.0,
+        "multiplePct": 20.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 6
+      },
+      "organic": {
+        "samples": 1,
+        "detectedPct": 0.0,
+        "residueFreePct": 100.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "azoxystrobin",
+          "detections": 7,
+          "samplePct": 19.4,
+          "medianMgKg": 0.014,
+          "highMgKg": 0.2,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 6,
+          "samplePct": 16.7,
+          "medianMgKg": 0.022,
+          "highMgKg": 0.063,
+          "typicalMrlMgKg": 0.8
+        },
+        {
+          "name": "boscalid",
+          "detections": 4,
+          "samplePct": 11.1,
+          "medianMgKg": 0.032,
+          "highMgKg": 0.081,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "lambda-cyhalothrin",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.027,
+          "highMgKg": 0.035,
+          "typicalMrlMgKg": 0.4
+        },
+        {
+          "name": "difenoconazole",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.017,
+          "highMgKg": 0.021,
+          "typicalMrlMgKg": 1.0
+        },
+        {
+          "name": "tebuconazole",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.035,
+          "highMgKg": 0.051,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "fluopyram",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.027,
+          "highMgKg": 0.027,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "flonicamid (partial sum)",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.047,
+          "highMgKg": 0.047,
+          "typicalMrlMgKg": 1.5
+        },
+        {
+          "name": "cypermethrin (sum)",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.026,
+          "highMgKg": 0.026,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "cyprodinil",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.01,
+          "highMgKg": 0.01,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "tau-fluvalinate",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.086,
+          "highMgKg": 0.086,
+          "typicalMrlMgKg": 0.6
+        },
+        {
+          "name": "fenhexamid",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 15.0
+        }
+      ]
+    },
+    {
+      "id": "ni-lettuce",
+      "canonicalId": "lettuce",
+      "name": "Lettuce",
+      "category": "Vegetables",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 36,
+        "detectedPct": 55.6,
+        "residueFreePct": 44.4,
+        "multiplePct": 38.9,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1.0,
+        "maxResidues": 9
+      },
+      "conventional": {
+        "samples": 32,
+        "detectedPct": 59.4,
+        "residueFreePct": 40.6,
+        "multiplePct": 43.8,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1.0,
+        "maxResidues": 9
+      },
+      "organic": {
+        "samples": 4,
+        "detectedPct": 25.0,
+        "residueFreePct": 75.0,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 1
+      },
+      "topResidues": [
+        {
+          "name": "cyprodinil",
+          "detections": 9,
+          "samplePct": 25.0,
+          "medianMgKg": 0.39,
+          "highMgKg": 0.74,
+          "typicalMrlMgKg": 15.0
+        },
+        {
+          "name": "chlorate",
+          "detections": 8,
+          "samplePct": 22.2,
+          "medianMgKg": 0.095,
+          "highMgKg": 0.39,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "mandipropamid",
+          "detections": 7,
+          "samplePct": 19.4,
+          "medianMgKg": 0.34,
+          "highMgKg": 0.73,
+          "typicalMrlMgKg": 25.0
+        },
+        {
+          "name": "fludioxonil",
+          "detections": 6,
+          "samplePct": 16.7,
+          "medianMgKg": 0.325,
+          "highMgKg": 0.62,
+          "typicalMrlMgKg": 40.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 5,
+          "samplePct": 13.9,
+          "medianMgKg": 0.12,
+          "highMgKg": 0.48,
+          "typicalMrlMgKg": 50.0
+        },
+        {
+          "name": "propyzamide",
+          "detections": 4,
+          "samplePct": 11.1,
+          "medianMgKg": 0.031,
+          "highMgKg": 0.062,
+          "typicalMrlMgKg": 0.6
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.022,
+          "highMgKg": 0.046,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "pyraclostrobin",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.037,
+          "highMgKg": 0.061,
+          "typicalMrlMgKg": 2.0
+        },
+        {
+          "name": "fenhexamid",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 2.6,
+          "highMgKg": 3.6,
+          "typicalMrlMgKg": 50.0
+        },
+        {
+          "name": "spinosad (sum)",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.021,
+          "highMgKg": 0.1,
+          "typicalMrlMgKg": 4.0
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 3,
+          "samplePct": 8.3,
+          "medianMgKg": 0.13,
+          "highMgKg": 0.13,
+          "typicalMrlMgKg": 20.0
+        },
+        {
+          "name": "difenoconazole",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.013,
+          "highMgKg": 0.016,
+          "typicalMrlMgKg": 4.0
+        }
+      ]
+    },
+    {
+      "id": "ni-potatoes",
+      "canonicalId": "potatoes",
+      "name": "Potatoes",
+      "category": "Vegetables",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 60,
+        "detectedPct": 20.0,
+        "residueFreePct": 80.0,
+        "multiplePct": 3.3,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0.0,
+        "maxResidues": 3
+      },
+      "conventional": {
+        "samples": 41,
+        "detectedPct": 26.8,
+        "residueFreePct": 73.2,
+        "multiplePct": 4.9,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 3
+      },
+      "organic": {
+        "samples": 19,
+        "detectedPct": 5.3,
+        "residueFreePct": 94.7,
+        "multiplePct": 0.0,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 0,
+        "maxResidues": 1
+      },
+      "topResidues": [
+        {
+          "name": "maleic hydrazide",
+          "detections": 5,
+          "samplePct": 8.3,
+          "medianMgKg": 15.4,
+          "highMgKg": 43.4,
+          "typicalMrlMgKg": 60.0
+        },
+        {
+          "name": "1,4-dimethylnaphthalene",
+          "detections": 4,
+          "samplePct": 6.7,
+          "medianMgKg": 0.174,
+          "highMgKg": 0.4,
+          "typicalMrlMgKg": 20.0
+        },
+        {
+          "name": "chlorate",
+          "detections": 2,
+          "samplePct": 3.3,
+          "medianMgKg": 0.035,
+          "highMgKg": 0.04,
+          "typicalMrlMgKg": 0.05
+        },
+        {
+          "name": "fluopicolide",
+          "detections": 2,
+          "samplePct": 3.3,
+          "medianMgKg": 0.013,
+          "highMgKg": 0.014,
+          "typicalMrlMgKg": 0.03
+        },
+        {
+          "name": "dithiocarbamates",
+          "detections": 1,
+          "samplePct": 1.7,
+          "medianMgKg": 0.13,
+          "highMgKg": 0.13,
+          "typicalMrlMgKg": 0.3
+        },
+        {
+          "name": "fluopyram",
+          "detections": 1,
+          "samplePct": 1.7,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.02,
+          "typicalMrlMgKg": 0.08
+        },
+        {
+          "name": "Glufosinate (sum)",
+          "detections": 1,
+          "samplePct": 1.7,
+          "medianMgKg": 0.24,
+          "highMgKg": 0.24,
+          "typicalMrlMgKg": 0.3
+        }
+      ]
+    },
+    {
+      "id": "ni-prepared-salad",
+      "canonicalId": "prepared-salad",
+      "name": "Prepared salad",
+      "category": "Vegetables",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q2\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 34,
+        "detectedPct": 100.0,
+        "residueFreePct": 0.0,
+        "multiplePct": 79.4,
+        "aboveMrlPct": 29.4,
+        "medianResidues": 3.0,
+        "maxResidues": 8
+      },
+      "conventional": {
+        "samples": 34,
+        "detectedPct": 100.0,
+        "residueFreePct": 0.0,
+        "multiplePct": 79.4,
+        "aboveMrlPct": 29.4,
+        "medianResidues": 3.0,
+        "maxResidues": 8
+      },
+      "organic": {
+        "samples": 0,
+        "detectedPct": 0,
+        "residueFreePct": 0,
+        "multiplePct": 0,
+        "aboveMrlPct": 0,
+        "medianResidues": 0,
+        "maxResidues": 0
+      },
+      "topResidues": [
+        {
+          "name": "chlorate",
+          "detections": 30,
+          "samplePct": 88.2,
+          "medianMgKg": 0.42,
+          "highMgKg": 1.7,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "mandipropamid",
+          "detections": 15,
+          "samplePct": 44.1,
+          "medianMgKg": 0.097,
+          "highMgKg": 0.41,
+          "typicalMrlMgKg": 25.0
+        },
+        {
+          "name": "boscalid",
+          "detections": 11,
+          "samplePct": 32.4,
+          "medianMgKg": 0.036,
+          "highMgKg": 0.74,
+          "typicalMrlMgKg": 50.0
+        },
+        {
+          "name": "dithiocarbamates",
+          "detections": 9,
+          "samplePct": 26.5,
+          "medianMgKg": 0.6,
+          "highMgKg": 1.9,
+          "typicalMrlMgKg": 5.0
+        },
+        {
+          "name": "acetamiprid",
+          "detections": 8,
+          "samplePct": 23.5,
+          "medianMgKg": 0.11,
+          "highMgKg": 0.24,
+          "typicalMrlMgKg": 3.0
+        },
+        {
+          "name": "fludioxonil",
+          "detections": 7,
+          "samplePct": 20.6,
+          "medianMgKg": 0.021,
+          "highMgKg": 0.27,
+          "typicalMrlMgKg": 20.0
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 5,
+          "samplePct": 14.7,
+          "medianMgKg": 0.042,
+          "highMgKg": 0.24,
+          "typicalMrlMgKg": 40.0
+        },
+        {
+          "name": "fluopyram",
+          "detections": 4,
+          "samplePct": 11.8,
+          "medianMgKg": 0.055,
+          "highMgKg": 1.1,
+          "typicalMrlMgKg": 20.0
+        },
+        {
+          "name": "pyraclostrobin",
+          "detections": 4,
+          "samplePct": 11.8,
+          "medianMgKg": 0.019,
+          "highMgKg": 0.034,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "spinosad (sum)",
+          "detections": 3,
+          "samplePct": 8.8,
+          "medianMgKg": 0.3,
+          "highMgKg": 0.45,
+          "typicalMrlMgKg": 15.0
+        },
+        {
+          "name": "lambda-cyhalothrin",
+          "detections": 3,
+          "samplePct": 8.8,
+          "medianMgKg": 0.019,
+          "highMgKg": 0.069,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "dimethomorph",
+          "detections": 3,
+          "samplePct": 8.8,
+          "medianMgKg": 0.033,
+          "highMgKg": 0.035,
+          "typicalMrlMgKg": 10.0
+        }
+      ]
+    },
+    {
+      "id": "ni-spinach",
+      "canonicalId": "spinach",
+      "name": "Spinach",
+      "category": "Vegetables",
+      "region": "NI",
+      "market": "United Kingdom",
+      "programmeId": "uk-prif",
+      "programme": "UK Pesticide Residues in Food monitoring",
+      "year": 2025,
+      "period": "Quarterly Q1\u2013Q4",
+      "sourceUrl": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/PRIF/Q4+ODS+Data+Table+2025.ods",
+      "all": {
+        "samples": 36,
+        "detectedPct": 80.6,
+        "residueFreePct": 19.4,
+        "multiplePct": 55.6,
+        "aboveMrlPct": 5.6,
+        "medianResidues": 2.0,
+        "maxResidues": 7
+      },
+      "conventional": {
+        "samples": 29,
+        "detectedPct": 79.3,
+        "residueFreePct": 20.7,
+        "multiplePct": 62.1,
+        "aboveMrlPct": 6.9,
+        "medianResidues": 2,
+        "maxResidues": 7
+      },
+      "organic": {
+        "samples": 7,
+        "detectedPct": 85.7,
+        "residueFreePct": 14.3,
+        "multiplePct": 28.6,
+        "aboveMrlPct": 0.0,
+        "medianResidues": 1,
+        "maxResidues": 2
+      },
+      "topResidues": [
+        {
+          "name": "mandipropamid",
+          "detections": 15,
+          "samplePct": 41.7,
+          "medianMgKg": 0.14,
+          "highMgKg": 3.8,
+          "typicalMrlMgKg": 25.0
+        },
+        {
+          "name": "chlorate",
+          "detections": 14,
+          "samplePct": 38.9,
+          "medianMgKg": 0.14,
+          "highMgKg": 1.5,
+          "typicalMrlMgKg": 0.7
+        },
+        {
+          "name": "boscalid",
+          "detections": 9,
+          "samplePct": 25.0,
+          "medianMgKg": 0.042,
+          "highMgKg": 0.48,
+          "typicalMrlMgKg": 50.0
+        },
+        {
+          "name": "spinosad (sum)",
+          "detections": 7,
+          "samplePct": 19.4,
+          "medianMgKg": 0.1,
+          "highMgKg": 0.58,
+          "typicalMrlMgKg": 4.0
+        },
+        {
+          "name": "lambda-cyhalothrin",
+          "detections": 6,
+          "samplePct": 16.7,
+          "medianMgKg": 0.019,
+          "highMgKg": 0.11,
+          "typicalMrlMgKg": 0.65
+        },
+        {
+          "name": "fluopicolide",
+          "detections": 4,
+          "samplePct": 11.1,
+          "medianMgKg": 0.02,
+          "highMgKg": 0.23,
+          "typicalMrlMgKg": 18.0
+        },
+        {
+          "name": "chlorantraniliprole",
+          "detections": 4,
+          "samplePct": 11.1,
+          "medianMgKg": 0.122,
+          "highMgKg": 0.22,
+          "typicalMrlMgKg": 40.0
+        },
+        {
+          "name": "lenacil",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.03,
+          "highMgKg": 0.041,
+          "typicalMrlMgKg": 0.1
+        },
+        {
+          "name": "azoxystrobin",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.05,
+          "highMgKg": 0.053,
+          "typicalMrlMgKg": 12.5
+        },
+        {
+          "name": "Fosetyl-Al (sum)",
+          "detections": 2,
+          "samplePct": 5.6,
+          "medianMgKg": 0.465,
+          "highMgKg": 0.59,
+          "typicalMrlMgKg": 75.0
+        },
+        {
+          "name": "pyraclostrobin",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.16,
+          "highMgKg": 0.16,
+          "typicalMrlMgKg": 10.0
+        },
+        {
+          "name": "fludioxonil",
+          "detections": 1,
+          "samplePct": 2.8,
+          "medianMgKg": 0.038,
+          "highMgKg": 0.038,
+          "typicalMrlMgKg": 30.0
+        }
+      ]
+    }
+  ]
+}

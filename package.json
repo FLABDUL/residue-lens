@@ -1,0 +1,45 @@
+{
+  "name": "pesticide-residue-comparison",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "test": "python -m unittest discover -s tests -v && node --test tests/database-target.test.mjs tests/priority-bands.test.mts tests/food-visuals.test.mts tests/residue-health.test.mts tests/residue-types.test.mts tests/service-worker.test.mjs tests/launch-routing.test.mts tests/support.test.mts tests/support-prompt.test.mts tests/analytics.test.mts",
+    "test:e2e": "playwright test --project=chromium-desktop --project=chromium-mobile --project=chromium-tablet",
+    "test:e2e:ci": "playwright test --project=chromium-desktop --project=chromium-mobile",
+    "test:e2e:cross-browser": "playwright test",
+    "test:e2e:account": "playwright test --config=playwright.account.config.ts",
+    "data:validate": "python scripts/validate_data.py",
+    "data:refresh": "python scripts/import_uk_ods.py",
+    "data:refresh:us": "python scripts/import_usda_pdp.py",
+    "data:refresh:eu": "python scripts/import_efsa_eumacp.py",
+    "data:combine": "python scripts/combine_datasets.py",
+    "art:generate": "node scripts/generate_food_art.mjs",
+    "check": "npm run data:validate && npm test && npm run lint && npm run typecheck && npm run build"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^7.8.4",
+    "@vercel/analytics": "^2.0.1",
+    "@vercel/speed-insights": "^2.0.0",
+    "next": "^16.3.4",
+    "postgres": "^3.4.9",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "stripe": "^22.6.1"
+  },
+  "devDependencies": {
+    "@clerk/testing": "^2.2.34",
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^16.3.4",
+    "typescript": "^5"
+  }
+}
