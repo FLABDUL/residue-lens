@@ -5,7 +5,7 @@ test("frozen comparison, cohort, shortlist and no backend POST", async ({ page }
   page.on("request", r => { if (r.method() !== "GET") posts.push(r.url()) })
   const errors = []
   page.on("pageerror", e => errors.push(e.message))
-  await page.goto("/")
+  await page.goto("./")
   await expect(page.getByRole("heading", { name: "Choose foods. Change the question." })).toBeVisible()
   await expect(page.getByText("Interactive archive")).toBeVisible()
   await page.getByLabel("Growing method").selectOption("organic")
@@ -24,7 +24,7 @@ test("frozen comparison, cohort, shortlist and no backend POST", async ({ page }
   expect(errors).toEqual([])
 })
 test("responsive mobile layout and evidence links", async ({page}) => {
-  await page.goto("/")
+  await page.goto("./")
   await expect(page.getByRole("link", {name: "Case study"})).toHaveAttribute("href", /madebyhakim/)
   for (const width of [1440, 390, 320]) {
     await page.setViewportSize({width,height:900})
