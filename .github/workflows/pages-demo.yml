@@ -1,0 +1,56 @@
+name: Verify and publish Residue Lens archive demo
+on:
+  pull_request:
+    paths: ['demo/**', '.github/workflows/pages-demo.yml']
+  push:
+    branches: [main]
+    paths: ['demo/**', '.github/workflows/pages-demo.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: demo
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - run: npm run build
+      - run: npx playwright install --with-deps chromium
+      - run: npm run test:e2e
+      - name: Confirm static output and archive metadata
+        run: |
+          test -s dist/index.html
+          grep -q 'noindex' dist/index.html
+          test -s dist/food-art/grapes.svg
+
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: verify
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: cd demo && npm install --no-audit --no-fund && npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: demo/dist
+      - uses: actions/deploy-pages@v4
+        id: deployment
