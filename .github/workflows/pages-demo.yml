@@ -32,6 +32,8 @@ jobs:
           test -s dist/food-art/grapes.svg
 
   deploy:
+    outputs:
+      page_url: ${{ steps.deployment.outputs.page_url }}
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     needs: verify
     runs-on: ubuntu-latest
@@ -54,3 +56,19 @@ jobs:
           path: demo/dist
       - uses: actions/deploy-pages@v4
         id: deployment
+
+  smoke-live:
+    name: Verify published GitHub Pages site
+    needs: deploy
+    runs-on: ubuntu-latest
+    env:
+      BASE_URL: ${{ needs.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: cd demo && npm install --no-audit --no-fund
+      - run: cd demo && npx playwright install --with-deps chromium
+      - name: Test published site in desktop and mobile Chromium
+        run: cd demo && npm run test:e2e
